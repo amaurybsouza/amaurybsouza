@@ -7,4 +7,4 @@
 - 💬 Ask me about Linux, Ansible, Shell Script and Zabbix
 - 📫 How to reach me: @amaurybsouza
 - 😄 Pronouns: Mr
-- ⚡ Fun fact: A funny CoffeeOps with my friends
+- ⚡ Fun fact: CoffeeOps with my friends
