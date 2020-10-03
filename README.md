@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello and welcome! 👋
 
 - 🔭 I’m currently working on IBM as Linux System Administrator
 - 🌱 I’m learning Linux, IaC (Terraform, Ansible), AWS, K8s
