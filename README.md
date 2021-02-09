@@ -4,6 +4,9 @@ I'm Senior Linux Administrator who is passionate about making infrastructure mor
 
 ### Find my around in the web 🌎
 
+- Sharing updates on [Linkedin](https://www.linkedin.com/in/amaurybsouza/)
+
+
 
 - 🔭 I’m currently working on IBM as Linux Administrator
 - 🌱 I’m learning Linux, IaC (Terraform, Ansible), AWS, K8s 
