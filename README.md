@@ -1,8 +1,6 @@
 ## Hey, I'm Amaury! 🐧 👨‍💻
 
-I'm Senior Linux Administrator who is passionate about making infrastructure 
-
-I'm enjoy working with include Linux (administration/networking), Scriping (Bash), Red Hat stack (Red Hat Linux, Ansible, Satellite 6), Hashicorp stack (Terraform, Consul, Nomad, Vagrant) and Amazon AWS (AWS CLI, EC2, S3, VPC, IAM, RDS).
+I'm Senior Linux Administrator who is passionate about making infrastructure. I'm enjoy working with Linux (```administration/networking```), Scriping (```Bash```), Red Hat stack (```Red Hat Linux```, ```Ansible```, ```Tower```, ```Satellite```), Hashicorp stack (```Terraform```, ```Consul```, ```Nomad```, ```Vagrant```) and Amazon AWS environment. My interest in the DevOps culture led me to launch Medium blog, to write stories about Linux, cloud and IaC to help all professionals who are starting in their IT journey.
 
 ## Find my around the web 🌎
 
