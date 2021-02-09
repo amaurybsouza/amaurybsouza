@@ -1,4 +1,4 @@
-![mascote](https://github.com/amaurybsouza/vivaolinux-contributions/blob/master/Shell%20scripts/linux.png) 
+![linux2.png](https://github.com/amaurybsouza/vivaolinux-contributions/tree/master/images) 
 
 
 ### Hello and welcome! 👋
