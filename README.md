@@ -4,15 +4,6 @@ I'm Senior Linux Administrator who is passionate about making infrastructure mor
 
 ### Find my around in the web 🌎
 
-- Sharing updates on [Linkedin](https://www.linkedin.com/in/amaurybsouza/)
-
-
-
-- 🔭 I’m currently working on IBM as Linux Administrator
-- 🌱 I’m learning Linux, IaC (Terraform, Ansible), AWS, K8s 
-- 👯 I’m looking to collaborate with meetups and tech events
-- 🤔 I’m looking for help with AWS, K8s, Terraform, Go
-- 💬 Ask me about Linux, Ansible, Shell Script and Zabbix
-- 📫 How to reach me: @amaurybsouza
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: CoffeeOps
+- Sharing updates on [Linkedin](https://www.linkedin.com/in/amaurybsouza/) 💻
+- Writing about DevOps, IaC and Cloud at [Medium](https://amaurybsouza.medium.com/) 🚀
+- Scripting on [Viva o Linux](https://www.vivaolinux.com.br/~amaurybsouza/scripts/)
