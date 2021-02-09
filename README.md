@@ -1,4 +1,4 @@
-![linux2.png](https://github.com/amaurybsouza/vivaolinux-contributions/tree/master/images) 
+![linux2.png](https://github.com/amaurybsouza/vivaolinux-contributions/blob/master/images/linux2.png) 
 
 
 ### Hello and welcome! 👋
