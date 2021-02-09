@@ -1,6 +1,8 @@
 ## Hey, I'm Amaury! 🐧 👨‍💻
 
-I'm Senior Linux Administrator who is passionate about making infrastructure more modern and agile
+I'm Senior Linux Administrator who is passionate about making infrastructure 
+
+I'm enjoy working with include Linux (administration/networking), Scriping (Bash), Red Hat stack (Red Hat Linux, Ansible, Satellite 6), Hashicorp stack (Terraform, Consul, Nomad, Vagrant) and Amazon AWS (AWS CLI, EC2, S3, VPC, IAM, RDS).
 
 ## Find my around the web 🌎
 
