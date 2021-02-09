@@ -1,4 +1,4 @@
-### Hey, I'm Amaury! 🐧
+### Hey, I'm Amaury! 🐧 👨‍💻
 
 - 🔭 I’m currently working on IBM as Linux Administrator
 - 🌱 I’m learning Linux, IaC (Terraform, Ansible), AWS, K8s 
