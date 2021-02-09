@@ -1,3 +1,6 @@
+![mascote](https://github.com/amaurybsouza/vivaolinux-contributions/blob/master/Shell%20scripts/linux.png) 
+
+
 ### Hello and welcome! 👋
 
 - 🔭 I’m currently working on IBM as Linux Administrator
