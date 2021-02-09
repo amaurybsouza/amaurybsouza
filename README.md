@@ -1,4 +1,4 @@
-### Hello and welcome! 👋
+### Hey, I'm Amaury B. Souza! 🐧
 
 - 🔭 I’m currently working on IBM as Linux Administrator
 - 🌱 I’m learning Linux, IaC (Terraform, Ansible), AWS, K8s 
