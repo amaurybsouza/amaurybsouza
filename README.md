@@ -5,10 +5,6 @@ I'm Senior Linux Administrator who is passionate about making infrastructure mor
 ### Find my around in the web 🌎
 
 
-
-
-
-
 - 🔭 I’m currently working on IBM as Linux Administrator
 - 🌱 I’m learning Linux, IaC (Terraform, Ansible), AWS, K8s 
 - 👯 I’m looking to collaborate with meetups and tech events
