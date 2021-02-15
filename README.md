@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amaurybsouza)](https://github.com/amaurybsouza)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amaurybsouza/)](https://www.linkedin.com/in/amaurybsouza/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amaurybsouza)](https://twitter.com/amaurybsouza)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white=https://amaurybsouza.medium.com/)](https://amaurybsouza.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&labelColor=1ca0f1&logo=medium&logoColor=white&link=https://amaurybsouza.medium.com/)](https://amaurybsouza.medium.com/)
 
 ### About me
 I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
