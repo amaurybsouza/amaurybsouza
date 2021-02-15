@@ -6,8 +6,11 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white=https://amaurybsouza.medium.com/)](https://amaurybsouza.medium.com/)
 
 ### About me
-I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
-
-- [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
-- [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.
-- [Website](https://fagnerpsantos.dev/) 💻 - Working on it.
+- 🔭 I’m currently working on IBM as Linux Administrator
+- 🌱 I’m learning Linux, IaC (Terraform, Ansible), AWS, K8s 
+- 👯 I’m looking to collaborate with meetups and tech events
+- 🤔 I’m looking for help with AWS, K8s, Terraform, Go
+- 💬 Ask me about Linux, Ansible, Shell Script and Zabbix
+- 📫 How to reach me: @amaurybsouza
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: CoffeeOps
