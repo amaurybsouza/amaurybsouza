@@ -1,5 +1,3 @@
-# Hi, I'm Amaury! :D
-
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/amaurybsouza)](https://github.com/amaurybsouza)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/amaurybsouza/)](https://www.linkedin.com/in/amaurybsouza/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white=https://https://twitter.com/amaurybsouza)](https://twitter.com/amaurybsouza)
