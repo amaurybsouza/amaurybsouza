@@ -1,3 +1,5 @@
+![vim1](https://github.com/amaurybsouza/vivaolinux-contributions/blob/master/images/vim1.png)
+
 ## Hi, there! 👨‍💻
 - 🔭 I’m currently working on IBM as Linux Administrator
 - 🌱 I’m learning Linux, IaC (Terraform, Ansible), AWS, K8s 
