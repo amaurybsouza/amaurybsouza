@@ -4,7 +4,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white=https://amaurybsouza.medium.com/)](https://amaurybsouza.medium.com/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white=https://t.me/amaurybsouza)](https://t.me/amaurybsouza)
 
-## About me
+# About me
 - 🔭 I’m currently working on IBM as Linux Administrator
 - 🌱 I’m learning Linux, IaC (Terraform, Ansible), AWS, K8s 
 - 👯 I’m looking to collaborate with meetups and tech events
