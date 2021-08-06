@@ -1,8 +1,7 @@
 ## Hi, there! 👨‍💻
-- 🔭 Currently working on @IBM as Senior Linux Administrator
-- 🌱 I’m learning Linux, IaC (Terraform, Ansible), AWS, K8s 
-- 👯 I’m looking to collaborate with meetups and tech events
-- 🤔 I’m looking for help with AWS, K8s, Terraform, Go
+- 👨‍💻 Currently working on @IBM as Senior Linux Administrator
+- 📚 Learning IaC (Terraform, Ansible), AWS practices and K8s 
+- 👯 Looking to collaborate with meetups and tech events
 - 🚀 I like to talk about #sre, #cloud, #linux, #devops and #automation on https://amaurybsouza.medium.com/
 
 <a href="https://github.com/amaurybsouza"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>
