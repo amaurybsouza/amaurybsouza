@@ -1,4 +1,4 @@
-## Hi, there! 👨‍💻
+## Hey 👨‍💻
 - 👨‍💻 Currently working on @IBM as Senior Linux Administrator
 - 📚 Learning IaC (Terraform, Ansible), AWS practices and K8s 
 - 👯 Looking to collaborate with meetups and tech events
