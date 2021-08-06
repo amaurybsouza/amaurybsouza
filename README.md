@@ -1,13 +1,9 @@
 ## Hi, there! 👨‍💻
-- 🔭 I’m currently working on IBM supporting Hybrid Cloud Services
+- 🔭 Currently working on @IBM as Senior Linux Administrator
 - 🌱 I’m learning Linux, IaC (Terraform, Ansible), AWS, K8s 
 - 👯 I’m looking to collaborate with meetups and tech events
 - 🤔 I’m looking for help with AWS, K8s, Terraform, Go
-- 💬 Ask me about Linux, Ansible, Shell Script and Zabbix
-- 📫 How to reach me: amaurybsouza@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Coffee
-🚀 I like to talk about Linux, DevOps, RSE, Cloud and automation on https://amaurybsouza.medium.com/
+- 🚀 I like to talk about Linux, DevOps, RSE, Cloud and automation on https://amaurybsouza.medium.com/
 
 <a href="https://github.com/amaurybsouza"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>
 <a href="https://twitter.com/amaurybsouza"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/>
