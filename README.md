@@ -7,6 +7,7 @@
 - 📫 How to reach me: amaurybsouza@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Coffee
+🚀 I like to talk about Linux, DevOps, RSE, Cloud and automation on https://amaurybsouza.medium.com/
 
 <a href="https://github.com/amaurybsouza"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>
 <a href="https://twitter.com/amaurybsouza"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/>
