@@ -1,5 +1,5 @@
 ## Hey 👨‍💻
-- 👨‍💻 Currently working on @IBM as Senior Linux Administrator
+- 👨‍💻 Currently working at @IBM as Senior Linux Administrator
 - 📚 Learning IaC (Terraform, Ansible), AWS practices and K8s 
 - 👯 Looking to collaborate with meetups and tech events
 - 🚀 #sre, #cloud, #linux, #devops on https://amaurybsouza.medium.com/
