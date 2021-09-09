@@ -3,7 +3,7 @@ My name is Amaury Borges Souza from Brazil (🇧🇷). I've been working as Linu
 
 - 📚 Learning IaC (Terraform, Ansible), AWS practices and K8s 
 - 👯 Looking to collaborate with meetups and tech events
-- 🚀 #sre, #cloud, #linux, #devops on https://amaurybsouza.medium.com/
+- 🚀 #sre #cloud #linux #devops #aws #zabbix #docker #newrelic
 
 <a href="https://github.com/amaurybsouza"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>
 <a href="https://twitter.com/amaurybsouza_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/>
