@@ -1,5 +1,5 @@
 ## Hey there 👨‍💻
-My name is Amaury Borges Souza from Brazil (🇧🇷). I've been working as Linux System Administrator since 2014 and currently I'm Senior Linux Administrator at Kyndryl. I'm passionate about open source projects, so I've created some projects on Github using Terraform, Ansible, AWS, Zabbix and I've always loved to produce a lot of content during my career.
+My name is Amaury Borges Souza from Brazil (🇧🇷). I've been working as Linux System Administrator since 2014 and currently I'm Senior Linux Administrator at Kyndryl. I'm passionate about open source projects, so I've created some projects on Github using Terraform, Ansible, AWS, Zabbix and I've always loved to produce a lot of content during my career on my blog at Medium: https://amaurybsouza.medium.com/
 
 - 📚 Learning IaC (Terraform, Ansible), AWS practices and K8s 
 - 👯 Looking to collaborate with meetups and tech events
