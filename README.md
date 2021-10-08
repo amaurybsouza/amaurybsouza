@@ -5,8 +5,6 @@
 - 👯 Looking to collaborate with meetups, tech events and open-sources projects
 - 🚀 #SRE #Cloud #DevOps #Linux on https://amauryborgesouza.medium.com/
 - 💬 Ask me about SRE, DevOps, Linux and automations
-- 📧 How to reach me: amauryborgesouza@gmail.com
-- 😄 Pronouns: He/Him
 
 <a href="https://github.com/amaurybsouza"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /><a/>
 <a href="https://twitter.com/amaurybsouza_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/>
