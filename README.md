@@ -1,5 +1,4 @@
-## Hey there 👨‍💻
-I'm a Senior Linux Administrator that is really curious about DevOps culture and infrastructure. I love programming, writing, speaking and traveling. I'm passionate about open source projects, so I've created some projects on Github using Linux, Terraform, Ansible, AWS, Zabbix, Grafana and other DevOps tools and I've always loved to produce a lot of content during my career.
+## Here is what I'm working on! 👨‍💻
 
 - 📚 Learning IaC (Terraform, Ansible), AWS practices and K8s 
 - 👯 Looking to collaborate with meetups and tech events
