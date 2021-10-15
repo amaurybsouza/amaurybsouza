@@ -1,6 +1,6 @@
 ## Here is what I'm working on! 👨‍💻
 
-- 👨‍💻 I'm currently working on Kyndryl as Senior Linux Administrator a.k.a IE
+- 👨‍💻 I'm currently working on Kyndryl as Senior Linux Administrator 
 - 📚 I'm currently learning AWS Cloud, Docker (Compose, Swarm) and Kubernetes
 - 👯 Looking to collaborate with meetups, tech events and open-sources projects
 - 🚀 #SRE #Cloud #DevOps #Linux on https://amauryborgesouza.medium.com/
