@@ -1,4 +1,4 @@
-## Here is what I'm working on! 👨‍💻
+## Hey, I'm Amaury! 👨‍💻
 
 - 👨‍💻 I'm currently working on Kyndryl as Senior Linux Administrator 
 - 📚 I'm currently learning AWS Cloud, Docker (Compose, Swarm) and Kubernetes
