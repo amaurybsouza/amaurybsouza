@@ -1,11 +1,5 @@
 ## Hey, I'm Amaury! 👨‍💻
 
-- 👨‍💻 I'm currently working on Kyndryl as Senior Linux Administrator 
-- 📚 I'm currently learning AWS Cloud, Docker (Compose, Swarm) and Kubernetes
-- 👯 Looking to collaborate with meetups, tech events and open-sources projects
-- 🚀 #SRE #Cloud #DevOps #Linux on https://amauryborgesouza.medium.com/
-- 💬 Ask me about SRE, DevOps, Linux and automations
-
 <a href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /><a/>
 <a href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
 <a href="https://amauryborgesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/>
