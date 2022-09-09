@@ -1,5 +1,5 @@
 <p align="">
-<img src="ansible.png" alt="drawing" width="750"/>
+<img src="ansible.png" alt="drawing" width="800"/>
 </p>
 
 <a href="https://amaurybsouza.github.io/portfolio/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/><a 
