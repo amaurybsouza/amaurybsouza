@@ -11,7 +11,7 @@ href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.i
 My name is Amaury (he/his/him). I'm a DevOps Engineer from Brazil, currently working in São Paulo at @ibm! I'm working mostly with DevOps tools like, containers Docker, Kubernetes Ansible, Terraform, GH Actions (CI/CD) along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm a Ops since 2013! Also, I love to teach and learn!
   
   -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [getrevue.co](https://www.getrevue.co/profile/amaurybsouza_) and would love if you joined it!
-  - 📚 If you enjoy read tech contents make sure you have check my [Medium](https://amaurybsouza.medium.com/) articles, I always updating it.
+  - 📚 If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) articles, I always updating it.
   - 👨‍💻 I have several of my personal projects on Github, approaching different tools like Linux, Terraform, Ansible, K8s.
   - 📲 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
 
