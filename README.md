@@ -12,6 +12,7 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
   
   -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [getrevue.co](https://www.getrevue.co/profile/amaurybsouza_) and would love if you joined it!
   - 📚 If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) articles, I always updating it.
+  - 📆 Giving back to the community, I'm a organizer DevOps related events ([“DevOpsDays”](https://devopsdays.org/) & “CoffeeOps”).
   - 👨‍💻 I have several of my personal projects on GitHub, approaching different tools like Linux, Terraform, Ansible, K8s.
   - 📲 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
 
