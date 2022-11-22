@@ -16,13 +16,19 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
   - 👨‍💻 I have several of my personal projects on GitHub, approaching different tools like Linux, Terraform, Ansible, K8s.
   - 📲 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
   
-## Latest posts
+## Latest posts📚
   
 - [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
 - [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 - [Using the GitHub Actions to comment Pull Request](https://amaurybsouza.medium.com/using-the-github-actions-to-comment-pull-request-9ad75575caaf)
 - [Primeiros passos com Helm no kubernetes](https://amaurybsouza.medium.com/primeiros-passos-com-helm-no-kubernetes-714ae017c685)
 - [GitOps: Futuro do DevOps?](https://amaurybsouza.medium.com/gitops-futuro-do-devops-f0486e1d6e7)
+  
+## Recent Open-Source projects💜
+  
+- [DevOps Days Campinas organizer](https://devopsdays.org/events/2019-campinas/welcome/)
+- [DevOps Glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary)
+- [Kubernetes in PROD](https://github.com/Kubernetes-Tutorialz/kubernetes-in-prod)
 
 
 
