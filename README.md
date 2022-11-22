@@ -30,7 +30,7 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 - *GitHub*: [DevOps Glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary), [DevOps Cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet)
 - *DevOps Newsletter*: [Já conhece o Kind?](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092)
 - *Viva o LINUX*: [Prioridade de processos Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/)
-- *My Talks*: [Speaker Deck Profile](https://speakerdeck.com/amaurybsouza)
+- *Speaker Deck*: [Awesome Tech Talks](https://speakerdeck.com/amaurybsouza)
 
 
 
