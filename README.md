@@ -24,7 +24,7 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 - [Primeiros passos com Helm no kubernetes](https://amaurybsouza.medium.com/primeiros-passos-com-helm-no-kubernetes-714ae017c685)
 - [GitOps: Futuro do DevOps?](https://amaurybsouza.medium.com/gitops-futuro-do-devops-f0486e1d6e7)
   
-## Recent Open-Source projects💜
+## Open-Source projects💜
   
 - *Community*: [DevOps Days Campinas organizer](https://devopsdays.org/events/2019-campinas/welcome/)
 - *GitHub*: [DevOps Glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary), [DevOps Cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet)
