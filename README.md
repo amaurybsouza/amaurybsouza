@@ -27,7 +27,7 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 ## Recent Open-Source projects💜
   
 - *Community*: [DevOps Days Campinas organizer](https://devopsdays.org/events/2019-campinas/welcome/)
-- *GitHub*: [DevOps Glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary)
+- *GitHub*: [DevOps Glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary), [DevOps Cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet)
 - *DevOps Newsletter*: [Já conhece o Kind?](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092)
 - *Viva o LINUX*: [Prioridade de processos Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/)
 - *Shell Script*: [Backup de diretórios do Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/)
