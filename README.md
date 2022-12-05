@@ -24,13 +24,11 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 - [Primeiros passos com Helm no kubernetes](https://amaurybsouza.medium.com/primeiros-passos-com-helm-no-kubernetes-714ae017c685)
 - [GitOps: Futuro do DevOps?](https://amaurybsouza.medium.com/gitops-futuro-do-devops-f0486e1d6e7)
   
-## Open-Source projects💜
-  
-- *Organizer*: [DevOps Days Campinas 2023](https://devopsdays.org/events/2019-campinas/welcome/)
-- *GitHub*: [DevOps Glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary), [DevOps Cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet)
-- *DevOps Newsletter*: [Já conhece o Kind?](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092)
-- *Viva o LINUX*: [Prioridade de processos Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/)
-- *Speaker Deck*: [Awesome Tech Talks](https://speakerdeck.com/amaurybsouza)
+## DevOps newsletter💜
 
-
+- Dec 05, 2022: [LINUXtips oferecendo curso de LINUX na FAIXA](https://www.getrevue.co/profile/amaurybsouza_/issues/linuxtips-oferecendo-curso-de-linux-na-faixa-1483202) #21
+- Nov 30, 2022: [Médias empresas brasileiras estarão no foco da AWS em 2023](https://www.getrevue.co/profile/amaurybsouza_/issues/medias-empresas-brasileiras-estarao-no-foco-da-aws-em-2023-1480440) #20
+- Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://www.getrevue.co/profile/amaurybsouza_/issues/platform-engineering-pode-vir-mas-ansible-e-shell-script-nunca-saira-de-moda-1459374) #18
+- Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
+- Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092) #16
 
