@@ -30,7 +30,7 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 - Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092) #16
   
-## Up-to-date Courses & Events👨‍💻
+## Courses & Events👨‍💻
 - Dec 10, 2022 **[DevOps Days]**: [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/)
 - Dec 07, 2022 **[Udemy]**: [Learning Terraform](https://lnkd.in/d_rKTMgK)
 - Sep 20, 2022 **[Udemy]**: [Azure Advanced Administration](https://www.udemy.com/certificate/UC-29b6a931-c337-4971-b359-4bf4c10eb3c8/)
