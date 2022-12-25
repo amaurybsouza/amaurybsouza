@@ -31,9 +31,9 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092) #16
   
 ## Up-to-date Courses & Events👨‍💻
-- Dec 10, 2022: [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/)
-- Dec 07, 2022: [Learning Terraform](https://lnkd.in/d_rKTMgK)
-- Sep 20, 2022: [Azure Advanced Administration](https://www.udemy.com/certificate/UC-29b6a931-c337-4971-b359-4bf4c10eb3c8/)
-- May 20, 2022: [Prometheus & Grafana Monitoring](http://ude.my/UC-df6b2df5-9e82-455b-a7e4-c646a1c6c014)
-- Dec 01, 2021: [Terraform Practice with Digital Ocean](https://www.udemy.com/certificate/UC-afe8fa93-e550-40e7-99ea-81d8d96b18ff/)
+- Dec 10, 2022 [DevOps Days]: [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/)
+- Dec 07, 2022 [Udemy]: [Learning Terraform](https://lnkd.in/d_rKTMgK)
+- Sep 20, 2022 [Udemy]: [Azure Advanced Administration](https://www.udemy.com/certificate/UC-29b6a931-c337-4971-b359-4bf4c10eb3c8/)
+- May 20, 2022 [Udemy]: [Prometheus & Grafana Monitoring](http://ude.my/UC-df6b2df5-9e82-455b-a7e4-c646a1c6c014)
+- Dec 01, 2021 [Udemy]: [Terraform Practice with Digital Ocean](https://www.udemy.com/certificate/UC-afe8fa93-e550-40e7-99ea-81d8d96b18ff/)
 
