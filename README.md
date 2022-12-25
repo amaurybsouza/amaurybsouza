@@ -31,4 +31,8 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 - Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://www.getrevue.co/profile/amaurybsouza_/issues/platform-engineering-pode-vir-mas-ansible-e-shell-script-nunca-saira-de-moda-1459374) #18
 - Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092) #16
+  
+## Up-to-date Courses & Events
+
+- Dec 07, 2022: [Learning Terraform](https://lnkd.in/d_rKTMgK)
 
