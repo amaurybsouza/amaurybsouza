@@ -35,4 +35,5 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 ## Up-to-date Courses & Events
 
 - Dec 07, 2022: [Learning Terraform](https://lnkd.in/d_rKTMgK)
+- Sep 20, 2022: [Azure Advanced Administration](https://www.udemy.com/certificate/UC-29b6a931-c337-4971-b359-4bf4c10eb3c8/)
 
