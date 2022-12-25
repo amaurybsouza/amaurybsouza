@@ -17,7 +17,6 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
   - 📲 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
   
 ## Medium Latest Posts📚
-
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 - Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
@@ -25,15 +24,14 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 - Jul 25, 2022: [HashiTalks: Brasil](https://amaurybsouza.medium.com/hashitalks-brasil-fb6a85dd22ce)
   
 ## DevOps Weekly Newsletter✍️
-
 - Dec 05, 2022: [LINUXtips oferecendo curso de LINUX na FAIXA](https://www.getrevue.co/profile/amaurybsouza_/issues/linuxtips-oferecendo-curso-de-linux-na-faixa-1483202) #21
 - Nov 30, 2022: [Médias empresas brasileiras estarão no foco da AWS em 2023](https://www.getrevue.co/profile/amaurybsouza_/issues/medias-empresas-brasileiras-estarao-no-foco-da-aws-em-2023-1480440) #20
 - Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://www.getrevue.co/profile/amaurybsouza_/issues/platform-engineering-pode-vir-mas-ansible-e-shell-script-nunca-saira-de-moda-1459374) #18
 - Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092) #16
   
-## Up-to-date Courses & Events
-
+## Up-to-date Courses & Events👨‍💻
 - Dec 07, 2022: [Learning Terraform](https://lnkd.in/d_rKTMgK)
 - Sep 20, 2022: [Azure Advanced Administration](https://www.udemy.com/certificate/UC-29b6a931-c337-4971-b359-4bf4c10eb3c8/)
+- Dec 01, 2021: [Terraform Practice with Digital Ocean](https://www.udemy.com/certificate/UC-afe8fa93-e550-40e7-99ea-81d8d96b18ff/)
 
