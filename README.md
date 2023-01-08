@@ -17,7 +17,7 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
   - 📲 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
   
 ## I'm Currently Working on📚 
-- Building a home lab with K8s, Kind and Terraform
+- Building a home lab with [K8s](https://kubernetes.io/), [Kind](https://kind.sigs.k8s.io/) and [Terraform](https://www.terraform.io/).
 - Automating everything of my lab with Ansible
 - Creating the CI/CD pipeline to run my IaC code
     
