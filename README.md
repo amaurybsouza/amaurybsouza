@@ -18,7 +18,7 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
   
 ## I'm Currently Working on📚 
 - Building a home lab with [K8s](https://kubernetes.io/), [Kind](https://kind.sigs.k8s.io/) and [Terraform](https://www.terraform.io/).
-- Automating everything of my lab with Ansible
+- Automating everything of my lab with [Ansible](https://www.ansible.com/)
 - Creating the CI/CD pipeline to run my IaC code
     
 ## Medium Latest Postsℹ️
