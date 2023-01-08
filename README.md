@@ -20,7 +20,7 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 - Building a home lab with [K8s](https://kubernetes.io/), [Kind](https://kind.sigs.k8s.io/) and [Terraform](https://www.terraform.io/).
 - Automating everything of my lab with [Ansible](https://www.ansible.com/)
 - Creating the CI/CD pipeline to run my IaC code
-- Checking in this moment the Terraform Associate.
+- Checking in this moment the [Terraform Associate](https://www.hashicorp.com/certification/terraform-associate).
     
 ## Medium Latest Postsℹ️
 - Jan 08, 2023: [Como está o seu LinkedIn para 2023?](https://amaurybsouza.medium.com/como-est%C3%A1-o-seu-linkedin-para-2023-90d21ac3dc11)
