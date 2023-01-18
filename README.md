@@ -17,11 +17,11 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
 
 ## Latest Medium Postsℹ️
+- Jan 16, 2023: [Sistema de gerenciamento de logs do Linux](https://amaurybsouza.medium.com/sistema-de-gerenciamento-de-logs-do-linux-490ddfd49543)
 - Jan 08, 2023: [Como está o seu LinkedIn para 2023?](https://amaurybsouza.medium.com/como-est%C3%A1-o-seu-linkedin-para-2023-90d21ac3dc11)
 - Jan 05, 2023 [terraform fmt para formatar o código do Terraform da sua IaC](https://amaurybsouza.medium.com/hashpost-tf-usando-o-famosinho-terraform-fmt-para-formatar-o-c%C3%B3digo-do-terraform-da-sua-iac-3d4fa35b32f0)
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
-- Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
   
 ## DevOps Weekly Newsletter✍️
 - Dec 05, 2022: [LINUXtips oferecendo curso de LINUX na FAIXA](https://www.getrevue.co/profile/amaurybsouza_/issues/linuxtips-oferecendo-curso-de-linux-na-faixa-1483202) #21
