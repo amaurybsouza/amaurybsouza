@@ -8,7 +8,7 @@ href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.i
   
 My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, currently working remoting at [Kyndryl](https://www.kyndryl.com/us/en)! I'm working mostly with DevOps tools like, Docker containers, Kubernetes Ansible, Terraform, GH Actions (CI/CD), along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm a Ops since 2013! Also, I love to sharing, teach and learn everthing! 🚀📚💻
   
-  -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [getrevue.co](https://www.getrevue.co/profile/amaurybsouza_) and would love if you joined it!
+  -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [substack](https://amauryborgessouza.substack.com/) and would love if you joined it!
   - 📚 If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) articles, I always updating it.
   - 📆 Giving back to the community, I'm a organizer DevOps related events ([“DevOpsDays”](https://devopsdays.org/) & “CoffeeOps”).
   - :octocat: I have several of my personal projects on GitHub, approaching different tools like Linux, Terraform, Ansible, K8s.
@@ -17,18 +17,18 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
 
 ## Latest Medium Postsℹ️
+- Jan 19,2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
 - Jan 16, 2023: [Sistema de gerenciamento de logs do Linux](https://amaurybsouza.medium.com/sistema-de-gerenciamento-de-logs-do-linux-490ddfd49543)
 - Jan 08, 2023: [Como está o seu LinkedIn para 2023?](https://amaurybsouza.medium.com/como-est%C3%A1-o-seu-linkedin-para-2023-90d21ac3dc11)
 - Jan 05, 2023 [terraform fmt para formatar o código do Terraform da sua IaC](https://amaurybsouza.medium.com/hashpost-tf-usando-o-famosinho-terraform-fmt-para-formatar-o-c%C3%B3digo-do-terraform-da-sua-iac-3d4fa35b32f0)
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
-- Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
   
 ## DevOps Weekly Newsletter✍️
+- Jan 20, 2023: [#TDC2023: Bora??](https://amauryborgessouza.substack.com/p/tdc2023-bora) #1
 - Dec 05, 2022: [LINUXtips oferecendo curso de LINUX na FAIXA](https://www.getrevue.co/profile/amaurybsouza_/issues/linuxtips-oferecendo-curso-de-linux-na-faixa-1483202) #21
 - Nov 30, 2022: [Médias empresas brasileiras estarão no foco da AWS em 2023](https://www.getrevue.co/profile/amaurybsouza_/issues/medias-empresas-brasileiras-estarao-no-foco-da-aws-em-2023-1480440) #20
 - Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://www.getrevue.co/profile/amaurybsouza_/issues/platform-engineering-pode-vir-mas-ansible-e-shell-script-nunca-saira-de-moda-1459374) #18
 - Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
-- Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092) #16
   
 ## Courses & Events👨‍💻
 - Dec 10, 2022 **(DevOps Days)**: [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/)
