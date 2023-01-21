@@ -17,6 +17,7 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
 
 ## Latest Medium Postsℹ️
+ I have made it my mission to share my entire DevOps learning journey across the Medium. I have so much to learn and share.
 - Jan 19,2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
 - Jan 16, 2023: [Sistema de gerenciamento de logs do Linux](https://amaurybsouza.medium.com/sistema-de-gerenciamento-de-logs-do-linux-490ddfd49543)
 - Jan 08, 2023: [Como está o seu LinkedIn para 2023?](https://amaurybsouza.medium.com/como-est%C3%A1-o-seu-linkedin-para-2023-90d21ac3dc11)
@@ -24,7 +25,7 @@ Don’t hesitate to reach out me if you’re interested in getting to know my en
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
   
 ## DevOps Weekly Newsletter✍️
-A newsletter devoted to everything related to sre/devops | cncf solutions | terraform | conferences | culture | ansible | k8s
+A newsletter devoted to everything related to sre/devops | cncf solutions | terraform | conferences | culture | ansible | k8s.
 - Jan 20, 2023: [#TDC2023: Bora??](https://amauryborgessouza.substack.com/p/tdc2023-bora) #1
 - Dec 05, 2022: [LINUXtips oferecendo curso de LINUX na FAIXA](https://www.getrevue.co/profile/amaurybsouza_/issues/linuxtips-oferecendo-curso-de-linux-na-faixa-1483202) #21
 - Nov 30, 2022: [Médias empresas brasileiras estarão no foco da AWS em 2023](https://www.getrevue.co/profile/amaurybsouza_/issues/medias-empresas-brasileiras-estarao-no-foco-da-aws-em-2023-1480440) #20
@@ -32,6 +33,7 @@ A newsletter devoted to everything related to sre/devops | cncf solutions | terr
 - Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
   
 ## Courses & Events👨‍💻
+I have make several courses, approaching different topics, including Linux, Terraform, Ansible, K8s, Docker and other tools.
 - Dec 10, 2022 **(DevOps Days)**: [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/)
 - Dec 07, 2022 **(Udemy)**: [Learning Terraform](https://lnkd.in/d_rKTMgK)
 - Sep 20, 2022 **(Udemy)**: [Azure Advanced Administration](https://www.udemy.com/certificate/UC-29b6a931-c337-4971-b359-4bf4c10eb3c8/)
