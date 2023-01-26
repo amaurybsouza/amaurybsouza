@@ -6,7 +6,7 @@ href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.i
 
 ## Hi there!👋
   
-My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, currently working remoting at [Kyndryl](https://www.kyndryl.com/us/en)! I'm working mostly with DevOps tools like, Docker containers, Kubernetes Ansible, Terraform, GH Actions (CI/CD), along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm a Ops since 2013! Also, I love to sharing, teach and learn everthing! 🚀📚💻
+My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, currently working remote at [Kyndryl](https://www.kyndryl.com/us/en)! I'm working mostly with DevOps tools like, Docker containers, Kubernetes Ansible, Terraform, GH Actions (CI/CD), along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm a Ops since 2013! Also, I love to sharing, teach and learn everthing! 🚀📚💻
   
   -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [substack](https://amauryborgessouza.substack.com/) and would love if you joined it!
   - 📚 If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) articles, I always updating it.
