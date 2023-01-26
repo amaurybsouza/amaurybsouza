@@ -22,6 +22,7 @@ I'm always interacting and sharing my thoughts on LinkedIn to maintain engagemen
 - 2 days ago, 2023 [Tech Mentoring](https://www.linkedin.com/feed/update/urn:li:activity:7023431525824180224/)
 - 1 week ago, 2023: [90DaysOfDevOps](https://www.linkedin.com/feed/update/urn:li:activity:7021265386050363392/)
 - 1 week ago, 2023: [Recognized Speaker](https://www.linkedin.com/posts/amaurybsouza_kyndryl-recognized-speaker-and-presenter-activity-7019644742321750017-sqhK?utm_source=share&utm_medium=member_desktop)
+- 1 month ago, 2023: [Ansible Essential Training](https://www.linkedin.com/posts/amaurybsouza_certificate-of-completion-activity-7014201250577571840-wlhT?utm_source=share&utm_medium=member_desktop)
   
 ## Latest Medium Posts✍️
  I have made it my mission to share my entire DevOps learning journey across the Medium. I have so much to learn and share.
