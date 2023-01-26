@@ -17,9 +17,9 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
 Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
 
 ## Recently LinkedIn Publications
-I'm always interacting and sharing my thoughts on LinkedIn to maintain engagement and invest daily in networking. So feel sho check some posts there.
+I'm always interacting and sharing my thoughts on LinkedIn to maintain engagement and invest daily in networking.
 - 2 days ago, 2023: [HashiTalks2023](https://www.linkedin.com/feed/update/urn:li:activity:7023655789860929537/)
-- 2 days ago, 2023 [Tech Mentoring with Guillaume Falourd](https://www.linkedin.com/feed/update/urn:li:activity:7023431525824180224/)
+- 2 days ago, 2023 [Tech Mentoring](https://www.linkedin.com/feed/update/urn:li:activity:7023431525824180224/)
 - 1 week ago, 2023: [90DaysOfDevOps](https://www.linkedin.com/feed/update/urn:li:activity:7021265386050363392/)
 - 1 week ago, 2023: [Recognized Speaker](https://www.linkedin.com/posts/amaurybsouza_kyndryl-recognized-speaker-and-presenter-activity-7019644742321750017-sqhK?utm_source=share&utm_medium=member_desktop)
   
