@@ -16,6 +16,10 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
  
 Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
 
+## Recently LinkedIn Publications
+I'm always interacting and sharing my thoughts on LinkedIn to maintain engagement and invest daily in networking. So feel sho check some posts there.
+- 1 week ago, 2023: [90DaysOfDevOps](https://www.linkedin.com/feed/update/urn:li:activity:7021265386050363392/)
+  
 ## Latest Medium Posts✍️
  I have made it my mission to share my entire DevOps learning journey across the Medium. I have so much to learn and share.
 - Jan 19,2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
@@ -31,12 +35,4 @@ A newsletter devoted to everything related to sre/devops | cncf solutions | terr
 - Dec 05, 2022: [LINUXtips oferecendo curso de LINUX na FAIXA](https://www.getrevue.co/profile/amaurybsouza_/issues/linuxtips-oferecendo-curso-de-linux-na-faixa-1483202) #21
 - Nov 30, 2022: [Médias empresas brasileiras estarão no foco da AWS em 2023](https://www.getrevue.co/profile/amaurybsouza_/issues/medias-empresas-brasileiras-estarao-no-foco-da-aws-em-2023-1480440) #20
 - Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://www.getrevue.co/profile/amaurybsouza_/issues/platform-engineering-pode-vir-mas-ansible-e-shell-script-nunca-saira-de-moda-1459374) #18
-  
-## Courses & Events👨‍💻
-I have make several courses, approaching different topics, including Linux, Terraform, Ansible, K8s, Docker and other tools.
-- Dec 10, 2022 **(DevOps Days)**: [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/)
-- Dec 07, 2022 **(Udemy)**: [Learning Terraform](https://lnkd.in/d_rKTMgK)
-- Sep 20, 2022 **(Udemy)**: [Azure Advanced Administration](https://www.udemy.com/certificate/UC-29b6a931-c337-4971-b359-4bf4c10eb3c8/)
-- May 20, 2022 **(Udemy)**: [Prometheus & Grafana Monitoring](http://ude.my/UC-df6b2df5-9e82-455b-a7e4-c646a1c6c014)
-- Dec 01, 2021 **(Udemy)**: [Terraform Practice with Digital Ocean](https://www.udemy.com/certificate/UC-afe8fa93-e550-40e7-99ea-81d8d96b18ff/)
 
