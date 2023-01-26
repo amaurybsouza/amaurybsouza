@@ -18,6 +18,8 @@ Don’t hesitate to reach out me if you’re interested in getting to know my en
 
 ## Recently LinkedIn Publications
 I'm always interacting and sharing my thoughts on LinkedIn to maintain engagement and invest daily in networking. So feel sho check some posts there.
+- 2 days ago, 2023: [HashiTalks2023](https://www.linkedin.com/feed/update/urn:li:activity:7023655789860929537/)
+- 2 days ago, 2023 [Tech Mentoring with Guillaume Falourd](https://www.linkedin.com/feed/update/urn:li:activity:7023431525824180224/)
 - 1 week ago, 2023: [90DaysOfDevOps](https://www.linkedin.com/feed/update/urn:li:activity:7021265386050363392/)
   
 ## Latest Medium Posts✍️
