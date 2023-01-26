@@ -37,5 +37,6 @@ I'm always interacting and sharing my thoughts on LinkedIn to maintain engagemen
 - Jan, 2021: [Ainda não usa VIM? Veja aqui 5 motivos para começar](https://www.linkedin.com/pulse/ainda-n%C3%A3o-usa-vim-veja-aqui-5-motivos-para-come%C3%A7ar-souza/)
 - Mar, 2019: [Como armazenar e excluir um arquivo com o Amazon S3](https://www.linkedin.com/pulse/como-armazenar-e-excluir-um-arquivo-com-o-amazon-s3-souza/)
 - Mar, 2019: [Como criar uma instância Amazon EC2 com Apache, PHP e MariaDB](https://www.linkedin.com/pulse/como-criar-uma-inst%C3%A2ncia-amazon-ec2-com-apache-php-e-mariadb-souza/)
+- Dec, 2018: [Troubleshooting básico de redes no Linux](https://www.linkedin.com/pulse/troubleshooting-b%C3%A1sico-de-redes-linux-amaury-borges-souza/)
 - Nov, 2018: [Um pouquinho de Docker e container](https://www.linkedin.com/pulse/um-pouquinho-de-docker-e-container-amaury-borges-souza/)
 
