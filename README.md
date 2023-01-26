@@ -16,7 +16,7 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
  
 Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
 
-## Latest Medium Postsℹ️
+## Latest Medium Posts✍️
  I have made it my mission to share my entire DevOps learning journey across the Medium. I have so much to learn and share.
 - Jan 19,2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
 - Jan 16, 2023: [Sistema de gerenciamento de logs do Linux](https://amaurybsouza.medium.com/sistema-de-gerenciamento-de-logs-do-linux-490ddfd49543)
@@ -24,7 +24,7 @@ Don’t hesitate to reach out me if you’re interested in getting to know my en
 - Jan 05, 2023 [terraform fmt para formatar o código do Terraform da sua IaC](https://amaurybsouza.medium.com/hashpost-tf-usando-o-famosinho-terraform-fmt-para-formatar-o-c%C3%B3digo-do-terraform-da-sua-iac-3d4fa35b32f0)
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
   
-## DevOps Weekly Newsletter✍️
+## DevOps Weekly Newsletterℹ️
 A newsletter devoted to everything related to sre/devops | cncf solutions | terraform | conferences | culture | ansible | k8s.
 - Jan 25, 2023: [Terraform e .gitignore](https://amauryborgessouza.substack.com/p/terraform-e-gitignore) #23
 - Jan 20, 2023: [#TDC2023: Bora??](https://amauryborgessouza.substack.com/p/tdc2023-bora) #22
