@@ -15,14 +15,6 @@ My name is Amaury (he/his/him). I'm a Senior DevOps Engineer from Brazil, curren
   - 📲 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
  
 Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
-
-## Recently LinkedIn Publications💼
-I'm always interacting and sharing my thoughts on LinkedIn to maintain engagement and invest daily in networking.
-- Jan, 2023: [HashiTalks2023](https://www.linkedin.com/feed/update/urn:li:activity:7023655789860929537/)
-- Jan, 2023 [Tech Mentoring](https://www.linkedin.com/feed/update/urn:li:activity:7023431525824180224/)
-- Jan, 2023: [Recognized Speaker](https://www.linkedin.com/posts/amaurybsouza_kyndryl-recognized-speaker-and-presenter-activity-7019644742321750017-sqhK?utm_source=share&utm_medium=member_desktop)
-- Dec, 2022: [90DaysOfDevOps](https://www.linkedin.com/feed/update/urn:li:activity:7021265386050363392/)
-- Dec, 2023: [Ansible Essential Training](https://www.linkedin.com/posts/amaurybsouza_certificate-of-completion-activity-7014201250577571840-wlhT?utm_source=share&utm_medium=member_desktop)
   
 ## Latest Medium Posts✍️
  I have made it my mission to share my entire DevOps learning journey across the Medium. I have so much to learn and share.
@@ -39,4 +31,11 @@ A newsletter devoted to everything related to sre/devops | cncf solutions | terr
 - Dec 05, 2022: [LINUXtips oferecendo curso de LINUX na FAIXA](https://www.getrevue.co/profile/amaurybsouza_/issues/linuxtips-oferecendo-curso-de-linux-na-faixa-1483202) #21
 - Nov 30, 2022: [Médias empresas brasileiras estarão no foco da AWS em 2023](https://www.getrevue.co/profile/amaurybsouza_/issues/medias-empresas-brasileiras-estarao-no-foco-da-aws-em-2023-1480440) #20
 - Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://www.getrevue.co/profile/amaurybsouza_/issues/platform-engineering-pode-vir-mas-ansible-e-shell-script-nunca-saira-de-moda-1459374) #18
+  
+## LinkedIn Articles!💼
+I'm always interacting and sharing my thoughts on LinkedIn to maintain engagement and invest daily in networking.
+- Jan, 2021: [Ainda não usa VIM? Veja aqui 5 motivos para começar](https://www.linkedin.com/pulse/ainda-n%C3%A3o-usa-vim-veja-aqui-5-motivos-para-come%C3%A7ar-souza/)
+- Mar, 2019: [Como armazenar e excluir um arquivo com o Amazon S3](https://www.linkedin.com/pulse/como-armazenar-e-excluir-um-arquivo-com-o-amazon-s3-souza/)
+- Mar, 2019: [Como criar uma instância Amazon EC2 com Apache, PHP e MariaDB](https://www.linkedin.com/pulse/como-criar-uma-inst%C3%A2ncia-amazon-ec2-com-apache-php-e-mariadb-souza/)
+- Nov, 2018: [Um pouquinho de Docker e container](https://www.linkedin.com/pulse/um-pouquinho-de-docker-e-container-amaury-borges-souza/)
 
