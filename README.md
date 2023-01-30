@@ -34,7 +34,7 @@ A newsletter devoted to everything related to sre/devops | cncf solutions | terr
   
 ## Recently Tech Events!📆
 I love DevOps communities, and I have been helping many of them for years now, both as an organizer and digital creating. Got a project to discuss? Want me to speak at your meetup? Anything else? Let's chat!
-- Jan 26, 2023: [Novidades do mundo serverless!](https://www.meetup.com/awscampinas/events/291044529/)
+- Jan 26, 2023: [Novidades do mundo serverless!](https://www.meetup.com/awscampinas/events/291044529/) ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 - Nov 18, 2022: [Uma visão rápida do Azure Devops – CI/CD de uma aplicação do zero](https://www.meetup.com/microsoft-reactor-sao-paulo/events/289519337/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
 - Nov 10, 2022: [Uma conversa ORIGINAL sobre Engenharia de Confiabilidade - SRE](https://www.meetup.com/meetup-original/events/289473183/) ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
  
