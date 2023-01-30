@@ -32,11 +32,8 @@ A newsletter devoted to everything related to sre/devops | cncf solutions | terr
 - Nov 30, 2022: [Médias empresas brasileiras estarão no foco da AWS em 2023](https://www.getrevue.co/profile/amaurybsouza_/issues/medias-empresas-brasileiras-estarao-no-foco-da-aws-em-2023-1480440) #20
 - Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://www.getrevue.co/profile/amaurybsouza_/issues/platform-engineering-pode-vir-mas-ansible-e-shell-script-nunca-saira-de-moda-1459374) #18
   
-## LinkedIn Articles!💼
-I'm always interacting and sharing my thoughts on LinkedIn to maintain engagement and invest daily in networking.
-- Jan, 2021: [Ainda não usa VIM? Veja aqui 5 motivos para começar](https://www.linkedin.com/pulse/ainda-n%C3%A3o-usa-vim-veja-aqui-5-motivos-para-come%C3%A7ar-souza/)
-- Mar, 2019: [Como armazenar e excluir um arquivo com o Amazon S3](https://www.linkedin.com/pulse/como-armazenar-e-excluir-um-arquivo-com-o-amazon-s3-souza/)
-- Mar, 2019: [Como criar uma instância Amazon EC2 com Apache, PHP e MariaDB](https://www.linkedin.com/pulse/como-criar-uma-inst%C3%A2ncia-amazon-ec2-com-apache-php-e-mariadb-souza/)
-- Dec, 2018: [Troubleshooting básico de redes no Linux](https://www.linkedin.com/pulse/troubleshooting-b%C3%A1sico-de-redes-linux-amaury-borges-souza/)
-- Nov, 2018: [Um pouquinho de Docker e container](https://www.linkedin.com/pulse/um-pouquinho-de-docker-e-container-amaury-borges-souza/)
-
+## Recently Tech Events!📆
+I love DevOps communities, and I have been helping many of them for years now, both as an organizer and digital creating. Got a project to discuss? Want me to speak at your meetup? Anything else? Let's chat!
+- Jan 26, 2023: [PRESENCIAL - Novidades do mundo serverless!](https://www.meetup.com/awscampinas/events/291044529/)
+- Jan 26, 2023: [ONLINE - Uma visão rápida do Azure Devops – CI/CD de uma aplicação do zero](https://www.meetup.com/microsoft-reactor-sao-paulo/events/289519337/)
+ 
