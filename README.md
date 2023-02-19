@@ -16,6 +16,16 @@ I'm a lead, Software Engineer, specializing in Cloud Native solutions, IaC, CI/C
  
 Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
   
+## Stack DevOps Tools
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+  
 ## Latest Medium Posts✍️
  I have made it my mission to share my entire DevOps learning journey across the Medium. I have so much to learn and share.
 - Jan 28, 2023: [5 projetos do GitHub essenciais para um DevOps Engineer em 2023](https://medium.com/@amaurybsouza/5-projetos-do-github-essenciais-para-um-devops-engineer-em-2023-1d4039b1eec6)
