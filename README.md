@@ -6,7 +6,7 @@ href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.i
 
 ## Hi there!👋
 
-{ Lead, SRE/DevOps Engineer👨‍💻 } focused on DevOps, Cloud Native solutions, IaC, CI/CD pipelines. My name is Amaury (he/his/him) currently working remote at IBM! I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm a Ops since 2013! Also, I love to sharing, teach and learn everthing! 🚀📚💻
+{ Lead, SRE/DevOps Engineer👨‍💻 } focused on DevOps technologies, Cloud Native solutions, IaC, CI/CD pipelines. My name is Amaury (he/his/him) currently working remote at IBM! I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm a Ops since 2013! Also, I love to sharing, teach and learn everthing! 🚀📚💻
   
   -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [substack](https://amauryborgessouza.substack.com/) and would love if you joined it!
   - 📚 If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) articles, I always updating it.
