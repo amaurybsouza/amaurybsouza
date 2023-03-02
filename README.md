@@ -46,11 +46,11 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
   
 ## Latest Medium Posts✍️
  I have made it my mission to share my entire DevOps learning journey across the Medium. I have so much to learn and share.
+- Mar 02, 2023: [Me tornei Hashicorp Ambassador 2023](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901)
 - Feb 26, 2023: [My IaC journey to become Hashicorp Terraform Associate certified](https://amaurybsouza.medium.com/my-iac-journey-to-become-hashicorp-terraform-associate-certified-6180991a1394)
 - Jan 28, 2023: [5 projetos do GitHub essenciais para um DevOps Engineer em 2023](https://medium.com/@amaurybsouza/5-projetos-do-github-essenciais-para-um-devops-engineer-em-2023-1d4039b1eec6)
 - Jan 19, 2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
 - Jan 16, 2023: [Sistema de gerenciamento de logs do Linux](https://amaurybsouza.medium.com/sistema-de-gerenciamento-de-logs-do-linux-490ddfd49543)
-- Jan 08, 2023: [Como está o seu LinkedIn para 2023?](https://amaurybsouza.medium.com/como-est%C3%A1-o-seu-linkedin-para-2023-90d21ac3dc11)
   
 ## DevOps Weekly Newsletterℹ️
 A newsletter devoted to everything related to sre/devops | cncf solutions | terraform | conferences | culture | ansible | k8s.
