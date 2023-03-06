@@ -5,7 +5,7 @@ href="https://twitter.com/amaurybsouza_"><img src="https://img.shields.io/badge/
 href="https://amauryborgessouza.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" /><a/><a
 href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/><a href="https://amauryborgesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/><a href="https://amaurybsouza.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /><a/><a
 href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /><a/>
-href="https://github.com/amaurybsouza"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /><a/>
+  
 
 ## Hi there!👋
 
