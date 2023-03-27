@@ -58,7 +58,7 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
   
 ## DevOps Weekly Newsletterℹ️
 A newsletter devoted to everything related to sre/devops | cncf solutions | terraform | conferences | culture | ansible | k8s.
-- Mar 27, 2023: [[Engineering Sessions]: Arquitetura, DevOps, Automação, Cloud](https://amauryborgessouza.substack.com/p/engineering-sessions-arquitetura)
+- Mar 27, 2023: [[Engineering Sessions]: Arquitetura, DevOps, Automação, Cloud](https://amauryborgessouza.substack.com/p/engineering-sessions-arquitetura) #26
 - Mar 19, 2023: [Uma série de artigos de DevOps no Medium](https://amauryborgessouza.substack.com/p/uma-serie-de-artigos-de-devops-no) #25
 - Mar 09, 2023: [Terraform Associate 003: O que muda?](https://amauryborgessouza.substack.com/p/terraform-associate-003-o-que-muda) #24
 - Jan 25, 2023: [Terraform e .gitignore](https://amauryborgessouza.substack.com/p/terraform-e-gitignore) #23
