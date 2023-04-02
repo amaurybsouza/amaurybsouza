@@ -18,8 +18,8 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
   - 📆 Giving back to the community, I'm a organizer DevOps related events ([“DevOpsDays”](https://devopsdays.org/) & “CoffeeOps”).
   - :octocat: I have several of my personal projects on GitHub, approaching different tools like Linux, Terraform, Ansible, K8s.
   - 📲 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
- 
-Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
+  
+Strong experience in collaborating with cross-functional teams to achieve common goals and provide innovative solutions to complex problems. Always looking for new challenges to improve the software delivery process and optimize the infrastructure for better performance and scalability. Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
   
 ## DevOps Tools Stack💻
 I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC (Terraform), Ansible, Docker, Kubernetes, AWS.
