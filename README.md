@@ -49,7 +49,7 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
   
 ## Latest Medium Posts✍️
- I have made it my mission to share my entire DevOps learning journey across the Medium. I have so much to learn and share.
+ I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
 - Mar 05, 2023: [TOP 5 certificações para DevOps Engineers em 2023](https://amaurybsouza.medium.com/top-5-certifica%C3%A7%C3%B5es-para-devops-engineers-em-2023-75c049a2c4f0)
 - Mar 02, 2023: [Me tornei Hashicorp Ambassador 2023](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901)
 - Feb 26, 2023: [My IaC journey to become Hashicorp Terraform Associate certified](https://amaurybsouza.medium.com/my-iac-journey-to-become-hashicorp-terraform-associate-certified-6180991a1394)
@@ -57,7 +57,7 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 - Jan 19, 2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
   
 ## DevOps Weekly Newsletterℹ️
-A newsletter devoted to everything related to sre/devops | cncf solutions | terraform | conferences | culture | ansible | k8s.
+A [Substack](https://amauryborgessouza.substack.com/) newsletter devoted to everything related to sre/devops | cncf solutions | terraform | conferences | culture | ansible | k8s.
 - Mar 27, 2023: [[Engineering Sessions]: Arquitetura, DevOps, Automação, Cloud](https://amauryborgessouza.substack.com/p/engineering-sessions-arquitetura) #26
 - Mar 19, 2023: [Uma série de artigos de DevOps no Medium](https://amauryborgessouza.substack.com/p/uma-serie-de-artigos-de-devops-no) #25
 - Mar 09, 2023: [Terraform Associate 003: O que muda?](https://amauryborgessouza.substack.com/p/terraform-associate-003-o-que-muda) #24
@@ -65,7 +65,7 @@ A newsletter devoted to everything related to sre/devops | cncf solutions | terr
 - Jan 20, 2023: [#TDC2023: Bora??](https://amauryborgessouza.substack.com/p/tdc2023-bora) #22
   
 ## Recently Tech Events!📆
-I love DevOps communities, and I have been helping many of them for years now, both as an organizer and digital creating. Got a project to discuss? Want me to speak at your meetup? Anything else? Let's chat!
+Open Source enthusiast, believes in Open Source will make the world better. I love DevOps communities, and I have been helping many of them for years now, both as an organizer and digital creator. Got a project to discuss? Want me to speak at your meetup? Anything else? Let's chat!
 - Feb 27, 2023: [[PT-BR] Incidents and Postmortem w/ Fernando Ike, Sergio Soares e Somatório](https://www.youtube.com/watch?v=70ACNvD3-D0&t=145s&ab_channel=carlosenog)
 - Jan 26, 2023: [Novidades do mundo serverless!](https://www.meetup.com/awscampinas/events/291044529/) - *Meetup* ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
 - Dec 10, 2022: [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/) - *DevOps Days* ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
