@@ -13,7 +13,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
 { SRE/DevOps Engineer👨‍💻 } focused on DevOps technologies, Cloud Native solutions, IaC, CI/CD pipelines. My name is Amaury (he/his/him) currently working remote at IBM! I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm a Ops since 2013! Also, I love to sharing, teach and learn everthing! 🚀📚💻
   
   - 🏗️ Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023! 
-  - 👨‍🎓 Specializing in Solution Architecture at PUC Minas to delivery scalable🚀 and efficient cloud-based infrastructure.
+  - 👨‍🎓 Specializing in Solution Architecture at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) to delivery scalable🚀 and efficient cloud-based infrastructure.
   -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [substack](https://amauryborgessouza.substack.com/) and would love if you joined it!
   - 📚 If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) articles, I always updating it.
   - 📆 Giving back to the community, I'm a organizer DevOps related events ([“DevOpsDays”](https://devopsdays.org/) & “CoffeeOps”).
