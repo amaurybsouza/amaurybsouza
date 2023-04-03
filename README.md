@@ -66,7 +66,7 @@ A [Substack](https://amauryborgessouza.substack.com/) newsletter devoted to ever
 - Jan 20, 2023: [#TDC2023: Bora??](https://amauryborgessouza.substack.com/p/tdc2023-bora) #22
   
 ## Latest Tech Certifications🥇
-Check out my [Credly](https://www.credly.com/users/amaury-souza.725c7326/badges) badges
+Check out my [Credly](https://www.credly.com/users/amaury-souza.725c7326/badges) badges. I am now studying for AWS Solutions Architect Associate from AWS to keep the focus on Cloud Native solutions.
 - 2023: [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/earner/earned/badge/8624190d-76f2-4bc9-80d0-29b7b859d781)
 - 2023: [HashiCorp Ambassador 2023](https://www.credly.com/earner/earned/badge/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97)
 - 2022: [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/252f03d7-907c-4fd4-88d4-157211316965)
