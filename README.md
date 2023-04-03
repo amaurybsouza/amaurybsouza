@@ -65,10 +65,13 @@ A [Substack](https://amauryborgessouza.substack.com/) newsletter devoted to ever
 - Jan 25, 2023: [Terraform e .gitignore](https://amauryborgessouza.substack.com/p/terraform-e-gitignore) #23
 - Jan 20, 2023: [#TDC2023: Bora??](https://amauryborgessouza.substack.com/p/tdc2023-bora) #22
   
-## Tech Certifications🏆
+## Latest Tech Certifications🥇
 Check out my [Credly](https://www.credly.com/users/amaury-souza.725c7326/badges) badges
 - 2023: [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/earner/earned/badge/8624190d-76f2-4bc9-80d0-29b7b859d781)
 - 2023: [HashiCorp Ambassador 2023](https://www.credly.com/earner/earned/badge/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97)
+- 2022: [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/252f03d7-907c-4fd4-88d4-157211316965)
+- 2022: [Site Reliability Engineer Bootcamp](https://www.credly.com/badges/27874de9-6944-4a2c-b2cb-ec1f13e5291a)
+- 2021: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ebc6486c-baa6-4bd3-a872-f13916afd82e)
   
 ## Recently Tech Events!📆
 Open Source enthusiast, believes in Open Source will make the world better. I love DevOps communities, and I have been helping many of them for years now, both as an organizer and digital creator. Got a project to discuss? Want me to speak at your meetup? Anything else? Let's chat!
