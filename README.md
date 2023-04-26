@@ -10,7 +10,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
 
 ## Hi, my name is Amaury!👋
 
-I am a {👨‍💻SRE/DevOps Engineer} focused on DevOps cycle (from culture to technogies), CNCF Solutions practitioner & IaC expert. My name is Amaury (he/his/him) currently working remote at IBM! I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm a Ops since 2013! Also, I love to sharing, teach and learn everthing! 🚀📚💻
+I am a {👨‍💻SRE/DevOps Engineer} focused on DevOps cycle (from culture to technogies), CNCF Solutions practitioner & IaC expert. My name is Amaury (he/his/him) currently working remote at IBM! I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm a Ops since 2013! Also, I love to sharing, teach and learn everthing! 📚💻
   
   - 🏗️ Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023! 
   - 👨‍🎓 Learning Solutions Architecture at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) to delivery scalable🚀 and efficient cloud-based infrastructure.
@@ -51,19 +51,19 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
   
 ## Latest Medium Posts✍️
  I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
+- Apr 25, 2023: [5 automações em Shell Script essenciais para o dia a dia de um DevOps](https://amaurybsouza.medium.com/5-automa%C3%A7%C3%B5es-em-shell-script-essenciais-para-o-dia-a-dia-de-um-devops-5cdc1f33a98a)
 - Mar 05, 2023: [TOP 5 certificações para DevOps Engineers em 2023](https://amaurybsouza.medium.com/top-5-certifica%C3%A7%C3%B5es-para-devops-engineers-em-2023-75c049a2c4f0)
 - Mar 02, 2023: [Me tornei Hashicorp Ambassador 2023](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901)
 - Feb 26, 2023: [My IaC journey to become Hashicorp Terraform Associate certified](https://amaurybsouza.medium.com/my-iac-journey-to-become-hashicorp-terraform-associate-certified-6180991a1394)
 - Jan 28, 2023: [5 projetos do GitHub essenciais para um DevOps Engineer em 2023](https://medium.com/@amaurybsouza/5-projetos-do-github-essenciais-para-um-devops-engineer-em-2023-1d4039b1eec6)
-- Jan 19, 2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
   
 ## DevOps Weekly Newsletterℹ️
 A [Substack](https://amauryborgessouza.substack.com/) newsletter devoted to everything related to sre/devops | cncf solutions | terraform | conferences | culture | ansible | k8s.
+- Apr 16, 2023: [Hashicorp Terraform passa de 3k de providers](https://amauryborgessouza.substack.com/p/hashicorp-terraform-passa-de-3k-de) #27
 - Mar 27, 2023: [[Engineering Sessions]: Arquitetura, DevOps, Automação, Cloud](https://amauryborgessouza.substack.com/p/engineering-sessions-arquitetura) #26
 - Mar 19, 2023: [Uma série de artigos de DevOps no Medium](https://amauryborgessouza.substack.com/p/uma-serie-de-artigos-de-devops-no) #25
 - Mar 09, 2023: [Terraform Associate 003: O que muda?](https://amauryborgessouza.substack.com/p/terraform-associate-003-o-que-muda) #24
 - Jan 25, 2023: [Terraform e .gitignore](https://amauryborgessouza.substack.com/p/terraform-e-gitignore) #23
-- Jan 20, 2023: [#TDC2023: Bora??](https://amauryborgessouza.substack.com/p/tdc2023-bora) #22
   
 ## Latest Tech Certifications🥇
 Check out my [Credly](https://www.credly.com/users/amaury-souza.725c7326/badges) badges. I am now studying for AWS Solutions Architect Associate from AWS to keep the focus on Cloud Native solutions.
