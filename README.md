@@ -10,7 +10,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
 
 ## Hi, my name is Amaury!👋
 
-I am a {👨‍💻SRE/DevOps Engineer} focused on DevOps cycle (from culture to technoogies), CNCF Solutions practitioner & IaC expert. My name is Amaury (he/his/him) currently working remote at IBM! I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm a Ops since 2013! Also, I love to sharing, teach and learn everthing! 🚀📚💻
+I am a {👨‍💻SRE/DevOps Engineer} focused on DevOps cycle (from culture to technogies), CNCF Solutions practitioner & IaC expert. My name is Amaury (he/his/him) currently working remote at IBM! I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm a Ops since 2013! Also, I love to sharing, teach and learn everthing! 🚀📚💻
   
   - 🏗️ Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023! 
   - 👨‍🎓 Learning Solutions Architecture at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) to delivery scalable🚀 and efficient cloud-based infrastructure.
