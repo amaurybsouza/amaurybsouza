@@ -54,6 +54,7 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes.
 - [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - cheatsheet helps you with the most commonly and used commands for easy reference.
 - [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - List of tech events happening in Brazil.
+- [descomplicando-helm](https://github.com/badtuxx/DescomplicandoHelm) - simplify the usage of Helm and facilitate the understanding of the Helm Charts.
   
 ## Latest Medium Posts✍️
  I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
@@ -78,12 +79,4 @@ Check out my [Credly](https://www.credly.com/users/amaury-souza.725c7326/badges)
 - 2022: [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/252f03d7-907c-4fd4-88d4-157211316965)
 - 2022: [Site Reliability Engineer Bootcamp](https://www.credly.com/badges/27874de9-6944-4a2c-b2cb-ec1f13e5291a)
 - 2021: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ebc6486c-baa6-4bd3-a872-f13916afd82e)
-  
-## Recently Tech Events!📆
-Open Source enthusiast, believes in Open Source will make the world better. I love DevOps communities, and I have been helping many of them for years now, both as an organizer and digital creator. Got a project to discuss? Want me to speak at your meetup? Anything else? Let's chat!
-- Feb 27, 2023: [[PT-BR] Incidents and Postmortem w/ Fernando Ike, Sergio Soares e Somatório](https://www.youtube.com/watch?v=70ACNvD3-D0&t=145s&ab_channel=carlosenog)
-- Jan 26, 2023: [Novidades do mundo serverless!](https://www.meetup.com/awscampinas/events/291044529/) - *Meetup* ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-- Dec 10, 2022: [DevOps Days Recife](https://devopsdays.org/events/2022-recife/welcome/) - *DevOps Days* ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=blue)
-- Nov 18, 2022: [Uma visão rápida do Azure DevOps](https://www.meetup.com/microsoft-reactor-sao-paulo/events/289519337/) - *Meetup* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
-- Nov 10, 2022: [Uma conversa ORIGINAL sobre SRE](https://www.meetup.com/meetup-original/events/289473183/) - *Meetup* ![online](https://img.shields.io/static/v1?label=&message=online&color=green)
  
