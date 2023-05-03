@@ -50,6 +50,7 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
   
 ## Open-source contributions:octocat:
+I have several of my personal projects in GitHub, approaching different tools and approches like Linux, Terraform, Ansible, K8s, Devops, GitOps. Feel free to help me collaborating with this projects.
 - https://trilha.info - Since June/2022, more than 20k people have accessed Trilha Info for free as a study support tool.
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes.
 - [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - cheatsheet helps you with the most commonly and used commands for easy reference.
@@ -57,7 +58,7 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 - [descomplicando-helm](https://github.com/badtuxx/DescomplicandoHelm) - simplify the usage of Helm and facilitate the understanding of the Helm Charts.
   
 ## Latest Medium Posts✍️
- I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
+I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
 - Apr 25, 2023: [5 automações em Shell Script essenciais para o dia a dia de um DevOps](https://amaurybsouza.medium.com/5-automa%C3%A7%C3%B5es-em-shell-script-essenciais-para-o-dia-a-dia-de-um-devops-5cdc1f33a98a)
 - Mar 05, 2023: [TOP 5 certificações para DevOps Engineers em 2023](https://amaurybsouza.medium.com/top-5-certifica%C3%A7%C3%B5es-para-devops-engineers-em-2023-75c049a2c4f0)
 - Mar 02, 2023: [Me tornei Hashicorp Ambassador 2023](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901)
