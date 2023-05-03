@@ -20,11 +20,7 @@ I am a {👨‍💻SRE/DevOps Engineer} focused on DevOps cycle (from culture to
   - :octocat: I have several of my personal projects on GitHub, approaching different tools like Linux, Terraform, Ansible, K8s.
   - 📲 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
   
-## Open-source contributions:octocat:
-- https://trilha.info
-- [devops-exercises](https://github.com/bregman-arie/devops-exercises)
-- [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet)
-- [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil)
+Strong experience in collaborating with cross-functional teams to achieve common goals and provide innovative solutions to complex problems. Always looking for new challenges to improve the software delivery process and optimize the infrastructure for better performance and scalability. Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
   
 ## DevOps Tools Stack💻
 I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC (Terraform), Ansible, Docker, Kubernetes, AWS.
@@ -52,6 +48,12 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+  
+## Open-source contributions:octocat:
+- https://trilha.info
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises)
+- [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet)
+- [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil)
   
 ## Latest Medium Posts✍️
  I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
