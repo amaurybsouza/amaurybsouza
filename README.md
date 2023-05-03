@@ -20,10 +20,11 @@ I am a {👨‍💻SRE/DevOps Engineer} focused on DevOps cycle (from culture to
   - :octocat: I have several of my personal projects on GitHub, approaching different tools like Linux, Terraform, Ansible, K8s.
   - 📲 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
   
-## Check out my open-source contributions:octocat:
+## Open-source contributions:octocat:
 - https://trilha.info
-  
-Strong experience in collaborating with cross-functional teams to achieve common goals and provide innovative solutions to complex problems. Always looking for new challenges to improve the software delivery process and optimize the infrastructure for better performance and scalability. Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises)
+- [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet)
+- [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil)
   
 ## DevOps Tools Stack💻
 I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC (Terraform), Ansible, Docker, Kubernetes, AWS.
