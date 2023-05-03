@@ -50,10 +50,10 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
   
 ## Open-source contributions:octocat:
-- https://trilha.info
-- [devops-exercises](https://github.com/bregman-arie/devops-exercises)
-- [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet)
-- [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil)
+- https://trilha.info - Since June/2022, more than 20k people have accessed Trilha Info for free as a study support tool.
+- [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes.
+- [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - cheatsheet helps you with the most commonly and used commands for easy reference.
+- [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - List of tech events happening in Brazil.
   
 ## Latest Medium Posts✍️
  I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
