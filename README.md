@@ -25,7 +25,7 @@ I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansibl
   - :octocat: I have several of my personal projects on GitHub, approaching different tools like Linux, Terraform, Ansible, K8s.
   - 📲 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
   
-I’m a technical writer at Medium & creator at Substack (DevOps Weekly Newsletter). Post-degree in Solutions Architecture and mostly recently I have been selected as a HashiCorp Ambassador within open-source community for 2023! I routinely speak at technical conferences such as Codecon Digital, Kyndryl internally initiatives, CoffeeOps from community. My GitHub collaborations include the “Trilha Info”, “DevOps Exercises”.
+Strong experience in collaborating with cross-functional teams to achieve common goals and provide innovative solutions to complex problems. Always looking for new challenges to improve the software delivery process and optimize the infrastructure for better performance and scalability. Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
   
 ## DevOps Tools Stack💻
 I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC (Terraform), Ansible, Docker, Kubernetes, AWS.
