@@ -10,7 +10,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
 
 ## Hi, I am Amaury!👋
 
-I am a {👨‍💻DevOps Engineer Advocate} promoting the adoption of DevOps practices and culture within the organization. I am focused on DevOps cycle (from culture to technologies), CNCF Solutions practitioner & IaC expert. My name is Amaury (he/his/him) currently working remote at [Kyndryl](https://www.kyndryl.com/us/en)! 
+I am a {👨‍💻SRE/DevOps Engineer} promoting the adoption of DevOps practices and culture within the organization. I am focused on DevOps cycle (from culture to technologies), CNCF Solutions practitioner & IaC expert. My name is Amaury (he/his/him) currently working remote at [Kyndryl](https://www.kyndryl.com/us/en)! 
  
 I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), LINUX along with Azure & AWS platforms! I am keep me focused on CNCF solutions like Helm, Prometheus, K8s. I love Open-Source moviment. Also, I love to sharing, teach and learn everthing!📚💻
   
