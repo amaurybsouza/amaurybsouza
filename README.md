@@ -14,6 +14,8 @@ I am a {👨‍💻SRE/DevOps Engineer} promoting the adoption of DevOps practic
  
 I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), LINUX along with Azure & AWS platforms! I am keep me focused on CNCF solutions like Helm, Prometheus, K8s. I love Open-Source moviment. Also, I love to sharing, teach and learn everthing!📚💻
   
+## Highlights🧵
+  
   - 🏗️ Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023! 
   - 👨‍💻 Join with me on [Codecon Digital](https://www.codecon.dev/digital/programacao/porque-voce-deve-saber-sobre-confiabilidade-disponibilidade-manutenibilidade-e-observabilidade) I will be there talking about "reliability", "availability" and "observability".
   - 👨‍🎓 Learning Solutions Architecture to delivery scalable🚀 and efficient cloud-based infrastructure.
