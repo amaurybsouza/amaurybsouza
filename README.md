@@ -9,13 +9,11 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
   
 
 ## Hi, I am Amaury!
-
 I am a {👨‍💻SRE/DevOps Engineer} promoting the adoption of DevOps practices and culture within the organization. I am focused on DevOps cycle (from culture to technologies), CNCF Solutions practitioner & IaC expert. My name is Amaury (he/his/him) currently working remote at [Kyndryl](https://www.kyndryl.com/us/en)! 
  
 I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), LINUX along with Azure & AWS platforms! I am keep me focused on CNCF solutions like Helm, Prometheus, K8s. I love Open-Source moviment. Also, I love to sharing, teach and learn everthing!
   
 ## Highlights🧵
-  
   - 🏗️ Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023! 
   - 👨‍💻 Join with me on [Codecon Digital](https://www.codecon.dev/digital/programacao/porque-voce-deve-saber-sobre-confiabilidade-disponibilidade-manutenibilidade-e-observabilidade) I will be there talking about "reliability", "availability" and "observability".
   - 👨‍🎓 Learning Solutions Architecture to delivery scalable🚀 and efficient cloud-based infrastructure.
@@ -72,11 +70,11 @@ I have made it my mission to share my entire DevOps learning journey across the 
   
 ## DevOps Weekly Newsletterℹ️
 A [Substack](https://amauryborgessouza.substack.com/) newsletter devoted to everything related to sre/devops | cncf solutions | terraform | conferences | culture | ansible | k8s.
+- May 17, 2023: [Save up to 50% Cloud Native certifications](https://amauryborgessouza.substack.com/p/save-up-to-50-cloud-native-certifications) #28
 - Apr 16, 2023: [Hashicorp Terraform passa de 3k de providers](https://amauryborgessouza.substack.com/p/hashicorp-terraform-passa-de-3k-de) #27
 - Mar 27, 2023: [[Engineering Sessions]: Arquitetura, DevOps, Automação, Cloud](https://amauryborgessouza.substack.com/p/engineering-sessions-arquitetura) #26
 - Mar 19, 2023: [Uma série de artigos de DevOps no Medium](https://amauryborgessouza.substack.com/p/uma-serie-de-artigos-de-devops-no) #25
 - Mar 09, 2023: [Terraform Associate 003: O que muda?](https://amauryborgessouza.substack.com/p/terraform-associate-003-o-que-muda) #24
-- Jan 25, 2023: [Terraform e .gitignore](https://amauryborgessouza.substack.com/p/terraform-e-gitignore) #23
   
 ## Latest Tech Certifications🥇
 Check out my [Credly](https://www.credly.com/users/amaury-souza.725c7326/badges) badges. I am now studying for AWS Solutions Architect Associate from AWS to keep the focus on Cloud Native solutions.
