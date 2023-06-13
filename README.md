@@ -9,9 +9,9 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
   
 
 # Hi, I am Amaury!👋
-Experienced {👨‍💻DevOps Engineer} with over +10 years of hands-on expertise in architecting, implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. My strong background in containerization technologies, such as Docker and Kubernetes, empowers me to design and maintain highly available and resilient microservices architectures.
+Experienced {👨‍💻SRE/DevOps Engineer} with over +10 years of hands-on expertise in architecting, implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. My strong background in containerization technologies, such as Docker and Kubernetes, empowers me to design and maintain highly available and resilient microservices architectures.
   
-I am deeply knowledgeable in leveraging IaC practices and tools to automate and streamline the provisioning and management of cloud resources. My expertise lies in designing and maintaining highly scalable and resilient infrastructures using industry-leading technologies like Terraform, AWS CloudFormation, and Azure Resource Manager. With a strong focus on infrastructure automation and configuration management, I have successfully reduced deployment times, enhanced scalability, and improved system stability.
+I am deeply knowledgeable in leveraging IaC practices and tools to automate and streamline the provisioning and management of cloud resources. My expertise lies in designing and maintaining highly scalable and resilient infrastructures using industry-leading technologies like Terraform, Ansible, and Azure Resource Manager. With a strong focus on infrastructure automation and configuration management, I have successfully reduced deployment times, enhanced scalability, and improved system stability.
   
 ## Highlights🧵
   - 🏗️ Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023! 
