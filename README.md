@@ -9,9 +9,9 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
   
 
 # Hi, I am Amaury!👋
-I am a {👨‍💻SRE/DevOps Engineer} promoting the adoption of DevOps practices and culture within the organization. I am focused on DevOps cycle (from culture to technologies), CNCF Solutions practitioner & IaC expert. My name is Amaury (he/his/him) currently working remote at [Kyndryl](https://www.kyndryl.com/us/en)! 
- 
-I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), LINUX along with Azure & AWS platforms! I am keep me focused on CNCF solutions like Helm, Prometheus, K8s. I love Open-Source moviment. Also, I love to sharing, teach and learn everthing!
+Experienced {👨‍💻DevOps Engineer} with over +10 years of hands-on expertise in architecting, implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. My strong background in containerization technologies, such as Docker and Kubernetes, empowers me to design and maintain highly available and resilient microservices architectures.
+  
+I am deeply knowledgeable in leveraging IaC practices and tools to automate and streamline the provisioning and management of cloud resources. My expertise lies in designing and maintaining highly scalable and resilient infrastructures using industry-leading technologies like Terraform, AWS CloudFormation, and Azure Resource Manager. With a strong focus on infrastructure automation and configuration management, I have successfully reduced deployment times, enhanced scalability, and improved system stability.
   
 ## Highlights🧵
   - 🏗️ Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023! 
