@@ -1,8 +1,4 @@
-![git](https://github.com/amaurybsouza/amaurybsouza/blob/master/codecon.png) 
-
-
-
-<img src="https://github.com/amaurybsouza/amaurybsouza/blob/master/codecon.png" width="780" height="220"/>
+![git](https://github.com/amaurybsouza/amaurybsouza/blob/master/codecon2.png) 
 
 <a href="https://amaurybsouza.github.io/portfolio/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/><a 
 href="https://twitter.com/amaurybsouza_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/><a
