@@ -8,7 +8,9 @@ href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.i
 href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /><a/>
   
 
-# Hi, I am Amaury!👋
+# Hi, there!👋
+I am Amaury, SRE/DevOps Engineer based in São Paulo, BR.  
+  
 Experienced {👨‍💻SRE/DevOps Engineer} with over +10 years of hands-on expertise in architecting, implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. My strong background in containerization technologies, such as Docker and Kubernetes, empowers me to design and maintain highly available and resilient microservices architectures.
   
 I am deeply knowledgeable in leveraging IaC practices and tools to automate and streamline the provisioning and management of cloud resources. My expertise lies in designing and maintaining highly scalable and resilient infrastructures using industry-leading technologies like Terraform, Ansible, and Azure Resource Manager. With a strong focus on infrastructure automation and configuration management, I have successfully reduced deployment times, enhanced scalability, and improved system stability.
