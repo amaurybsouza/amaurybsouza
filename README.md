@@ -17,7 +17,6 @@ I am deeply knowledgeable in leveraging IaC practices and tools to automate and 
   
 ## Highlights🧵
   - 🏗️ Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023! 
-  - 👨‍💻 Join with me on [Codecon Digital](https://www.codecon.dev/digital/programacao/porque-voce-deve-saber-sobre-confiabilidade-disponibilidade-manutenibilidade-e-observabilidade) I will be there talking about "reliability", "availability" and "observability".
   - 👨‍🎓 Learning Solutions Architecture to delivery scalable🚀 and efficient cloud-based infrastructure.
   -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [substack](https://amauryborgessouza.substack.com/) and would love if you joined it!
   - 📚 If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) articles, I always updating it.
