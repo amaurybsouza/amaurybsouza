@@ -9,7 +9,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
   
 
 # Hi, there!👋
-I am Amaury, SRE/DevOps Engineer working remotely from BR.  
+I am Amaury, SRE/DevOps Engineer working remote from BR.  
   
 Experienced {👨‍💻SRE/DevOps Engineer} with over +10 years of hands-on expertise in architecting, implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. My strong background in containerization technologies, such as Docker and Kubernetes, empowers me to design and maintain highly available and resilient microservices architectures.
   
