@@ -25,7 +25,7 @@ I am deeply knowledgeable in leveraging IaC practices and tools to automate and 
   
 Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
 
-## 📚I am Currently Learning
+## 📚I am currently learning
 - [x] Infrastructure as Code (IaC) enabling automation, scalability.
 - [x] Monitoring and Observability for metrics collection, log aggregation, and distributed tracing.
 - [x] Cloud Solutions Architecture to delivery scalable and efficient cloud-based infrastructure/apps.
