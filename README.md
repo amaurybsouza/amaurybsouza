@@ -15,7 +15,6 @@ Experienced {👨‍💻SRE/DevOps Engineer} with over +10 years of hands-on exp
   
 I am deeply knowledgeable in leveraging IaC practices and tools to automate and streamline the provisioning and management of cloud resources. My expertise lies in designing and maintaining highly scalable and resilient infrastructures using industry-leading technologies like Terraform, Ansible, Shell Scripts. With a strong focus on infrastructure automation and configuration management, I have successfully reduced deployment times, enhanced scalability, and improved system stability.
   
-## Highlights🧵
   - 🏗️ Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023! 
   - 👨‍🎓 Learning Solutions Architecture to delivery scalable🚀 and efficient cloud-based infrastructure.
   -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [substack](https://amauryborgessouza.substack.com/) and would love if you joined it!
