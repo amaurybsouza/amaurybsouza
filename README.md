@@ -14,10 +14,11 @@ I am Amaury, SRE/DevOps Engineer working remote from BR.
 Experienced {👨‍💻SRE/DevOps Engineer} with over +10 years of hands-on expertise in architecting, implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. My strong background in containerization technologies, such as Docker and Kubernetes, empowers me to design and maintain highly available and resilient microservices architectures.
   
 I am deeply knowledgeable in leveraging IaC practices and tools to automate and streamline the provisioning and management of cloud resources. My expertise lies in designing and maintaining highly scalable and resilient infrastructures using industry-leading technologies like Terraform, Ansible, Shell Scripts. With a strong focus on infrastructure automation and configuration management, I have successfully reduced deployment times, enhanced scalability, and improved system stability.
-  
+
+## 📱Connect with me learn more!
   - 🏗️ Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023! 
   - 👨‍🎓 Learning Solutions Architecture to delivery scalable🚀 and efficient cloud-based infrastructure.
-  -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [substack](https://amauryborgessouza.substack.com/) and would love if you joined it!
+  -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/) and would love if you joined it!
   - 📚 If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) articles, I always updating it.
   - 📆 Giving back to the community, I'm a organizer DevOps related events ([“DevOpsDays”](https://devopsdays.org/) & “CoffeeOps”).
   - :octocat: I have several of my personal projects on GitHub, approaching different tools like Linux, Terraform, Ansible, K8s.
@@ -29,7 +30,7 @@ Don’t hesitate to reach out me if you’re interested in getting to know my en
 - Infrastructure as Code (IaC) enabling automation, scalability.
 - Monitoring and Observability for metrics collection, log aggregation, and distributed tracing.
   
-## DevOps Tools Stack💻
+## 🖥️Tools and Languages
 I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC (Terraform), Ansible, Docker, Kubernetes, AWS.
   
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
