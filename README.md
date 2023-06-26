@@ -24,11 +24,6 @@ I am deeply knowledgeable in leveraging IaC practices and tools to automate and 
   - 📲 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
   
 Don’t hesitate to reach out me if you’re interested in getting to know my endeavors, working with me, or just chatting over a cup of coffee.
-
-## 📚I am currently learning
-- [x] Infrastructure as Code (IaC) enabling automation, scalability.
-- [x] Monitoring and Observability for metrics collection, log aggregation, and distributed tracing.
-- [x] Cloud Solutions Architecture to delivery scalable and efficient cloud-based infrastructure/apps.
   
 ## 💻Tools and Languages
 I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC (Terraform), Ansible, Docker, Kubernetes, AWS.
