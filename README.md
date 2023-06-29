@@ -24,7 +24,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my personal proj
   - :octocat: I have several of my personal projects on GitHub, approaching different tools like Linux, Terraform, Ansible, K8s.
   - 📲 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
   
-## 💻Tools and Languages
+## 💻DevOps Tools Stack
 I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC (Terraform), Ansible, Docker, Kubernetes, AWS.
   
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
