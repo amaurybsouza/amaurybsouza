@@ -8,14 +8,14 @@ href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.i
 href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /><a/>
   
 
-# Hi, I am Amaury!
+# Hi, I'm Amaury!👋
 I am a SRE/DevOps Engineer working remote from BR.  
   
 Experienced {👨‍💻SRE/DevOps Engineer} with over +10 years of hands-on expertise in architecting, implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. My strong background in containerization technologies, such as Docker and Kubernetes, empowers me to design and maintain highly available and resilient microservices architectures.
   
 I am deeply knowledgeable in leveraging IaC practices and tools to automate and streamline the provisioning and management of cloud resources. My expertise lies in designing and maintaining highly scalable and resilient infrastructures using industry-leading technologies like Terraform, Ansible, Shell Scripts. With a strong focus on infrastructure automation and configuration management, I have successfully reduced deployment times, enhanced scalability, and improved system stability.
 
-## 📱Join with me to learn more!
+## 🎯Highlights
 Welcome to my GitHub profile! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
   - 🏗️ Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023! 
   -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/) and would love if you joined it!
