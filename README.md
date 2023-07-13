@@ -50,6 +50,14 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+
+## 📝Latest Medium posts
+I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
+- Jun 18, 2023: [Reagindo à pesquisa anual do Stack Overflow (Developer Survey 2023)](https://amaurybsouza.medium.com/reagindo-%C3%A0-pesquisa-anual-do-stack-overflow-developer-survey-2023-40f100245dca)
+- Jun 12, 2023: [5 things I love about Terraform](https://amaurybsouza.medium.com/5-things-i-love-about-terraform-89682856d35d) 
+- Jun 11, 2023: [#eufui no AWS Cloud Experience](https://amaurybsouza.medium.com/eufui-no-aws-cloud-experience-10331a1b2fff)
+- May 31, 2023: [Como importar recursos existentes na plataforma do Azure com Terraform](https://amaurybsouza.medium.com/como-importar-recursos-existentes-na-plataforma-do-azure-com-terraform-b32581b030c2) 
+- Apr 25, 2023: [5 automações em Shell Script essenciais para o dia a dia de um DevOps](https://amaurybsouza.medium.com/5-automa%C3%A7%C3%B5es-em-shell-script-essenciais-para-o-dia-a-dia-de-um-devops-5cdc1f33a98a)
   
 ## :octocat:Open-source contributions
 I have several of my personal projects in GitHub, approaching different tools and approches like Linux, Terraform, Ansible, K8s, Devops, GitOps. Feel free to help me collaborating with this projects.
@@ -58,14 +66,6 @@ I have several of my personal projects in GitHub, approaching different tools an
 - [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - cheatsheet helps you with the most commonly and used commands for easy reference.
 - [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - List of tech events happening in Brazil.
 - [descomplicando-helm](https://github.com/badtuxx/DescomplicandoHelm) - simplify the usage of Helm and facilitate the understanding of the Helm Charts.
-  
-## ✍️Latest Medium Posts
-I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
-- Jun 18, 2023: [Reagindo à pesquisa anual do Stack Overflow (Developer Survey 2023)](https://amaurybsouza.medium.com/reagindo-%C3%A0-pesquisa-anual-do-stack-overflow-developer-survey-2023-40f100245dca)
-- Jun 12, 2023: [5 things I love about Terraform](https://amaurybsouza.medium.com/5-things-i-love-about-terraform-89682856d35d) 
-- Jun 11, 2023: [#eufui no AWS Cloud Experience](https://amaurybsouza.medium.com/eufui-no-aws-cloud-experience-10331a1b2fff)
-- May 31, 2023: [Como importar recursos existentes na plataforma do Azure com Terraform](https://amaurybsouza.medium.com/como-importar-recursos-existentes-na-plataforma-do-azure-com-terraform-b32581b030c2) 
-- Apr 25, 2023: [5 automações em Shell Script essenciais para o dia a dia de um DevOps](https://amaurybsouza.medium.com/5-automa%C3%A7%C3%B5es-em-shell-script-essenciais-para-o-dia-a-dia-de-um-devops-5cdc1f33a98a)
   
 ## ℹ️DevOps Weekly Newsletter
 A [Substack](https://amauryborgessouza.substack.com/) newsletter devoted to everything related to sre/devops | cncf solutions | terraform | conferences | culture | ansible | k8s.
