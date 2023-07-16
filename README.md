@@ -73,7 +73,6 @@ I have several of my personal projects in GitHub, approaching different tools an
 - [descomplicando-helm](https://github.com/badtuxx/DescomplicandoHelm) - simplify the usage of Helm and facilitate the understanding of the Helm Charts.
 - [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary) - a quick guide to the main concepts that involve DevOps tools, all in an organized way.
 - [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure) - a complete guide to keep you updated about Terraform & Azure platform.
-- [docker-in-prod](https://github.com/Docker-Tutorialz/docker-in-prod) - basic repository to get start with Docker and some ideas to continue growing.
 - [iac-practice](https://github.com/amaurybsouza/iac-practice) - IaC practice is a simple repository to demonstrate the usage of Ansible and Terraform together.
 - [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) - hands-on of how you can Integrate OTRS 6 ticket system with Zabbix.
 - [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines) - In summary it helps you automate the deployment and management with Azure.
