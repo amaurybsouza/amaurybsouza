@@ -53,6 +53,7 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 
 ## 🚀Latest Medium posts
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
+- Jul 25, 2023: [AWS Glossary [Part I]: List of frequently terms used on daily basis](https://amaurybsouza.medium.com/aws-glossary-part-i-list-of-frequently-terms-used-on-daily-basis-fe261f3394dd)
 - Jun 18, 2023: [Reagindo à pesquisa anual do Stack Overflow (Developer Survey 2023)](https://amaurybsouza.medium.com/reagindo-%C3%A0-pesquisa-anual-do-stack-overflow-developer-survey-2023-40f100245dca)
 - Jun 12, 2023: [5 things I love about Terraform](https://amaurybsouza.medium.com/5-things-i-love-about-terraform-89682856d35d) 
 - Jun 11, 2023: [#eufui no AWS Cloud Experience](https://amaurybsouza.medium.com/eufui-no-aws-cloud-experience-10331a1b2fff)
@@ -62,7 +63,6 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Mar 05, 2023: [TOP 5 certificações para DevOps Engineers em 2023](https://amaurybsouza.medium.com/top-5-certifica%C3%A7%C3%B5es-para-devops-engineers-em-2023-75c049a2c4f0)
 - Feb 26, 2023: [My IaC journey to become Hashicorp Terraform Associate certified](https://amaurybsouza.medium.com/my-iac-journey-to-become-hashicorp-terraform-associate-certified-6180991a1394)
 - Feb 13, 2023: [Ainda não usa VIM? Veja aqui 5 motivos para começar](https://amaurybsouza.medium.com/ainda-n%C3%A3o-usa-vim-veja-aqui-5-motivos-para-come%C3%A7ar-6c4410839e4e)
-- Jan 28, 2023: [5 projetos do GitHub essenciais para um DevOps Engineer em 2023](https://amaurybsouza.medium.com/5-projetos-do-github-essenciais-para-um-devops-engineer-em-2023-1d4039b1eec6)
   
 ## :octocat:Open-source contributions
 I have several of my personal projects in GitHub, approaching different tools and approches like Linux, Terraform, Ansible, K8s, Devops, GitOps. Feel free to help me collaborating with this projects.
