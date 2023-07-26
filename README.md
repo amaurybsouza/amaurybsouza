@@ -77,15 +77,18 @@ I have several of my personal projects in GitHub, approaching different tools an
 - [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) - hands-on of how you can Integrate OTRS 6 ticket system with Zabbix.
 - [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines) - In summary it helps you automate the deployment and management with Azure.
 
-## Viva o Linux posts
+## 🐧Viva o Linux posts
 Viva o Linux portal is a popular online community and website dedicated to open-source software and Linux enthusiasts. 
 - [Shell Script]: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/)
 - [Shell Script]: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/)
 - [Shell Script]: [Instalação de programas no Ubuntu Linux](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/)
 - [Shell Script]: [Limpeza dos dados do rConfig (ferramenta open-source de gerenciamento de configuração](https://www.vivaolinux.com.br/script/Limpeza-dos-dados-do-rConfig-ferramenta-open-source-de-gerenciamento-de-configuracao/)
 - [Shell Script]: [Instalação do LAMP no Linux Ubuntu](https://www.vivaolinux.com.br/script/Instalacao-do-LAMP-no-Linux-Ubuntu/)
-- [Shell Script]:
-- [Shell Script]:
+- [Shell Script]: [Gerenciamento de software e hardware de desktop](https://www.vivaolinux.com.br/script/Gerenciamento-de-software-e-hardware-de-desktop/)
+- [Shell Script]: [Atualizar Sistema - Ubuntu](https://www.vivaolinux.com.br/script/Atualizar-Sistema-Ubuntu/)
+- [Post]: [Zabbix, banco de dados cheio](https://www.vivaolinux.com.br/topico/Zabbix/Banco-de-dados-cheio)
+- [Tips]: [Gerenciamento de usuários e grupos no Linux - LPIC-102](https://www.vivaolinux.com.br/~amaurybsouza/dicas/)
+- [Articles]: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
   
 ## ℹ️DevOps Weekly Newsletter
 A [Substack](https://amauryborgessouza.substack.com/) newsletter devoted to everything related to sre/devops | cncf solutions | terraform | conferences | culture | ansible | k8s.
