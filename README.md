@@ -51,7 +51,7 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-## 🚀Latest Medium posts
+## 🚀Latest Medium articles
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
 - Jul 25, 2023: [AWS Glossary [Part I]: List of frequently terms used on daily basis](https://amaurybsouza.medium.com/aws-glossary-part-i-list-of-frequently-terms-used-on-daily-basis-fe261f3394dd)
 - Jun 18, 2023: [Reagindo à pesquisa anual do Stack Overflow (Developer Survey 2023)](https://amaurybsouza.medium.com/reagindo-%C3%A0-pesquisa-anual-do-stack-overflow-developer-survey-2023-40f100245dca)
@@ -76,6 +76,10 @@ I have several of my personal projects in GitHub, approaching different tools an
 - [iac-practice](https://github.com/amaurybsouza/iac-practice) - IaC practice is a simple repository to demonstrate the usage of Ansible and Terraform together.
 - [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) - hands-on of how you can Integrate OTRS 6 ticket system with Zabbix.
 - [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines) - In summary it helps you automate the deployment and management with Azure.
+
+## Viva o Linux posts
+Viva o Linux portal is a popular online community and website dedicated to open-source software and Linux enthusiasts. 
+- [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/)
   
 ## ℹ️DevOps Weekly Newsletter
 A [Substack](https://amauryborgessouza.substack.com/) newsletter devoted to everything related to sre/devops | cncf solutions | terraform | conferences | culture | ansible | k8s.
