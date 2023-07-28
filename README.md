@@ -53,8 +53,8 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 
 ## 📚Latest Medium articles
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
-- Jul 25, 2023: [AWS Glossary [Part I]: List of frequently terms used on daily basis](https://amaurybsouza.medium.com/aws-glossary-part-i-list-of-frequently-terms-used-on-daily-basis-fe261f3394dd)
-- Jun 18, 2023: [Reagindo à pesquisa anual do Stack Overflow (Developer Survey 2023)](https://amaurybsouza.medium.com/reagindo-%C3%A0-pesquisa-anual-do-stack-overflow-developer-survey-2023-40f100245dca)
+- [x] Jul 25, 2023: [AWS Glossary [Part I]: List of frequently terms used on daily basis](https://amaurybsouza.medium.com/aws-glossary-part-i-list-of-frequently-terms-used-on-daily-basis-fe261f3394dd)
+- [x] Jun 18, 2023: [Reagindo à pesquisa anual do Stack Overflow (Developer Survey 2023)](https://amaurybsouza.medium.com/reagindo-%C3%A0-pesquisa-anual-do-stack-overflow-developer-survey-2023-40f100245dca)
 - Jun 12, 2023: [5 things I love about Terraform](https://amaurybsouza.medium.com/5-things-i-love-about-terraform-89682856d35d) 
 - Jun 11, 2023: [#eufui no AWS Cloud Experience](https://amaurybsouza.medium.com/eufui-no-aws-cloud-experience-10331a1b2fff)
 - May 31, 2023: [Como importar recursos existentes na plataforma do Azure com Terraform](https://amaurybsouza.medium.com/como-importar-recursos-existentes-na-plataforma-do-azure-com-terraform-b32581b030c2) 
