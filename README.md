@@ -60,9 +60,6 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - [x] May 31, 2023: [Como importar recursos existentes na plataforma do Azure com Terraform](https://amaurybsouza.medium.com/como-importar-recursos-existentes-na-plataforma-do-azure-com-terraform-b32581b030c2) 
 - [x] Apr 25, 2023: [5 automações em Shell Script essenciais para o dia a dia de um DevOps](https://amaurybsouza.medium.com/5-automa%C3%A7%C3%B5es-em-shell-script-essenciais-para-o-dia-a-dia-de-um-devops-5cdc1f33a98a)
 - [x] Mar 17, 2023: [Usando ChatGPT para #homelabs de DevOps](https://amaurybsouza.medium.com/usando-chatgpt-para-devops-b3d0af3796db)
-- [x] Mar 05, 2023: [TOP 5 certificações para DevOps Engineers em 2023](https://amaurybsouza.medium.com/top-5-certifica%C3%A7%C3%B5es-para-devops-engineers-em-2023-75c049a2c4f0)
-- [x] Feb 26, 2023: [My IaC journey to become Hashicorp Terraform Associate certified](https://amaurybsouza.medium.com/my-iac-journey-to-become-hashicorp-terraform-associate-certified-6180991a1394)
-- [x] Feb 13, 2023: [Ainda não usa VIM? Veja aqui 5 motivos para começar](https://amaurybsouza.medium.com/ainda-n%C3%A3o-usa-vim-veja-aqui-5-motivos-para-come%C3%A7ar-6c4410839e4e)
   
 ## :octocat:Open-source contributions
 I have several of my personal projects in GitHub, approaching different tools and approches like Linux, Terraform, Ansible, K8s, Devops, GitOps. Feel free to help me collaborating with this projects.
@@ -73,19 +70,13 @@ I have several of my personal projects in GitHub, approaching different tools an
 - [x] [descomplicando-helm](https://github.com/badtuxx/DescomplicandoHelm) - simplify the usage of Helm and facilitate the understanding of the Helm Charts.
 - [x] [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary) - a quick guide to the main concepts that involve DevOps tools, all in an organized way.
 - [x] [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure) - a complete guide to keep you updated about Terraform & Azure platform.
-- [x] [iac-practice](https://github.com/amaurybsouza/iac-practice) - IaC practice is a simple repository to demonstrate the usage of Ansible and Terraform together.
-- [x] [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) - hands-on of how you can Integrate OTRS 6 ticket system with Zabbix.
-- [x] [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines) - In summary it helps you automate the deployment and management with Azure.
 
 ## 🐧Viva o Linux posts
 Viva o Linux portal is a popular online community and website dedicated to open-source software and Linux enthusiasts. 
-- [Shell Script]: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/)
-- [Shell Script]: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/)
-- [Shell Script]: [Instalação de programas no Ubuntu Linux](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/)
-- [Shell Script]: [Limpeza dos dados do rConfig (ferramenta open-source de gerenciamento de configuração](https://www.vivaolinux.com.br/script/Limpeza-dos-dados-do-rConfig-ferramenta-open-source-de-gerenciamento-de-configuracao/)
-- [Shell Script]: [Instalação do LAMP no Linux Ubuntu](https://www.vivaolinux.com.br/script/Instalacao-do-LAMP-no-Linux-Ubuntu/)
-- [Shell Script]: [Gerenciamento de software e hardware de desktop](https://www.vivaolinux.com.br/script/Gerenciamento-de-software-e-hardware-de-desktop/)
-- [Shell Script]: [Atualizar Sistema - Ubuntu](https://www.vivaolinux.com.br/script/Atualizar-Sistema-Ubuntu/)
-- [Post]: [Zabbix, banco de dados cheio](https://www.vivaolinux.com.br/topico/Zabbix/Banco-de-dados-cheio)
-- [Tips]: [Gerenciamento de usuários e grupos no Linux - LPIC-102](https://www.vivaolinux.com.br/~amaurybsouza/dicas/)
-- [Articles]: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
+- [x] [Shell Script]: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/)
+- [x] [Shell Script]: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/)
+- [x] [Shell Script]: [Instalação do LAMP no Linux Ubuntu](https://www.vivaolinux.com.br/script/Instalacao-do-LAMP-no-Linux-Ubuntu/)
+- [x] [Shell Script]: [Gerenciamento de software e hardware de desktop](https://www.vivaolinux.com.br/script/Gerenciamento-de-software-e-hardware-de-desktop/)
+- [x] [Post]: [Zabbix, banco de dados cheio](https://www.vivaolinux.com.br/topico/Zabbix/Banco-de-dados-cheio)
+- [x] [Tips]: [Gerenciamento de usuários e grupos no Linux - LPIC-102](https://www.vivaolinux.com.br/~amaurybsouza/dicas/)
+- [x] [Article]: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
