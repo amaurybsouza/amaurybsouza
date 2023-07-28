@@ -66,16 +66,16 @@ I have made it my mission to share my entire DevOps learning journey across the 
   
 ## :octocat:Open-source contributions
 I have several of my personal projects in GitHub, approaching different tools and approches like Linux, Terraform, Ansible, K8s, Devops, GitOps. Feel free to help me collaborating with this projects.
-- https://trilha.info - Since June/2022, more than 20k people have accessed Trilha Info for free as a study support tool.
-- [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes.
-- [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - cheatsheet helps you with the most commonly and used commands for easy reference.
-- [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - List of tech events happening in Brazil.
-- [descomplicando-helm](https://github.com/badtuxx/DescomplicandoHelm) - simplify the usage of Helm and facilitate the understanding of the Helm Charts.
-- [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary) - a quick guide to the main concepts that involve DevOps tools, all in an organized way.
-- [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure) - a complete guide to keep you updated about Terraform & Azure platform.
-- [iac-practice](https://github.com/amaurybsouza/iac-practice) - IaC practice is a simple repository to demonstrate the usage of Ansible and Terraform together.
-- [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) - hands-on of how you can Integrate OTRS 6 ticket system with Zabbix.
-- [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines) - In summary it helps you automate the deployment and management with Azure.
+- [x] https://trilha.info - Since June/2022, more than 20k people have accessed Trilha Info for free as a study support tool.
+- [x] [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes.
+- [x] [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - cheatsheet helps you with the most commonly and used commands for easy reference.
+- [x] [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - List of tech events happening in Brazil.
+- [x] [descomplicando-helm](https://github.com/badtuxx/DescomplicandoHelm) - simplify the usage of Helm and facilitate the understanding of the Helm Charts.
+- [x] [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary) - a quick guide to the main concepts that involve DevOps tools, all in an organized way.
+- [x] [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure) - a complete guide to keep you updated about Terraform & Azure platform.
+- [x] [iac-practice](https://github.com/amaurybsouza/iac-practice) - IaC practice is a simple repository to demonstrate the usage of Ansible and Terraform together.
+- [x] [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) - hands-on of how you can Integrate OTRS 6 ticket system with Zabbix.
+- [x] [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines) - In summary it helps you automate the deployment and management with Azure.
 
 ## 🐧Viva o Linux posts
 Viva o Linux portal is a popular online community and website dedicated to open-source software and Linux enthusiasts. 
