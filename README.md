@@ -53,8 +53,8 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 
 ## 📚Latest Medium articles
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
-- ✅ Jul 25, 2023: [AWS Glossary [Part I]: List of frequently terms used on daily basis](https://amaurybsouza.medium.com/aws-glossary-part-i-list-of-frequently-terms-used-on-daily-basis-fe261f3394dd)
--  Jun 18, 2023: [Reagindo à pesquisa anual do Stack Overflow (Developer Survey 2023)](https://amaurybsouza.medium.com/reagindo-%C3%A0-pesquisa-anual-do-stack-overflow-developer-survey-2023-40f100245dca)
+- ☑ Jul 25, 2023: [AWS Glossary [Part I]: List of frequently terms used on daily basis](https://amaurybsouza.medium.com/aws-glossary-part-i-list-of-frequently-terms-used-on-daily-basis-fe261f3394dd)
+- ☑ Jun 18, 2023: [Reagindo à pesquisa anual do Stack Overflow (Developer Survey 2023)](https://amaurybsouza.medium.com/reagindo-%C3%A0-pesquisa-anual-do-stack-overflow-developer-survey-2023-40f100245dca)
 - ☑ Jun 12, 2023: [5 things I love about Terraform](https://amaurybsouza.medium.com/5-things-i-love-about-terraform-89682856d35d) 
 - ☑ Jun 11, 2023: [#eufui no AWS Cloud Experience](https://amaurybsouza.medium.com/eufui-no-aws-cloud-experience-10331a1b2fff)
 - ☑ May 31, 2023: [Como importar recursos existentes na plataforma do Azure com Terraform](https://amaurybsouza.medium.com/como-importar-recursos-existentes-na-plataforma-do-azure-com-terraform-b32581b030c2) 
@@ -64,20 +64,20 @@ I have made it my mission to share my entire DevOps learning journey across the 
 ## :octocat:Open-source contributions
 I have several of my personal projects in GitHub, approaching different tools and approches like Linux, Terraform, Ansible, K8s, Devops, GitOps. Feel free to help me collaborating with this projects
 
-- ☑️ https://trilha.info - Since June/2022, more than 20k people have accessed Trilha Info for free as a study support tool.
-- ☑️ [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes.
-- ☑️ [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - cheatsheet helps you with the most commonly and used commands for easy reference.
-- ☑️ [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - List of tech events happening in Brazil.
-- ☑️ [descomplicando-helm](https://github.com/badtuxx/DescomplicandoHelm) - simplify the usage of Helm and facilitate the understanding of the Helm Charts.
-- ☑️ [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary) - a quick guide to the main concepts that involve DevOps tools, all in an organized way.
+- ☑ https://trilha.info - Since June/2022, more than 20k people have accessed Trilha Info for free as a study support tool.
+- ☑ [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes.
+- ☑ [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - cheatsheet helps you with the most commonly and used commands for easy reference.
+- ☑ [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - List of tech events happening in Brazil.
+- ☑ [descomplicando-helm](https://github.com/badtuxx/DescomplicandoHelm) - simplify the usage of Helm and facilitate the understanding of the Helm Charts.
+- ☑ [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary) - a quick guide to the main concepts that involve DevOps tools, all in an organized way.
 - ☑️ [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure) - a complete guide to keep you updated about Terraform & Azure platform.
 
 ## 🐧Viva o Linux posts
 Viva o Linux portal is a popular online community and website dedicated to open-source software and Linux enthusiasts. 
-- [x] `{Bash Script}`: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/)
-- [x] `{Bash Script}`: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/)
-- [x] `{Bash Script}`: [Instalação do LAMP no Linux Ubuntu](https://www.vivaolinux.com.br/script/Instalacao-do-LAMP-no-Linux-Ubuntu/)
-- [x] `{Bash Script}`: [Gerenciamento de software e hardware de desktop](https://www.vivaolinux.com.br/script/Gerenciamento-de-software-e-hardware-de-desktop/)
-- [x] `Post`: [Zabbix, banco de dados cheio](https://www.vivaolinux.com.br/topico/Zabbix/Banco-de-dados-cheio)
-- [x] `Tips`: [Gerenciamento de usuários e grupos no Linux - LPIC-102](https://www.vivaolinux.com.br/~amaurybsouza/dicas/)
-- [x] `Article`: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
+- ☑ `{Bash Script}`: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/)
+- ☑ `{Bash Script}`: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/)
+- ☑ `{Bash Script}`: [Instalação do LAMP no Linux Ubuntu](https://www.vivaolinux.com.br/script/Instalacao-do-LAMP-no-Linux-Ubuntu/)
+- ☑ `{Bash Script}`: [Gerenciamento de software e hardware de desktop](https://www.vivaolinux.com.br/script/Gerenciamento-de-software-e-hardware-de-desktop/)
+- ☑ `Post`: [Zabbix, banco de dados cheio](https://www.vivaolinux.com.br/topico/Zabbix/Banco-de-dados-cheio)
+- ☑ `Tips`: [Gerenciamento de usuários e grupos no Linux - LPIC-102](https://www.vivaolinux.com.br/~amaurybsouza/dicas/)
+- ☑ `Article`: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
