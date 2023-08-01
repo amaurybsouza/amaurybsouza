@@ -74,10 +74,10 @@ I have several of my personal projects in GitHub, approaching different tools an
 
 ## 🐧Viva o Linux posts
 Viva o Linux portal is a popular online community and website dedicated to open-source software and Linux enthusiasts. 
-- ☑ `{Bash Script}`: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/)
-- ☑ `{Bash Script}`: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/)
-- ☑ `{Bash Script}`: [Instalação do LAMP no Linux Ubuntu](https://www.vivaolinux.com.br/script/Instalacao-do-LAMP-no-Linux-Ubuntu/)
-- ☑ `{Bash Script}`: [Gerenciamento de software e hardware de desktop](https://www.vivaolinux.com.br/script/Gerenciamento-de-software-e-hardware-de-desktop/)
-- ☑ `Post`: [Zabbix, banco de dados cheio](https://www.vivaolinux.com.br/topico/Zabbix/Banco-de-dados-cheio)
-- ☑ `Tips`: [Gerenciamento de usuários e grupos no Linux - LPIC-102](https://www.vivaolinux.com.br/~amaurybsouza/dicas/)
-- ☑ `Article`: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
+- [x] `{Bash Script}`: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/)
+- [x] `{Bash Script}`: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/)
+- [x] `{Bash Script}`: [Instalação do LAMP no Linux Ubuntu](https://www.vivaolinux.com.br/script/Instalacao-do-LAMP-no-Linux-Ubuntu/)
+- [x] `{Bash Script}`: [Gerenciamento de software e hardware de desktop](https://www.vivaolinux.com.br/script/Gerenciamento-de-software-e-hardware-de-desktop/)
+- [x] `Post`: [Zabbix, banco de dados cheio](https://www.vivaolinux.com.br/topico/Zabbix/Banco-de-dados-cheio)
+- [x] `Tips`: [Gerenciamento de usuários e grupos no Linux - LPIC-102](https://www.vivaolinux.com.br/~amaurybsouza/dicas/)
+- [x] `Article`: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
