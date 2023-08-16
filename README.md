@@ -17,7 +17,6 @@ I am deeply knowledgeable in leveraging IaC practices and tools to automate and 
 
 ## 🎯Highlights
 Welcome to my GitHub profile! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
-  - 🌟Exciting News: I'm Now Offering DevOps Mentorship!🌟 I'm here to guide you on this exciting tech journey.
   - ☁️I was invited to participate in the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
   - 📊Learning Solutions Architecture, expertise in IaC (Infrastructure as Code), LINUX operations and Cloud platforms (AWS/Azure).
   - 🏗️Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023! 
