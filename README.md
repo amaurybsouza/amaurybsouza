@@ -52,6 +52,11 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
+## 🗞️DevOps Content Strategist
+Subscribe to my newsletter👉 (DevOps Tech Highlights💻). A newsletter devoted to everything related to SRE/DevOps | cncf solutions | Terraform | Conferences | Kubecon | Ansible | k8s.
+- Sep 24, 2023: [Habilidades desejáveis para pessoa Arquiteta de Software](https://amauryborgessouza.substack.com/p/habilidades-desejaveis-para-pessoa).
+- Sep, 23, 2023: [Hacktoberfest 2023 chegando com TUDO](https://amauryborgessouza.substack.com/p/hacktoberfest-2023-chegando-com-tudo).
+
 ## 📚Latest Medium articles
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
 - Aug 17, 2023: [Fui aceito no programa AWS Community Builders!](https://amaurybsouza.medium.com/fui-aceito-no-programa-aws-community-builders-76cc28b735f8)
