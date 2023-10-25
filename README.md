@@ -9,7 +9,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
   
 
 # Hi, I'm Amaury!👋
-I am a AWS DevOps Engineer working remote from BR.  
+I am a Lead/DevOps Engineer working remote from BR.  
   
 Experienced {👨‍💻Lead/DevOps Engineer}, I currently work with DevOps & Infrastructure Engineering, I always try to learn about new tech, I speak portuguese and english (though is not my primary language). Profissional with +10 years of hands-on expertise in infrastructure, Cloud platforms, IaC (infra as code), implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. My strong background in containerization technologies, such as Docker and Kubernetes.
   
