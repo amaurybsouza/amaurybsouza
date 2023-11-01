@@ -20,6 +20,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my personal proj
   - ☁️I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
   - 🏗️Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023!
   - 📊Learning Solutions Architecture, expertise in IaC (Infrastructure as Code), LINUX operations and Cloud platforms (AWS/Azure). 
+  - sasasasas
   -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/) and would love if you joined it!
   - 📚 If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) articles, I always updating it.
   - 📆 Giving back to the community, I'm a organizer DevOps related events ([“DevOpsDays”](https://devopsdays.org/) & “CoffeeOps”).
