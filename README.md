@@ -21,8 +21,8 @@ Welcome to my GitHub profile! Here, you'll find a collection of my personal proj
   - 🏗️Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023!
   - Graduated in Systems Analysis at [Fatec Americana](https://www.fatec.edu.br/) and currently post-graduating degree in Solution Architecture at PUC Minas.
   - 📊Learning Solutions Architecture, expertise in IaC (Infrastructure as Code), LINUX operations and Cloud platforms (AWS/Azure). 
-  -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [DevOps Tech New](https://amauryborgessouza.substack.com/) and would love if you joined it!
-  - 📚 If you enjoy read tech contents make sure you have checked my [Medium portal](https://amaurybsouza.medium.com/) articles, I always updating it.
+  -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [DevOps Tech News](https://amauryborgessouza.substack.com/) and would love if you joined it!
+  - 📚 If you enjoy read tech contents make sure you have checked my [Medium Portal](https://amaurybsouza.medium.com/) articles, I always updating it.
   - 📆 Giving back to the community, I'm a organizer DevOps related events ([“DevOpsDays”](https://devopsdays.org/) & “CoffeeOps”).
   - :octocat: I have several of my personal projects on GitHub, approaching different tools like Linux, Terraform, Ansible, K8s.
   
