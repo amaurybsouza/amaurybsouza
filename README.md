@@ -9,7 +9,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
   
 
 ## Hi, I'm Amaury!👋
-{SRE/DevOps Engineer} dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, infrastructure as code (IaC) & cloud native
+{SRE/DevOps Engineer} dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, infrastructure as code (IaC) & cloud native. I keep a newsletter filled with awesome DevOps stuff at [DevOps Tech News](https://amauryborgessouza.substack.com/) and I love writing tech posts at [Medium](https://amaurybsouza.medium.com/).
 
 ## Career Milestones!🚀
 Welcome to my GitHub profile! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
