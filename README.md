@@ -9,10 +9,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
   
 
 # Hi, I'm Amaury!👋
-
-Experienced {👨‍💻Lead/DevOps Engineer}, I currently work with DevOps & Infrastructure Engineering, I always try to learn about new tech, I speak portuguese and english (though is not my primary language). Profissional with +10 years of hands-on expertise in infrastructure, Cloud platforms, IaC (infra as code), implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. My strong background in containerization technologies, such as Docker and Kubernetes.
-  
-I am deeply knowledgeable in leveraging IaC practices and tools to automate and streamline the provisioning and management of cloud resources. My expertise lies in designing and maintaining highly scalable and resilient infrastructures using industry-leading technologies like Terraform, Ansible, Shell Scripts. With a strong focus on infrastructure automation and configuration management, I have successfully reduced deployment times, enhanced scalability, and improved system stability. Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
+{SRE/DevOps Engineer} dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, infrastructure as code (IaC) & cloud native
 
 ## Career Milestones!🚀
 Welcome to my GitHub profile! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
