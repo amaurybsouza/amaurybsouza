@@ -8,7 +8,7 @@ href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.i
 href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /><a/>
   
 
-# Hi, I'm Amaury!👋
+## Hi, I'm Amaury!👋
 {SRE/DevOps Engineer} dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, infrastructure as code (IaC) & cloud native
 
 ## Career Milestones!🚀
