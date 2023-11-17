@@ -78,3 +78,7 @@ Viva o Linux portal is a popular online community and website dedicated to open-
 - Post: [Zabbix, banco de dados cheio](https://www.vivaolinux.com.br/topico/Zabbix/Banco-de-dados-cheio)
 - Tips: [Gerenciamento de usuários e grupos no Linux - LPIC-102](https://www.vivaolinux.com.br/~amaurybsouza/dicas/)
 - Article: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
+
+## Latest Tech Courses
+sasasasas
+- Nov 17, 2023: [Programação Python 2023!](http://ude.my/UC-7fbaca77-9492-4e16-8226-9ee5b30d278f)
