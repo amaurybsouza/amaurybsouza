@@ -98,7 +98,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
-## Tech newsletter!
+## Tech newsletter!	🗞️
 Subscribe to my newsletter👉 (DevOps Tech News🗞️💻). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF Solutions | Terraform | Conferences | Kubecon | Ansible | k8s.
 - Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa).
 - Sep 25, 2023: [Ansible (ad-hoc): O que é? Quando usar?](https://amauryborgessouza.substack.com/p/ansible-ad-hoc-o-que-e-quando-usar).
@@ -108,7 +108,7 @@ Subscribe to my newsletter👉 (DevOps Tech News🗞️💻). A [newsletter](htt
 - Sep 21, 2023: [É importante saber uma lang para SRE?](https://amauryborgessouza.substack.com/p/e-importante-saber-uma-lang-para).
 - Sep 10, 2023: [Prévia do meu artigo no Medium: "Porque eu uso Ansible e não Puppet, Chef, CFEngine e SaltStack"](https://amauryborgessouza.substack.com/p/previa-do-meu-artigo-no-medium-porque).
 
-## Medium posts!
+## Medium posts!📚
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
 - Aug 17, 2023: [Fui aceito no programa AWS Community Builders!](https://amaurybsouza.medium.com/fui-aceito-no-programa-aws-community-builders-76cc28b735f8)
 - Jul 25, 2023: [AWS Glossary [Part I]: List of frequently terms used on daily basis](https://amaurybsouza.medium.com/aws-glossary-part-i-list-of-frequently-terms-used-on-daily-basis-fe261f3394dd)
