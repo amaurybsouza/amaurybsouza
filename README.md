@@ -12,7 +12,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
 
 ## DevOps Stack
 
-<details><summary>IaC</summary><p>
+<details><summary>IaC (Infrastructure as Code)</summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
@@ -31,6 +31,29 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 These tools play a pivotal role in my DevOps toolkit, empowering me to automate, manage, and optimize every aspect of the development lifecycle. Let's dive into the magic behind the scenes.
 </p></details>
+
+<details><summary>Monitoring & Observability</summary><p>
+  
+Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
+
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+
+These tools play a pivotal role in my DevOps toolkit, empowering me to automate, manage, and optimize every aspect of the development lifecycle. Let's dive into the magic behind the scenes.
+</p></details>
+
+<details><summary>Languages (Automation)</summary><p>
+  
+Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
+
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+
+These tools play a pivotal role in my DevOps toolkit, empowering me to automate, manage, and optimize every aspect of the development lifecycle. Let's dive into the magic behind the scenes.
+</p></details>
+
 
 
 ## Tech newsletter!
