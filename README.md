@@ -69,7 +69,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
-<details><summary>Languages (Automation)</summary><p>
+<details><summary><strong>Languages (Automation)</strong></summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
@@ -81,7 +81,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
-<details><summary>Linux Systems & Networking</summary><p>
+<details><summary>strong>Linux Systems & Networking</summary></summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
