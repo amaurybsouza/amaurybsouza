@@ -43,7 +43,7 @@ I have several of my personal projects in GitHub, approaching different tools an
 
 ## DevOps Stack🧰
 
-<details><summary>IaC (Infrastructure as Code) - I have worked with Terraform, Ansible in creatives projects to automate the infrastructure</summary><p>
+<details><summary>IaC (Infrastructure as Code) - I have worked with Terraform🏗️, Ansible🧰 in creatives projects to automate the infrastructure</summary><p>
   
 I have cultivated expertise in the realm of Infrastructure as Code (IaC), demonstrating a profound understanding of orchestrating infrastructure deployment through code. Proficient in tools like Terraform, Ansible, and other IaC frameworks, I am dedicated to architecting robust and scalable infrastructures with precision and efficiency.
 
@@ -56,7 +56,7 @@ I have cultivated expertise in the realm of Infrastructure as Code (IaC), demons
 
 </p></details>
 
-<details><summary>CI/CD Workflows - I have builded and created DevOps workflows using GitHub Actions for IaC flow and more!</summary><p>
+<details><summary>CI/CD Workflows - I have builded and created DevOps🚀 workflows using GitHub Actions for IaC flow and more!</summary><p>
   
 I have consistently kept myself abreast of the latest advancements in the realm of DevOps workflows and CI/CD tools. My experience extends across platforms such as GitHub Actions, GitLab, and various other tools, demonstrating my commitment to facilitating streamlined and efficient development and deployment processes.
 
