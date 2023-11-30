@@ -55,7 +55,16 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 These tools play a pivotal role in my DevOps toolkit, empowering me to automate, manage, and optimize every aspect of the development lifecycle. Let's dive into the magic behind the scenes.
 </p></details>
 
+<details><summary>CI/CD Workflows</summary><p>
+  
+I’ve kept myself updated and embraced the DevOps workdlows & CI/CD tools, working with GitHub Acions, GitLab and more!
 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+These tools play a pivotal role in my DevOps toolkit, empowering me to automate, manage, and optimize every aspect of the development lifecycle. Let's dive into the magic behind the scenes.
+</p></details>
 
 ## Tech newsletter!
 Subscribe to my newsletter👉 (DevOps Tech News🗞️💻). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF Solutions | Terraform | Conferences | Kubecon | Ansible | k8s.
