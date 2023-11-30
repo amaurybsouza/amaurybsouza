@@ -27,12 +27,13 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 <details><summary>CI/CD Workflows</summary><p>
   
-I’ve kept myself updated and embraced the DevOps workdlows & CI/CD tools, working with GitHub Acions, GitLab and more!
+I have consistently kept myself abreast of the latest advancements in the realm of DevOps workflows and CI/CD tools. My experience extends across platforms such as GitHub Actions, GitLab, and various other tools, demonstrating my commitment to facilitating streamlined and efficient development and deployment processes.
 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 </p></details>
 
