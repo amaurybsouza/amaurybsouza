@@ -47,9 +47,10 @@ These tools play a pivotal role in my DevOps toolkit, empowering me to automate,
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Markdown](https://img.shields.io/badge/markdown-3670A0?style=for-the-badge&logo=markdown&logoColor=white)
 
 These tools play a pivotal role in my DevOps toolkit, empowering me to automate, manage, and optimize every aspect of the development lifecycle. Let's dive into the magic behind the scenes.
 </p></details>
