@@ -10,7 +10,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
 ## Hi, I'm Amaury!👋
 {SRE/DevOps Engineer} dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, infrastructure as code (IaC) & cloud native. I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/) and I love writing tech posts at [Medium](https://amaurybsouza.medium.com/). I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program and I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community. Backing to the tech community, last months I have worked closely with several people to keep and create new possibilities to learn and share around Cloud contents and Hashicorp products.
 
-## DevOps Stack
+## DevOps Stack🧰
 
 <details><summary>IaC (Infrastructure as Code)</summary><p>
   
@@ -18,8 +18,21 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-3670A0?style=for-the-badge&logo=markdown&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-000000?style=for-the-badge&logo=yaml&logoColor=white)
 
-These tools play a pivotal role in my DevOps toolkit, empowering me to automate, manage, and optimize every aspect of the development lifecycle. Let's dive into the magic behind the scenes.
+</p></details>
+
+<details><summary>CI/CD Workflows</summary><p>
+  
+I’ve kept myself updated and embraced the DevOps workdlows & CI/CD tools, working with GitHub Acions, GitLab and more!
+
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+These tools play a pivotal role in my DevOps toolkit, empowering me to automate, manage, and optimize every aspect of the development lifecycle.
 </p></details>
 
 <details><summary>Cloud Providers</summary><p>
@@ -51,17 +64,6 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-3670A0?style=for-the-badge&logo=markdown&logoColor=white)
-
-These tools play a pivotal role in my DevOps toolkit, empowering me to automate, manage, and optimize every aspect of the development lifecycle. Let's dive into the magic behind the scenes.
-</p></details>
-
-<details><summary>CI/CD Workflows</summary><p>
-  
-I’ve kept myself updated and embraced the DevOps workdlows & CI/CD tools, working with GitHub Acions, GitLab and more!
-
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 These tools play a pivotal role in my DevOps toolkit, empowering me to automate, manage, and optimize every aspect of the development lifecycle. Let's dive into the magic behind the scenes.
 </p></details>
