@@ -7,9 +7,31 @@ href="https://amauryborgessouza.substack.com/"><img src="https://img.shields.io/
 href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/><a href="https://amauryborgesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/><a 
 href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /><a/>
   
-
 ## Hi, I'm Amaury!👋
 {SRE/DevOps Engineer} dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, infrastructure as code (IaC) & cloud native. I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/) and I love writing tech posts at [Medium](https://amaurybsouza.medium.com/). I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program and I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community. Backing to the tech community, last months I have worked closely with several people to keep and create new possibilities to learn and share around Cloud contents and Hashicorp products.
+
+## DevOps Stack
+
+<details><summary>IaC</summary><p>
+  
+Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
+
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+These tools play a pivotal role in my DevOps toolkit, empowering me to automate, manage, and optimize every aspect of the development lifecycle. Let's dive into the magic behind the scenes.
+</p></details>
+
+<details><summary>Cloud Providers</summary><p>
+  
+Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+These tools play a pivotal role in my DevOps toolkit, empowering me to automate, manage, and optimize every aspect of the development lifecycle. Let's dive into the magic behind the scenes.
+</p></details>
+
 
 ## Tech newsletter!
 Subscribe to my newsletter👉 (DevOps Tech News🗞️💻). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF Solutions | Terraform | Conferences | Kubecon | Ansible | k8s.
