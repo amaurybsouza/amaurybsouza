@@ -80,6 +80,20 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
+<details><summary>Infrastructure Systems</summary><p>
+  
+Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
+
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-007396?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![OSI Model](https://img.shields.io/badge/OSI%20Model-4D4D4D?style=for-the-badge&logo=none)
+
+</p></details>
+
 ## Tech newsletter!
 Subscribe to my newsletter👉 (DevOps Tech News🗞️💻). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF Solutions | Terraform | Conferences | Kubecon | Ansible | k8s.
 - Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa).
