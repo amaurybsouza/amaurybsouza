@@ -81,7 +81,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
-<details><summary>strong>Linux Systems & Networking</summary></summary><p>
+<details><summary><strong>Linux Systems & Networking</strong></summary></summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
