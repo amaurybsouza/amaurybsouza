@@ -56,7 +56,7 @@ I have cultivated expertise in the realm of Infrastructure as Code (IaC), demons
 
 </p></details>
 
-<details><summary><strong>CI/CD Workflows</strong>strong> - I have builded and created DevOps🚀 workflows using GitHub Actions for IaC flow and more!</summary><p>
+<details><summary><strong>CI/CD Workflows</strong> - I have builded and created DevOps🚀 workflows using GitHub Actions for IaC flow and more!</summary><p>
   
 I have consistently kept myself abreast of the latest advancements in the realm of DevOps workflows and CI/CD tools. My experience extends across platforms such as GitHub Actions, GitLab, and various other tools, demonstrating my commitment to facilitating streamlined and efficient development and deployment processes.
 
@@ -68,7 +68,7 @@ I have consistently kept myself abreast of the latest advancements in the realm 
 
 </p></details>
 
-<details><summary><strong>Container Orchestration</strong>strong> - Experienced with Docker (Dockerfile🐳) and Kubernetes☸️ for production workloads!</summary><p>
+<details><summary><strong>Container Orchestration</strong> - Experienced with Docker (Dockerfile🐳) and Kubernetes☸️ for production workloads!</summary><p>
   
 I’ve kept myself updated and embraced the Kubernetes environment and Docker Containers!
 
@@ -80,7 +80,7 @@ I’ve kept myself updated and embraced the Kubernetes environment and Docker Co
 
 </p></details>
 
-<details><summary><strong>Cloud Computing</strong>strong></summary><p>
+<details><summary><strong>Cloud Computing</strong></summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
@@ -90,7 +90,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
-<details><summary><strong>Monitoring & Observability</strong>strong></summary><p>
+<details><summary><strong>Monitoring & Observability</strong></summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
