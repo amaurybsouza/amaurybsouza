@@ -14,7 +14,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
 
 <details><summary>IaC (Infrastructure as Code)</summary><p>
   
-Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
+I have cultivated expertise in the realm of Infrastructure as Code (IaC), demonstrating a profound understanding of orchestrating infrastructure deployment through code. Proficient in tools like Terraform, Ansible, and other IaC frameworks, I am dedicated to architecting robust and scalable infrastructures with precision and efficiency.
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
