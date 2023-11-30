@@ -80,7 +80,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
-<details><summary>Infrastructure Systems</summary><p>
+<details><summary>Linux Systems & Networking</summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
@@ -91,6 +91,9 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-007396?style=for-the-badge&logo=internet-explorer&logoColor=white)
 ![OSI Model](https://img.shields.io/badge/OSI%20Model-4D4D4D?style=for-the-badge&logo=none)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Yum](https://img.shields.io/badge/Yum-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
+![Apt](https://img.shields.io/badge/Apt-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
 
 </p></details>
 
