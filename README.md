@@ -68,7 +68,7 @@ I have consistently kept myself abreast of the latest advancements in the realm 
 
 </p></details>
 
-<details><summary><strong>Container Orchestration</strong>strong> - Experienced with Docker (Dockerfile🐳 and Compose) and Kubernetes☸️ for production workloads!</summary><p>
+<details><summary><strong>Container Orchestration</strong>strong> - Experienced with Docker (Dockerfile🐳) and Kubernetes☸️ for production workloads!</summary><p>
   
 I’ve kept myself updated and embraced the Kubernetes environment and Docker Containers!
 
