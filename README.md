@@ -49,7 +49,7 @@ I’ve kept myself updated and embraced the Kubernetes environment and Docker Co
 
 </p></details>
 
-<details><summary><strong>Cloud Computing</strong> - I'm AWS/Azure certified and I have experienced scaling and provisioning the applications.</summary><p>
+<details><summary><strong>Cloud Computing</strong> - I'm AWS/Azure☁️ certified and I have experienced scaling and provisioning the applications.</summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
@@ -59,7 +59,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
-<details><summary><strong>Monitoring & Observability</strong> - Backing to Zabbix & Grafana I have created dashs and monitoring several apps.</summary><p>
+<details><summary><strong>Monitoring & Observability</strong> - Backing to Zabbix🎯 & Grafana I have created dashs and monitoring several apps.</summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
