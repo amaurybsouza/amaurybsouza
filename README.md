@@ -59,7 +59,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
-<details><summary><strong>Monitoring & Observability</strong> - Check out my [Medium](https://amaurybsouza.medium.com/powerful-monitoring-1d92b9d9d57a) I hace created dashs and monitoring several apps.</summary><p>
+<details><summary><strong>Monitoring & Observability</strong> - Backing to Zabbix a& Grafana I have created dashs and monitoring several apps.</summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
