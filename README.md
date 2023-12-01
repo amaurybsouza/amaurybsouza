@@ -69,7 +69,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
-<details><summary><strong>Languages (Automation)</strong> - I'm an Automation Enthusiast adept at crafting elegant solutions through automation languages like YML and Bash scripting!</summary><p>
+<details><summary><strong>Languages (Automation)</strong> - I'm an Automation fanatic adept at creative solutions through languages like YML and Bash scripting!</summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
