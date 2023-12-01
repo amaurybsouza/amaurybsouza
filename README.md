@@ -59,7 +59,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
-<details><summary><strong>Monitoring & Observability</strong> - Backing to Zabbix a& Grafana I have created dashs and monitoring several apps.</summary><p>
+<details><summary><strong>Monitoring & Observability</strong> - Backing to Zabbix & Grafana I have created dashs and monitoring several apps.</summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
@@ -69,7 +69,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
-<details><summary><strong>Languages (Automation)</strong></summary><p>
+<details><summary><strong>Languages (Automation)</strong> - I'm an Automation Enthusiast adept at crafting elegant solutions through automation languages like YML and Bash scripting!</summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
