@@ -12,7 +12,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
 
 ## DevOps Stack🧰
 
-<details><summary><strong>IaC (Infrastructure as Code)</strong> - I have worked with Terraform🏗️, Ansible🧰 in creatives projects to automate the infrastructure.</summary><p>
+<details><summary><strong>IaC (Infrastructure as Code)</strong> - I have worked with Terraform🏗️, Ansible in creatives projects to automate the infrastructure.</summary><p>
   
 I have cultivated expertise in the realm of Infrastructure as Code (IaC), demonstrating a profound understanding of orchestrating infrastructure deployment through code. Proficient in tools like Terraform, Ansible, and other IaC frameworks, I am dedicated to architecting robust and scalable infrastructures with precision and efficiency.
 
@@ -37,7 +37,7 @@ I have consistently kept myself abreast of the latest advancements in the realm 
 
 </p></details>
 
-<details><summary><strong>Container Orchestration</strong> - Experienced with Docker (Dockerfile🐳) and Kubernetes☸️ for production workloads!</summary><p>
+<details><summary><strong>Container Orchestration</strong> - Experienced with Docker (Dockerfile🐳) and Kubernetes for production workloads!</summary><p>
   
 I’ve kept myself updated and embraced the Kubernetes environment and Docker Containers!
 
@@ -49,7 +49,7 @@ I’ve kept myself updated and embraced the Kubernetes environment and Docker Co
 
 </p></details>
 
-<details><summary><strong>Cloud Computing</strong></summary><p>
+<details><summary><strong>Cloud Computing - I'm AWS/Azure certified and I have experienced scaling and provisioning the applications.</strong></summary><p>
   
 Building robust infrastructures and streamlining workflows with an arsenal of dynamic tools:
 
