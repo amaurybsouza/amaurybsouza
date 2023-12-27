@@ -12,6 +12,9 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
 
 ### You can sponsor my work through [GitHub Sponsors](https://github.com/sponsors/amaurybsouza).🙌
 
+### So happy with my CB swag!
+![image](https://github.com/amaurybsouza/amaurybsouza/assets/36505926/ca53b2e1-4075-408e-ad66-0cecd603cbf3)
+
 ## DevOps Stack🧰
 
 <details><summary><strong>IaC (Infrastructure as Code)</strong> - I have worked with Terraform🏗️, Ansible in creatives projects to automate the infrastructure.</summary><p>
