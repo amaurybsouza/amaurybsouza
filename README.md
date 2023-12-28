@@ -12,9 +12,6 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
 
 Backing to the tech communit & open-source projects, feel free if you think that's necessary sponsor my work through [GitHub Sponsors](https://github.com/sponsors/amaurybsouza). For last months I have worked closely with several people to keep and create new possibilities to learn and share around Cloud contents and Hashicorp products. Finally, recently I was ranked 50th among the [TOP GitHub users](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/brazil.md) by public contributions in Brazil. If you want me to speak at your event or company for work please email amauryborgesouza@gmail.com. If you want me to speak at your community event for personal or open source please dm me at [@amaurybsouza_](https://twitter.com/amaurybsouza_).
 
-## So happy with my CB swag!🙌☁️
-![image](https://github.com/amaurybsouza/amaurybsouza/assets/36505926/e989cbdd-9402-470b-92c9-69edfdb664eb)
-
 ## Medium posts!📚
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
 - Aug 17, 2023: [Fui aceito no programa AWS Community Builders!](https://amaurybsouza.medium.com/fui-aceito-no-programa-aws-community-builders-76cc28b735f8)
