@@ -30,15 +30,22 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 - Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 
-## Tech newsletter!	🗞️
-Subscribe to my newsletter👉 (DevOps Tech News🗞️💻). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF Solutions | Terraform | Conferences | Kubecon | Ansible | k8s.
-- Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa).
-- Sep 25, 2023: [Ansible (ad-hoc): O que é? Quando usar?](https://amauryborgessouza.substack.com/p/ansible-ad-hoc-o-que-e-quando-usar).
-- Sep 24, 2023: [Habilidades desejáveis para pessoa Arquiteta de Software](https://amauryborgessouza.substack.com/p/habilidades-desejaveis-para-pessoa).
-- Sep 23, 2023: [Hacktoberfest 2023 chegando com TUDO](https://amauryborgessouza.substack.com/p/hacktoberfest-2023-chegando-com-tudo).
-- Sep 22, 2023: [Nova certificação de mercado: Istio Certified Associate (ICA)](https://amauryborgessouza.substack.com/p/nova-certificacao-de-mercado-istio).
-- Sep 21, 2023: [É importante saber uma lang para SRE?](https://amauryborgessouza.substack.com/p/e-importante-saber-uma-lang-para).
-- Sep 10, 2023: [Prévia do meu artigo no Medium: "Porque eu uso Ansible e não Puppet, Chef, CFEngine e SaltStack"](https://amauryborgessouza.substack.com/p/previa-do-meu-artigo-no-medium-porque).
+## Recent Community Contributions
+I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [LHC Campinas](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal), [Viva o Linux](https://www.vivaolinux.com.br/), [AWS User Group Campinas](https://www.meetup.com/pt-BR/awscampinas/) and other communities/websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
+- LHC Campinas: [Iniciativas 2024 para o Laboratório Hacker de Campinas](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal); (*Initiatives for 2024*).
+- AWS U.G. Campinas: [Criando seu HomeLab de estudos na AWS com Terraform e Ansible](https://www.meetup.com/awscampinas/events/297528444/); (*Meetup*).
+- YouTube Participation: [[PT-BR] Value Stream #engineeringsessions #s02e08](https://www.youtube.com/watch?v=bClFiZ9IAC0&t=413s&ab_channel=CarlosNogueira%28DevOps%29); (*YouTube Channel*).
+- CODECON 2023: [Confiabilidade, disponibilidade, manutenibilidade e observabilidade](https://www.youtube.com/watch?v=FPfNq2gRMJ8&t=23642s&ab_channel=Codecon); (*Sala 2*).
+- {#!Bash Script}: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/) (*bash script to ensure a backup*).
+- {#!Bash Script}: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/) (*managing the firewalld service*).
+- {#!Bash Script}: [Instalação de programas no Ubuntu Linux(](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/) (*install programs Linux Ubuntu*).
+- {#!Bash Script}: [Atualizar Sistema - Ubuntu](https://www.vivaolinux.com.br/script/Atualizar-Sistema-Ubuntu/) (*updating/installing the packages using case function*).
+- Viva o Linux Article: [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/).
+- Viva o Linux Article: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/).
+- Viva o Linux Article: [Gerenciamento de pacotes Debian - principais comandos LPIC-1](https://www.vivaolinux.com.br/artigo/Gerenciamento-de-pacotes-Debian-principais-comandos-LPIC-1/).
+- Speakerdeck Talks: [Terraform Talk](https://speakerdeck.com/amaurybsouza/terraform-talk) (*presentation covering a deep dive into Terraform IaC tool*).
+- Speakerdeck Talks: [Ansible Talk ](https://speakerdeck.com/amaurybsouza/ansible-talk) (*presentation covering Red Hat Ansible automation tool*).
+- Aécio Pires Blog: [Codeac: ferramenta para analisar a qualidade do código que gerencia a infraestrutura e aplicação](https://blog.aeciopires.com/codeac-ferramenta-para-analisar-a-qualidade-do-codigo-que-gerencia-a-infraestrutura-e-aplicacao/).
   
 ## Open-source contributions
 I have several of my personal projects in GitHub, approaching different tools and approches like Linux, Terraform, Ansible, K8s, Devops, GitOps. Feel free to help me collaborating with this projects
