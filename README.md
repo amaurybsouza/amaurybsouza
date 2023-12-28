@@ -24,11 +24,6 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Apr 25, 2023: [5 automações em Shell Script essenciais para o dia a dia de um DevOps](https://amaurybsouza.medium.com/5-automa%C3%A7%C3%B5es-em-shell-script-essenciais-para-o-dia-a-dia-de-um-devops-5cdc1f33a98a)
 - Mar 02, 2023: [Me tornei Hashicorp Ambassador 2023](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901)
 - Jan 28, 2023: [5 projetos do GitHub essenciais para um DevOps Engineer em 2023](https://amaurybsouza.medium.com/5-projetos-do-github-essenciais-para-um-devops-engineer-em-2023-1d4039b1eec6)
-- Jan 19, 2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
-- Dez 26, 2022: [O Terraform em 2023](https://amaurybsouza.medium.com/o-terraform-em-2023-%EF%B8%8F-fa0090b0424f)
-- Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
-- Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
-- Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 
 ## Recent Community Contributions
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [LHC Campinas](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal), [Viva o Linux](https://www.vivaolinux.com.br/), [AWS User Group Campinas](https://www.meetup.com/pt-BR/awscampinas/) and other communities/websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
@@ -41,11 +36,6 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 - {#!Bash Script}: [Instalação de programas no Ubuntu Linux(](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/) (*install programs Linux Ubuntu*).
 - {#!Bash Script}: [Atualizar Sistema - Ubuntu](https://www.vivaolinux.com.br/script/Atualizar-Sistema-Ubuntu/) (*updating/installing the packages using case function*).
 - Viva o Linux Article: [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/).
-- Viva o Linux Article: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/).
-- Viva o Linux Article: [Gerenciamento de pacotes Debian - principais comandos LPIC-1](https://www.vivaolinux.com.br/artigo/Gerenciamento-de-pacotes-Debian-principais-comandos-LPIC-1/).
-- Speakerdeck Talks: [Terraform Talk](https://speakerdeck.com/amaurybsouza/terraform-talk) (*presentation covering a deep dive into Terraform IaC tool*).
-- Speakerdeck Talks: [Ansible Talk ](https://speakerdeck.com/amaurybsouza/ansible-talk) (*presentation covering Red Hat Ansible automation tool*).
-- Aécio Pires Blog: [Codeac: ferramenta para analisar a qualidade do código que gerencia a infraestrutura e aplicação](https://blog.aeciopires.com/codeac-ferramenta-para-analisar-a-qualidade-do-codigo-que-gerencia-a-infraestrutura-e-aplicacao/).
   
 ## Open-source contributions
 I have several of my personal projects in GitHub, approaching different tools and approches like Linux, Terraform, Ansible, K8s, Devops, GitOps. Feel free to help me collaborating with this projects
