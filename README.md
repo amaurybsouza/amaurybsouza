@@ -36,14 +36,16 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 - {#!Bash Script}: [Instalação de programas no Ubuntu Linux(](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/) (*install programs Linux Ubuntu*).
 - {#!Bash Script}: [Atualizar Sistema - Ubuntu](https://www.vivaolinux.com.br/script/Atualizar-Sistema-Ubuntu/) (*updating/installing the packages using case function*).
 - Viva o Linux Article: [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/).
-  
-## Open-source contributions
-I have several of my personal projects in GitHub, approaching different tools and approches like Linux, Terraform, Ansible, K8s, Devops, GitOps. Feel free to help me collaborating with this projects
 
-- [Trilha Info](https://trilha.info) - Since June/2022, more than 20k people have accessed Trilha Info for free as a study support tool.
-- [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes.
-- [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) - cheatsheet helps you with the most commonly and used commands for easy reference.
-- [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - List of tech events happening in Brazil.
-- [descomplicando-helm](https://github.com/badtuxx/DescomplicandoHelm) - simplify the usage of Helm and facilitate the understanding of the Helm Charts.
-- [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary) - a quick guide to the main concepts that involve DevOps tools, all in an organized way.
-- [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure) - a complete guide to keep you updated about Terraform & Azure platform.
+## GitHub DevOps Projects
+A curated list of learning resources for Linux enthusiasts, DevOps learners. Check out my collection of sample projects showcasing Infrastructure as Code (IaC) principles using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
+- Merged recently: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (*helps you with the most commonly and used commands*).
+- Created dec/2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary); (*devops glossary helps you with DevOps tools descriptions*).
+- Created nov/2021: [iac-practice](https://github.com/amaurybsouza/iac-practice); (*a bit automation with AWS, Terraform and Ansible tools*).
+- Created jan/2018: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating); (*integrate OTRS 6 ticket systems with Zabbix*).
+- PR recently opened: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts); (*exercises about various technical topics*).
+- Created jan/2023: [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam); (*practice Terraform exam questions*).
+- Created jan/2021: [terraform-aws-ec2](https://github.com/Terraform-Tutorials/terraform-aws-ec2); (*a brief way to provision an EC2 instance on AWS Cloud*).
+- Created nov/2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure); (*create a Terraform configuration to deploy on Azure*).
+- Created mar/2023: [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines); (*allows you to automate vms azure*).
+- Created dec/2021: [ad-hoc-commands](https://github.com/Ansible-Tutorials/ad-hoc-commands); (*ansible ad hoc command uses to automate the configurations*).
