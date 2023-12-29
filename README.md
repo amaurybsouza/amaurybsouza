@@ -12,7 +12,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
 
 Backing to the tech communit & open-source projects, feel free if you think that's necessary sponsor my work through [GitHub Sponsors](https://github.com/sponsors/amaurybsouza). For last months I have worked closely with several people to keep and create new possibilities to learn and share around Cloud contents and Hashicorp products. Finally, recently I was ranked 50th among the [TOP GitHub users](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/brazil.md) by public contributions in Brazil. If you want me to speak at your event or company for work please email amauryborgesouza@gmail.com. If you want me to speak at your community event for personal or open source please dm me at [@amaurybsouza_](https://twitter.com/amaurybsouza_).
 
-## Latest Medium Posts
+## Latest Medium Posts📚
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
 - Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amaurybsouza.medium.com/voc%C3%AA-j%C3%A1-conhece-o-blog-da-aws-community-buiders-c1972469be24).
 - Oct 30, 2023: [Containers: Como funcionam? E porque usar na AWS pode ajudar!](https://amaurybsouza.medium.com/containers-como-funcionam-e-porque-usar-na-aws-pode-ajudar-2476737e01d7).
