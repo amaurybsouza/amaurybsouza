@@ -100,6 +100,11 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
+## Technical Certifications
+- issued to Amaury on January 16, 2024: [LFC112: Creating Effective Documentation for Developers](https://www.credly.com/badges/7e5657b3-7aad-4af2-a954-e83185ba3bf6/public_url).
+- issued to Amaury on January 16, 2024: [LFC111: Open Source Technical Documentation Essentials](https://www.credly.com/badges/95e528b2-a241-4815-a626-bafc2d362dcc/public_url).
+- issued to Amaury on January 08, 2024: [LFC108: Cybersecurity Essentials](https://www.credly.com/badges/6e1766fd-d898-4bde-bbb2-a8151f6f2f08/public_url).
+
 ## Latest Medium Posts📚
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
 - Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amaurybsouza.medium.com/voc%C3%AA-j%C3%A1-conhece-o-blog-da-aws-community-buiders-c1972469be24).
