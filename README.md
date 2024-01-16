@@ -100,7 +100,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
-## Technical Certifications
+## Technical Certifications‼️
 - Issued to Amaury on January 16, 2024: [LFC112: Creating Effective Documentation for Developers](https://www.credly.com/badges/7e5657b3-7aad-4af2-a954-e83185ba3bf6/public_url).
 - Issued to Amaury on January 16, 2024: [LFC111: Open Source Technical Documentation Essentials](https://www.credly.com/badges/95e528b2-a241-4815-a626-bafc2d362dcc/public_url).
 - Issued to Amaury on January 08, 2024: [LFC108: Cybersecurity Essentials](https://www.credly.com/badges/6e1766fd-d898-4bde-bbb2-a8151f6f2f08/public_url).
@@ -110,6 +110,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 - Issued to Amaury on September 04, 2022: [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/252f03d7-907c-4fd4-88d4-157211316965/public_url).
 - Issued to Amaury on August 23, 2022: [Site Reliability Engineer Bootcamp](https://www.credly.com/badges/27874de9-6944-4a2c-b2cb-ec1f13e5291a/public_url).
 - Issued to AAmaury on July 29, 2021: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ebc6486c-baa6-4bd3-a872-f13916afd82e/public_url).
+- Issued to Amaury on July 05, 2021: [IBM Intellectual Capital/ Intellectual Property Creator](https://www.credly.com/badges/46b29eb1-caa6-4b79-a3cb-2839908d3b55/public_url).
 
 ## Latest Medium Posts📚
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
