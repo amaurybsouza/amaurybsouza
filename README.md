@@ -106,6 +106,8 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 - Issued to Amaury on January 08, 2024: [LFC108: Cybersecurity Essentials](https://www.credly.com/badges/6e1766fd-d898-4bde-bbb2-a8151f6f2f08/public_url).
 - Issued to Amaury on February 25, 2023: [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/badges/1e393398-efc4-4642-93c0-2eec270be56b/public_url).
 - Issued to Amaury on February 01, 2023: [HashiCorp Ambassador 2023](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97/public_url).
+- Issued to Amaury on January 13, 2023: [Kyndryl Recognized Speaker / Instructor](https://www.credly.com/badges/d65dfe74-c66b-4ce3-9f1b-de0992421a60/public_url).
+- Issued to Amaury on September 04, 2022: [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/252f03d7-907c-4fd4-88d4-157211316965/public_url).
 
 ## Latest Medium Posts📚
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
