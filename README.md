@@ -100,7 +100,7 @@ Building robust infrastructures and streamlining workflows with an arsenal of dy
 
 </p></details>
 
-## Technical Certifications‼️
+## Technical Certifications🚀
 - Issued to Amaury on January 16, 2024: [LFC112: Creating Effective Documentation for Developers](https://www.credly.com/badges/7e5657b3-7aad-4af2-a954-e83185ba3bf6/public_url).
 - Issued to Amaury on January 16, 2024: [LFC111: Open Source Technical Documentation Essentials](https://www.credly.com/badges/95e528b2-a241-4815-a626-bafc2d362dcc/public_url).
 - Issued to Amaury on January 08, 2024: [LFC108: Cybersecurity Essentials](https://www.credly.com/badges/6e1766fd-d898-4bde-bbb2-a8151f6f2f08/public_url).
