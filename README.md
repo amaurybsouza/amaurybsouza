@@ -1,4 +1,4 @@
-![git](https://github.com/amaurybsouza/amaurybsouza/blob/master/Neat-Work-Space-With-Indoor-Plants.jpg)
+![git](https://github.com/amaurybsouza/amaurybsouza/blob/master/pix05.png)
 
 <a href="https://amaurybsouza.github.io/portfolio/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/><a 
 href="https://twitter.com/amaurybsouza_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/><a
