@@ -25,18 +25,6 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Mar 02, 2023: [Me tornei Hashicorp Ambassador 2023](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901)
 - Jan 28, 2023: [5 projetos do GitHub essenciais para um DevOps Engineer em 2023](https://amaurybsouza.medium.com/5-projetos-do-github-essenciais-para-um-devops-engineer-em-2023-1d4039b1eec6)
 
-## Recent Community Contributions💻
-I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [LHC Campinas](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal), [Viva o Linux](https://www.vivaolinux.com.br/), [AWS User Group Campinas](https://www.meetup.com/pt-BR/awscampinas/) and other communities/websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
-- LHC Campinas: [Iniciativas 2024 para o Laboratório Hacker de Campinas](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal); (*Initiatives for 2024*).
-- AWS U.G. Campinas: [Criando seu HomeLab de estudos na AWS com Terraform e Ansible](https://www.meetup.com/awscampinas/events/297528444/); (*Meetup*).
-- YouTube Participation: [[PT-BR] Value Stream #engineeringsessions #s02e08](https://www.youtube.com/watch?v=bClFiZ9IAC0&t=413s&ab_channel=CarlosNogueira%28DevOps%29); (*YouTube Channel*).
-- CODECON 2023: [Confiabilidade, disponibilidade, manutenibilidade e observabilidade](https://www.youtube.com/watch?v=FPfNq2gRMJ8&t=23642s&ab_channel=Codecon); (*Sala 2*).
-- {#!Bash Script}: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/) (*bash script to ensure a backup*).
-- {#!Bash Script}: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/) (*managing the firewalld service*).
-- {#!Bash Script}: [Instalação de programas no Ubuntu Linux(](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/) (*install programs Linux Ubuntu*).
-- {#!Bash Script}: [Atualizar Sistema - Ubuntu](https://www.vivaolinux.com.br/script/Atualizar-Sistema-Ubuntu/) (*updating/installing the packages using case function*).
-- Viva o Linux Article: [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/).
-
 ## GitHub DevOps Projects 🐙 :octocat: 
 A curated list of learning resources for Linux enthusiasts, DevOps learners. Check out my collection of sample projects showcasing Infrastructure as Code (IaC) principles using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
 - Merged recently: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (*helps you with the most commonly and used commands*).
