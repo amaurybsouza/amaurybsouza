@@ -9,3 +9,12 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
   
 ### Hey, I'm Amaury!
 Over 11yoe, I’ve built a strong track record in Linux, Cloud Security & DevSecOps, driving impactful contributions at leading banks (SunTrust, Bradesco) and consulting firms (CI&T, IBM, Kyndryl, etc.). As a Cloud Security Architect, I leverage automation and emerging technologies like AI to continuously enhance security posture. My passion for knowledge sharing extends beyond my work: I curate a DevSecOps newsletter at Substack, I love writing tech posts at Medium, and actively contribute to open-source communities [AWS U.G. Campinas](https://www.meetup.com/pt-BR/awscampinas/), [HashiCorp U.G. Campinas](https://www.meetup.com/campinas-hashicorp-user-group/), Hackerspaces, DoDs.
+
+I'm passionate about sharing knowledge and empowering others. As an AWS Community Builder and HashiCorp U.G. Lead, I'm actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
+
+- AWS Community Builders:
+[Link to AWS Community Builders program]
+- HashiCorp User Group:
+[Link to HashiCorp User Group]
+
+Let's connect and build the future of technology together!
