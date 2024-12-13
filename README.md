@@ -7,7 +7,7 @@ href="https://amauryborgessouza.substack.com/"><img src="https://img.shields.io/
 href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/><a href="https://amauryborgesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/><a 
 href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /><a/>
   
-### Hi, I'm Amaury!👏🙌
+### Hi, I'm Amaury!👏
 Over 11yoe, I’ve built a strong track record in Linux, Cloud Security & DevSecOps, driving impactful contributions at leading banks (SunTrust, Bradesco) and consulting firms (CI&T, IBM, Kyndryl, etc.). As a Cloud Security Architect, I leverage automation and emerging technologies like AI to continuously enhance security posture. My passion for knowledge sharing extends beyond my work: I curate a DevSecOps newsletter at Substack, I love writing tech posts at Medium, and actively contribute to open-source communities [AWS U.G. Campinas](https://www.meetup.com/pt-BR/awscampinas/), [HashiCorp U.G. Campinas](https://www.meetup.com/campinas-hashicorp-user-group/), Hackerspaces, DoDs.
 - 💬 Ask me about: GNU/Linux, Cloud Security, AWS/Azure/GCP, (#Bash Script), IAC, Terraform, Ansible, Automation
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/) or [Slack](https://slack.com/)
