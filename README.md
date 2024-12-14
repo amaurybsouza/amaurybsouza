@@ -14,4 +14,4 @@ I am an Architect (Security & DevSecOps Support) with over 11 years of experienc
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/) or [Twitter](https://x.com/amaurybsouza_).
 - 📆 Interested in joining the community? [Hashicorp U.G. Campinas](https://www.meetup.com/campinas-hashicorp-user-group/?eventOrigin=event_home_page), [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/), [Hackerspace LHC](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal).
 - 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: My colleagues call me Amuray, not Amaury.
+- ⚡ Fun fact: My colleagues call me Amuray.
