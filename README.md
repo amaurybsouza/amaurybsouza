@@ -10,7 +10,7 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
 ### Hi, I'm Amaury!👏
 I am an Architect (Security & DevSecOps Support) with over 11 years of experience in IT, specializing in Information Security for Cloud environments. Currently, I serve as a Cloud Security Expert at CI&T, supporting Growth Units (Business Units). Previously, I worked as a Senior DevOps Engineer at IBM/Kyndryl, where I held multiple leadership roles across Latin America. My career has focused on leading high-performance infrastructure teams and partnering with clients to drive successful digital transformations. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 - 💬 Ask me about: GNU/Linux, Cloud Security, AWS/Azure/GCP, #Bash Script, IAC, Terraform, Ansible, Automation.
-- 💻 Check out my posts: [Medium](https://amaurybsouza.medium.com/), [Viva o Linux](https://vivaolinux.com.br/~amaurybsouza/scripts/), [Substack](https://amauryborgessouza.substack.com/).
+- 💻 Check out my posts: [Medium](https://amaurybsouza.medium.com/), [Viva o Linux](https://vivaolinux.com.br/~amaurybsouza/scripts/), [Substack](https://amauryborgessouza.substack.com/), [Beacons.ai](https://beacons.ai/amaurybsouza_).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/) or [Twitter](https://x.com/amaurybsouza_).
 - 📆 Interested in joining the community? [Hashicorp U.G. Campinas](https://www.meetup.com/campinas-hashicorp-user-group/?eventOrigin=event_home_page), [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/), [AWS U.G. Campinas](https://www.meetup.com/pt-BR/awscampinas/).
 - 😄 Pronouns: He/Him/His.
