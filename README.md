@@ -12,6 +12,6 @@ I am an Architect (Security & DevSecOps Support) with over 11 years of experienc
 - 💬 Ask me about: GNU/Linux, Cloud Security, AWS/Azure/GCP, #Bash Script, IAC, Terraform, Ansible, Automation.
 - 💻 Check out my posts: [Medium](https://amaurybsouza.medium.com/), [Viva o Linux](https://vivaolinux.com.br/~amaurybsouza/scripts/), [Substack](https://amauryborgessouza.substack.com/).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/) or [Twitter](https://x.com/amaurybsouza_).
-- 📆 Interested in joining the community? [Hashicorp U.G. Campinas](https://www.meetup.com/campinas-hashicorp-user-group/?eventOrigin=event_home_page), [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/), [Hackerspace LHC](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal).
+- 📆 Interested in joining the community? [Hashicorp U.G. Campinas](https://www.meetup.com/campinas-hashicorp-user-group/?eventOrigin=event_home_page), [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/), [AWS U.G. Campinas](https://www.meetup.com/pt-BR/awscampinas/).
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: My colleagues call me Amuray.
