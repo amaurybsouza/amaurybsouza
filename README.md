@@ -9,8 +9,8 @@ href="https://gitlab.com/amauryborgesouza"><img src="https://img.shields.io/badg
   
 ### Hi, I'm Amaury!👏
 Experienced Cloud Security Engineer and Leader. Professor & Tech Writer with 12+ years in the industry. Recognized Community Leader (AWS, HashiCorp, DoDs), who actively supports the tech ecosystem by writing technical content, organizing meetups, and contributing to community events. Passionate about AI/ML, loves automation tools, ethical hacking, and Linux. I specialize in Cloud Security, automation, and AI-driven solutions. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
-- 💬 Ask me about: GNU/Linux, Cloud Security, AWS/Azure/GCP, #Bash Script, IAC, Terraform, Ansible, Automation.
-- 💻 Check out my posts: [Medium](https://amaurybsouza.medium.com/), [Viva o Linux](https://vivaolinux.com.br/~amaurybsouza/scripts/), [Substack](https://amauryborgessouza.substack.com/), [Beacons.ai](https://beacons.ai/amaurybsouza_).
+- 💬 Ask me about: GNU/Linux, Cloud Security, IA/ML, Hashicorp Tools, AWS/Azure/GCP, #Bash Script, IaC, Ansible, Automation.
+- 💻 Check out my posts: [Medium](https://amaurybsouza.medium.com/), [AWS Community](https://community.aws/@amaury), [Viva o Linux](https://vivaolinux.com.br/~amaurybsouza/scripts/), [Substack](https://amauryborgessouza.substack.com/), [Beacons.ai](https://beacons.ai/amaurybsouza_).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/) or [Twitter](https://x.com/amaurybsouza_).
 - 📆 Interested in joining the community? [Hashicorp U.G. Campinas](https://www.meetup.com/campinas-hashicorp-user-group/?eventOrigin=event_home_page), [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/), [AWS U.G. Campinas](https://www.meetup.com/pt-BR/awscampinas/).
 - 😄 Pronouns: He/Him/His.
