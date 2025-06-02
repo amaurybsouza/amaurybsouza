@@ -6,7 +6,7 @@ href="https://amaurybsouza.medium.com/"><img src="https://img.shields.io/badge/m
 href="https://amauryborgessouza.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" /><a/><a
 href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/><a
 href="https://www.hashicorp.com/pt/ambassador/directory?q=amaury"><img src="https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=HashiCorp&logoColor=white" href="https://amauryborgesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/><a
-href="https://https://community.aws/@amaury"><img src="https://img.shields.io/badge/AWS%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><a/>
+href="https://community.aws/@amaury"><img src="https://img.shields.io/badge/AWS%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><a/>
   
 ### Hi, I'm Amaury!👏
 Experienced Cloud Security Engineer and Leader. Professor & Tech Writer with 12+ years in the industry. Recognized Community Leader (AWS, HashiCorp, DoDs), who actively supports the tech ecosystem by writing technical content, organizing meetups, and contributing to community events. Passionate about AI/ML, loves automation tools, ethical hacking, and Linux. I specialize in Cloud Security, automation, and AI-driven solutions. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
