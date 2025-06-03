@@ -23,3 +23,6 @@ Amaury is a frequent speaker at industry conferences, meetups, hugs, DoDs, where
 ### 💻Blogging
 Regularly I enjoy to publish blog posts on topics like DevSecOps, cloud security, and modern technologies, sharing practical tips, deep dives, and lessons learned from real-world projects. You can explore my latest articles and insights on [Medium](https://amaurybsouza.medium.com/) blog, and stay updated by following me on LinkedIn or Twitter, where he often shares new content.
 
+### 👥Community & Ambassador Roles
+I’m passionate about sharing knowledge and empowering others. As an AWS Community Builder and HashiCorp U.G. Lead, I’m actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
+
