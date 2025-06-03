@@ -7,7 +7,8 @@ href="https://amauryborgessouza.substack.com/"><img src="https://img.shields.io/
 href="https://community.aws/@amaury"><img src="https://img.shields.io/badge/AWS%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><a/><a
 href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/><a
 href="https://www.hashicorp.com/pt/ambassador/directory?q=amaury"><img src="https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=HashiCorp&logoColor=white" href="https://amauryborgesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/>
-  
+
+## Hi, I'm Amaury!👏  
 Experienced Cloud Security Engineer and Leader. Professor & Tech Writer with 12+ years in the industry. Recognized Community Leader (AWS, HashiCorp, DoDs), who actively supports the tech ecosystem by writing technical content, organizing meetups, and contributing to community events. Passionate about AI/ML, loves automation tools, ethical hacking, and Linux. I specialize in Cloud Security, automation, and AI-driven solutions. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 - 💬 Ask me about: Linux, Cloud Security, IA/ML, Hashicorp Tools, AWS/Azure/GCP, #Bash Script, IaC, Ansible, Automation.
 - 💻 Check out my posts: [Medium](https://amaurybsouza.medium.com/), [AWS Community](https://community.aws/@amaury), [Speakerdeck](https://speakerdeck.com/amaurybsouza), [Viva o Linux](https://vivaolinux.com.br/~amaurybsouza/scripts/), [Substack](https://amauryborgessouza.substack.com/), [LinkedIn Pulse](https://www.linkedin.com/pulse/ficando-ninja-com-aws-lambda-serverless-amaury-borges-souza-cl6uf/?trackingId=2UWXD%2FQRQpmacIWXaPE9Kw%3D%3D), [Beacons.ai](https://beacons.ai/amaurybsouza_).
@@ -20,5 +21,5 @@ Experienced Cloud Security Engineer and Leader. Professor & Tech Writer with 12+
 Amaury is a frequent speaker at industry conferences, meetups, hugs, DoDs, where he shares insights on modern secure development, cloud security, and productivity technologies. If you'd like to invite Amaury to speak at your event, feel free to reach out via email at amauryborgesouza@gmail.com. You can also browse his full list of past and upcoming sessions to get an idea of the topics he covers. 
 
 ### 💻Blogging
-Regularly I have publish blog posts on topics like development, cloud, and modern workplace technologies—sharing practical tips, deep dives, and lessons learned from real-world projects. You can explore his latest articles and insights on his blog, and stay updated by following him on LinkedIn or Twitter, where he often shares new content.
+Regularly I enjoy to publish blog posts on topics like DevSecOps, cloud security, and modern technologies, sharing practical tips, deep dives, and lessons learned from real-world projects. You can explore my latest articles and insights on [Medium](https://amaurybsouza.medium.com/) blog, and stay updated by following me on LinkedIn or Twitter, where he often shares new content.
 
