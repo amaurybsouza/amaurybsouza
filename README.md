@@ -18,4 +18,8 @@ Experienced Cloud Security Engineer and Leader. Professor & Tech Writer with 12+
 - ⚡ Fun fact: My colleagues call me Amuray.
 - 
 ### 🎤Speaking
-Amaury is a frequent speaker at industry conferences, where he shares insights on modern secure development, cloud security, and productivity technologies. If you'd like to invite Amaury to speak at your event, feel free to reach out via email at amauryborgesouza@gmail.com. You can also browse his full list of past and upcoming sessions to get an idea of the topics he covers.
+Amaury is a frequent speaker at industry conferences, where he shares insights on modern secure development, cloud security, and productivity technologies. If you'd like to invite Amaury to speak at your event, feel free to reach out via email at amauryborgesouza@gmail.com. You can also browse his full list of past and upcoming sessions to get an idea of the topics he covers. 
+
+### 💻Blogging
+Regularly I have publish blog posts on topics like development, cloud, and modern workplace technologies—sharing practical tips, deep dives, and lessons learned from real-world projects. You can explore his latest articles and insights on his blog, and stay updated by following him on LinkedIn or Twitter, where he often shares new content.
+
