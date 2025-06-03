@@ -16,3 +16,6 @@ Experienced Cloud Security Engineer and Leader. Professor & Tech Writer with 12+
 - 📆 Interested in joining the community? [Hashicorp U.G. Campinas](https://www.meetup.com/campinas-hashicorp-user-group/?eventOrigin=event_home_page), [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/), [AWS U.G. Campinas](https://www.meetup.com/pt-BR/awscampinas/).
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: My colleagues call me Amuray.
+- 
+### 🎤Speaking
+Amaury is a frequent speaker at industry conferences, where he shares insights on modern secure development, cloud security, and productivity technologies. If you'd like to invite Amaury to speak at your event, feel free to reach out via email at amauryborgesouza@gmail.com. You can also browse his full list of past and upcoming sessions to get an idea of the topics he covers.
