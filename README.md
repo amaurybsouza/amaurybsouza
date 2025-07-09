@@ -5,8 +5,7 @@ href="https://twitter.com/amaurybsouza_"><img src="https://img.shields.io/badge/
 href="https://amaurybsouza.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /><a/><a
 href="https://amauryborgessouza.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" /><a/><a
 href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/><a
-href="https://www.meetup.com/campinas-hashicorp-user-group/" target="_blank"><img src="https://img.shields.io/badge/Meetup-ED1C40?style=for-the-badge&logo=meetup&logoColor=white" /><a/><a
-href="https://twitter.com/amaurybsouza_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /><a/><a                                                                                                                   
+href="https://www.meetup.com/campinas-hashicorp-user-group/" target="_blank"><img src="https://img.shields.io/badge/Meetup-ED1C40?style=for-the-badge&logo=meetup&logoColor=white" /><a/><a                                                                                                                   
 href="https://www.hashicorp.com/pt/ambassador/directory?q=amaury"><img src="https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=HashiCorp&logoColor=white" href="https://amauryborgesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/>
 
 ## Hi, I'm Amaury!👏  
