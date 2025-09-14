@@ -11,6 +11,7 @@ href="https://builder.aws.com/community/@amaury"><img src="https://img.shields.i
 
 ## Hi, I'm Amaury!👏👏👏  
 I am an engineer person on a security team with +12 years of experience also act as professor. Passionate about #appsec #devsecops, #aws, automation tools, ethical hacking, and linux. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
+- 📍 My next conferences: [HashiConf](https://www.hashicorp.com/pt/conferences/hashiconf), DevOpsDays
 - 💬 Ask me about: Linux, Cloud Security, IA/ML, Hashicorp Tools, AWS/Azure/GCP, #Bash Script, IaC, Ansible, Automation.
 - 💻 Check out my posts: [Medium](https://amaurybsouza.medium.com/), [AWS Community](https://community.aws/@amaury), [Speakerdeck](https://speakerdeck.com/amaurybsouza), [Viva o Linux](https://vivaolinux.com.br/~amaurybsouza/scripts/), [Substack](https://amauryborgessouza.substack.com/), [LinkedIn Pulse](https://www.linkedin.com/pulse/ficando-ninja-com-aws-lambda-serverless-amaury-borges-souza-cl6uf/?trackingId=2UWXD%2FQRQpmacIWXaPE9Kw%3D%3D), [Beacons.ai](https://beacons.ai/amaurybsouza_).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/) or [Twitter](https://x.com/amaurybsouza_).
