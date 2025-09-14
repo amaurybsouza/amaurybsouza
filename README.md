@@ -6,7 +6,8 @@ href="https://amaurybsouza.medium.com/"><img src="https://img.shields.io/badge/m
 href="https://amauryborgessouza.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" /><a/><a
 href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/><a
 href="https://www.meetup.com/campinas-hashicorp-user-group/" target="_blank"><img src="https://img.shields.io/badge/Meetup-ED1C40?style=for-the-badge&logo=meetup&logoColor=white" /><a/><a                                                                                                                   
-href="https://www.hashicorp.com/pt/ambassador/directory?q=amaury"><img src="https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=HashiCorp&logoColor=white" href="https://amauryborgesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a/>
+href="https://www.hashicorp.com/pt/ambassador/directory?q=amaury"><img src="https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=HashiCorp&logoColor=white" 
+href="https://aws.amazon.com/developer/community/community-builders/"><img src="https://img.shields.io/badge/AWS%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><a/>
 
 ## Hi, I'm Amaury!👏  
 I am an engineer person on a security team with +12 years of experience also act as professor. Passionate about #appsec #devsecops, #aws, automation tools, ethical hacking, and linux. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
