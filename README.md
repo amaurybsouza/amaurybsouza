@@ -9,7 +9,7 @@ href="https://www.meetup.com/campinas-hashicorp-user-group/" target="_blank"><im
 href="https://www.hashicorp.com/pt/ambassador/directory?q=amaury"><img src="https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=HashiCorp&logoColor=white" /><a/><a 
 href="https://builder.aws.com/community/@amaury"><img src="https://img.shields.io/badge/AWS%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><a/>
 
-## Hi, I'm Amaury!👏  
+## Hi, I'm Amaury!👏👏👏  
 I am an engineer person on a security team with +12 years of experience also act as professor. Passionate about #appsec #devsecops, #aws, automation tools, ethical hacking, and linux. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 - 💬 Ask me about: Linux, Cloud Security, IA/ML, Hashicorp Tools, AWS/Azure/GCP, #Bash Script, IaC, Ansible, Automation.
 - 💻 Check out my posts: [Medium](https://amaurybsouza.medium.com/), [AWS Community](https://community.aws/@amaury), [Speakerdeck](https://speakerdeck.com/amaurybsouza), [Viva o Linux](https://vivaolinux.com.br/~amaurybsouza/scripts/), [Substack](https://amauryborgessouza.substack.com/), [LinkedIn Pulse](https://www.linkedin.com/pulse/ficando-ninja-com-aws-lambda-serverless-amaury-borges-souza-cl6uf/?trackingId=2UWXD%2FQRQpmacIWXaPE9Kw%3D%3D), [Beacons.ai](https://beacons.ai/amaurybsouza_).
