@@ -1,6 +1,6 @@
 ![git](https://github.com/amaurybsouza/amaurybsouza/blob/master/pix05.png)
 
-<a href="https://amaurybsouza.github.io/portfolio/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/><a 
+<a href="https://amaurybsouza.github.io/professional-journey/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/><a 
 href="https://twitter.com/amaurybsouza_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/><a
 href="https://amaurybsouza.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /><a/><a
 href="https://amauryborgessouza.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" /><a/><a
