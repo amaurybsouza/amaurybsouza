@@ -8,8 +8,6 @@ I am an engineer person on a security team with +12 years of experience also act
 - 💻 Check out my posts: [Medium](https://amaurybsouza.medium.com/), [AWS Community](https://community.aws/@amaury), [Speakerdeck](https://speakerdeck.com/amaurybsouza), [Viva o Linux](https://vivaolinux.com.br/~amaurybsouza/scripts/), [Substack](https://amauryborgessouza.substack.com/), [LinkedIn Pulse](https://www.linkedin.com/pulse/ficando-ninja-com-aws-lambda-serverless-amaury-borges-souza-cl6uf/?trackingId=2UWXD%2FQRQpmacIWXaPE9Kw%3D%3D), [Beacons.ai](https://beacons.ai/amaurybsouza_).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/) or [Twitter](https://x.com/amaurybsouza_).
 - 📆 Interested in joining the community? [Hashicorp U.G. Campinas](https://www.meetup.com/campinas-hashicorp-user-group/?eventOrigin=event_home_page), [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/), [AWS U.G. Campinas](https://www.meetup.com/pt-BR/awscampinas/).
-- 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: My colleagues call me Amuray.
 
 ### Connect with me!
 <a href="https://amaurybsouza.github.io/professional-journey/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/><a 
