@@ -1,4 +1,4 @@
-![git](https://github.com/amaurybsouza/amaurybsouza/blob/master/teste2.png)
+![git](https://github.com/amaurybsouza/amaurybsouza/blob/master/teste5.png)
 
 <a href="https://amaurybsouza.github.io/professional-journey/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/><a 
 href="https://twitter.com/amaurybsouza_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/><a
