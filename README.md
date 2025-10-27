@@ -6,8 +6,8 @@ Amaury turns technical complexity into practical security outcomes. He is a seas
 🔭 He is recognized as a 3x AWS Community Builder & 3x HashiCorp Ambassador, contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, DevOps Days, SREDay and cloud conferences. Curious to exchange ideas about DevSecOps, Cloud Security, and automation? Connect with him on LinkedIn.
 
 - ✈️ My next conferences: [SREDay](https://sreday.com/2025-campinas-q4/), [DevOps Days SP](https://devopsdays.org/events/2025-sao-paulo/welcome/), [HashiConf 2026](https://www.hashicorp.com/pt/conferences/hashiconf), [Hashicorp User Group Campinas](https://www.meetup.com/campinas-hashicorp-user-group/events/310657076/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2)
-- 🛡️ Ask me about: Linux, Cloud Security, IA/ML, Hashicorp Tools, AWS/Azure/GCP, #Bash Script, IaC, Ansible, Automation.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/) or [Twitter](https://x.com/amaurybsouza_).
+- 🛡️ Ask me about: Linux, Cloud Security, IA/ML, Hashicorp Tools, public speaking, tech writing, IaC, Ansible, Terraform and automation.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/), [Twitter](https://x.com/amaurybsouza_) or e-mail amaurybsouza@gmail.com
 - 📆 Interested in joining the community? [Hashicorp U.G. Campinas](https://www.meetup.com/campinas-hashicorp-user-group/?eventOrigin=event_home_page), [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/), [AWS U.G. Campinas](https://www.meetup.com/pt-BR/awscampinas/).
 
 ### 🤝 Connect with me.
