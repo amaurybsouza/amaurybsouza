@@ -1,4 +1,4 @@
-### Hi, I'm Amaury!👏👏👏  
+### Hi👏👏 I'm [Amaury Borges Souza](https://www.linkedin.com/in/amaurybsouza/)  
 > Engineer, Professor, Builder, Ambassador & Tech Writer.
 
 I am an engineer person on a security team with +12 years of experience also act as professor. Passionate about #appsec #devsecops, #aws, automation tools, ethical hacking, and linux. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
