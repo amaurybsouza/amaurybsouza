@@ -1,7 +1,7 @@
 ### Hi👏👏 I'm [Amaury Borges Souza](https://www.linkedin.com/in/amaurybsouza/)  
 > Engineer, Professor, Builder, Ambassador & Tech Writer.
 
-Amaury turns technical complexity into practical security outcomes. He is a seasoned security engineer, professor, builder, ambassador and tech writer in the DevSecOps, Information Security and modern application protection across startups and global enterprises. Amaury is also 3x an AWS Community Builder, 3x Hashicorp Ambassador, international public speaker 
+Amaury turns technical complexity into practical security outcomes. He is a seasoned security engineer and professor focused on DevSecOps, Cloud Security, and modern application protection across startups and global enterprises. Beyond his engineering work, he builds communities and knowledge as a tech writer, aws builder, and speaker.
 
 🔭 He is recognized as a 3x AWS Community Builder & 3x HashiCorp Ambassador, contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, DevOps Days, SREDay and cloud conferences. Curious to exchange ideas about DevSecOps, Cloud Security, and automation? Connect with him on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
