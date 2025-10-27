@@ -3,7 +3,7 @@
 
 Amaury turns technical complexity into practical security outcomes. He is a seasoned security engineer, professor, builder, ambassador and tech writer in the DevSecOps, Information Security and modern application protection across startups and global enterprises. Amaury is also 3x an AWS Community Builder, 3x Hashicorp Ambassador, international public speaker 
 
-He is recognized as a 3x AWS Community Builder & 3x HashiCorp Ambassador, contributing closely with product teams and representing the community on international stages such as HashiTalks, DevOps Days, and cloud conferences. Curious to exchange ideas about DevSecOps, Cloud Security, and automation? Connect with him on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
+🔭 He is recognized as a 3x AWS Community Builder & 3x HashiCorp Ambassador, contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, DevOps Days, SREDay and cloud conferences. Curious to exchange ideas about DevSecOps, Cloud Security, and automation? Connect with him on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
 - ✈️ My next conferences: [HashiConf 2025](https://www.hashicorp.com/pt/conferences/hashiconf), [Hashicorp User Group Campinas](https://www.meetup.com/campinas-hashicorp-user-group/events/310657076/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2), [DevOps Days Campinas](https://devopsdays.org/events/2025-campinas/welcome/), [SREDay](https://sreday.com/2025-campinas-q4/)
 - 🛡️ Ask me about: Linux, Cloud Security, IA/ML, Hashicorp Tools, AWS/Azure/GCP, #Bash Script, IaC, Ansible, Automation.
