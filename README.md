@@ -3,7 +3,7 @@
 
 Amaury turns technical complexity into practical security outcomes. He is a seasoned security engineer and professor focused on DevSecOps, Cloud Security, and modern application protection across startups and global enterprises. Beyond his engineering work, he builds communities and knowledge as a tech writer, aws builder, and speaker.
 
-🔭 He is recognized as a 3x AWS Community Builder & 3x HashiCorp Ambassador, contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, DevOps Days, SREDay and cloud conferences. Curious to exchange ideas about DevSecOps, Cloud Security, and automation? Connect with him on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
+🔭 He is recognized as a 3x AWS Community Builder & 3x HashiCorp Ambassador, contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, DevOps Days, SREDay and cloud conferences. Curious to exchange ideas about DevSecOps, Cloud Security, and automation? Connect with him on LinkedIn.
 
 - ✈️ My next conferences: [HashiConf 2025](https://www.hashicorp.com/pt/conferences/hashiconf), [Hashicorp User Group Campinas](https://www.meetup.com/campinas-hashicorp-user-group/events/310657076/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2), [DevOps Days Campinas](https://devopsdays.org/events/2025-campinas/welcome/), [SREDay](https://sreday.com/2025-campinas-q4/)
 - 🛡️ Ask me about: Linux, Cloud Security, IA/ML, Hashicorp Tools, AWS/Azure/GCP, #Bash Script, IaC, Ansible, Automation.
@@ -20,3 +20,5 @@ href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.i
 href="https://www.meetup.com/campinas-hashicorp-user-group/" target="_blank"><img src="https://img.shields.io/badge/Meetup-ED1C40?style=for-the-badge&logo=meetup&logoColor=white" /><a/><a                                                                                                                   
 href="https://www.hashicorp.com/pt/ambassador/directory?q=amaury"><img src="https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=HashiCorp&logoColor=white" /><a/><a 
 href="https://builder.aws.com/community/@amaury"><img src="https://img.shields.io/badge/AWS%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><a/>
+
+⭐️ From [DevSecOps from Zero!](https://amaurybsouza.medium.com/)
