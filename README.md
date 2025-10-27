@@ -1,9 +1,9 @@
 ### Hi👏👏 I'm [Amaury Borges Souza](https://www.linkedin.com/in/amaurybsouza/)  
 > Engineer, Professor, Community Builder, Ambassador & Tech Writer.
 
-Amaury turns technical complexity into practical security outcomes. He is a seasoned security engineer and professor focused on DevSecOps, Cloud Security, and modern application protection across startups and global enterprises. Beyond his engineering work, he builds communities and knowledge as a tech writer, aws builder, and speaker.
+Amaury turns technical complexity into practical security outcomes. He is a seasoned security engineer and professor focused on DevSecOps, Cloud Security, and modern application protection across startups and global enterprises.
 
-🔭 He is recognized as a 3x AWS Community Builder & 3x HashiCorp Ambassador, contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, DevOps Days, SREDay and cloud conferences. Curious to exchange ideas about DevSecOps, Cloud Security, and automation? Connect with him on LinkedIn.
+🔭 He is recognized as a 3x AWS Community Builder & 3x HashiCorp Ambassador, contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, DevOps Days, SREDay and cloud conferences. Connect with him on LinkedIn.
 
 - ✈️ My next conferences: [SREDay](https://sreday.com/2025-campinas-q4/), [DevOps Days SP](https://devopsdays.org/events/2025-sao-paulo/welcome/), [HashiConf 2026](https://www.hashicorp.com/pt/conferences/hashiconf), [Hashicorp User Group Campinas](https://www.meetup.com/campinas-hashicorp-user-group/events/310657076/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2)
 - 🛡️ Ask me about: Linux, Cloud Security, IA/ML, Hashicorp Tools, public speaking, tech writing, IaC, Ansible and automation.
