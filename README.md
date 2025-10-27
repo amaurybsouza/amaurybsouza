@@ -9,7 +9,7 @@ I am an engineer person on a security team with +12 years of experience also act
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/) or [Twitter](https://x.com/amaurybsouza_).
 - 📆 Interested in joining the community? [Hashicorp U.G. Campinas](https://www.meetup.com/campinas-hashicorp-user-group/?eventOrigin=event_home_page), [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/), [AWS U.G. Campinas](https://www.meetup.com/pt-BR/awscampinas/).
 
-### Connect with me!
+### 🤝 Connect with me.
 <a href="https://amaurybsouza.github.io/professional-journey/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/><a 
 href="https://twitter.com/amaurybsouza_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/><a
 href="https://amaurybsouza.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /><a/><a
