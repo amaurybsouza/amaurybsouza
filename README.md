@@ -8,7 +8,6 @@ Amaury turns technical complexity into practical business value. He is a seasone
 - ✈️ My next conferences: [SREDay](https://sreday.com/2025-campinas-q4/), [DevOps Days SP](https://devopsdays.org/events/2025-sao-paulo/welcome/), [HashiConf 2026](https://www.hashicorp.com/pt/conferences/hashiconf), [Hashicorp User Group Campinas](https://www.meetup.com/campinas-hashicorp-user-group/events/310657076/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2)
 - 🛡️ Ask me about: Linux, Cloud Security, IA/ML, Hashicorp Tools, public speaking, tech writing, IaC, Ansible and automation.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/), [Twitter](https://x.com/amaurybsouza_) or e-mail amaurybsouza@gmail.com
-- 📆 Interested in joining the community? [Hashicorp U.G. Campinas](https://www.meetup.com/campinas-hashicorp-user-group/?eventOrigin=event_home_page), [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/), [AWS U.G. Campinas](https://www.meetup.com/pt-BR/awscampinas/).
 
 ### 📊 GitHub Stats
 ![Amaury's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amaurybsouza&show_icons=true&theme=dracula&hide_border=true)
