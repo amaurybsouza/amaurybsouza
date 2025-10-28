@@ -10,6 +10,17 @@ Amaury turns technical complexity into practical business value. He is a seasone
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/), [Twitter](https://x.com/amaurybsouza_) or e-mail amaurybsouza@gmail.com
 - 📆 Interested in joining the community? [Hashicorp U.G. Campinas](https://www.meetup.com/campinas-hashicorp-user-group/?eventOrigin=event_home_page), [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/), [AWS U.G. Campinas](https://www.meetup.com/pt-BR/awscampinas/).
 
+### 🛡️ Featured DevSecOps Projects
+
+🔹 [Terraform + DevSecOps Pipeline](https://github.com/...)  
+Infrastructure-as-Code with Checkov, Trivy, and GitHub Actions.
+
+🔹 [AppSec Demo using OWASP Juice Shop](https://github.com/...)  
+SAST + DAST pipeline demonstrating shift-left security.
+
+🔹 [Kubernetes Security Lab](https://github.com/...)  
+Pod Security, Image Scanning, RBAC, and Admission Policies.
+
 ### 🤝 Connect with me.
 <a href="https://amaurybsouza.github.io/professional-journey/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/><a 
 href="https://twitter.com/amaurybsouza_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/><a
@@ -19,5 +30,6 @@ href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.i
 href="https://www.meetup.com/campinas-hashicorp-user-group/" target="_blank"><img src="https://img.shields.io/badge/Meetup-ED1C40?style=for-the-badge&logo=meetup&logoColor=white" /><a/><a                                                                                                                   
 href="https://www.hashicorp.com/pt/ambassador/directory?q=amaury"><img src="https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=HashiCorp&logoColor=white" /><a/><a 
 href="https://builder.aws.com/community/@amaury"><img src="https://img.shields.io/badge/AWS%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><a/>
+
 
 ⭐️ From [DevSecOps from Zero!](https://amaurybsouza.medium.com/)
