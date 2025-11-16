@@ -26,4 +26,4 @@ href="https://www.hashicorp.com/pt/ambassador/directory?q=amaury"><img src="http
 href="https://builder.aws.com/community/@amaury"><img src="https://img.shields.io/badge/AWS%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><a/>
 
 
-⭐️ From [DevSecOps from Zero!](https://amaurybsouza.medium.com/)
+### ⭐️ From [Terraforming AWS Security!🧑‍💻🛡️](https://amaurybsouza.medium.com/)
