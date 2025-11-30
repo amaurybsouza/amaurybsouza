@@ -1,4 +1,4 @@
-### Hi👏👏 I'm [Amaury Borges Souza](https://www.linkedin.com/in/amaurybsouza/)  
+### Hi👏👏 I'm Amaury Borges Souza  
 > Engineer, Professor, AWS Community Builder, Hashicorp Ambassador & Tech Writer.
 
 Amaury turns technical complexity into practical business value. He is a seasoned security engineer and professor focused on DevSecOps, Cloud Security, and modern application protection across startups and global enterprises.
