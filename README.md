@@ -10,7 +10,7 @@ Amaury simplifies technical complexity into practical business value. He is a se
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/), [Twitter](https://x.com/amaurybsouza_) or e-mail amaurybsouza@gmail.com
 
 ### 👨‍🏫DevSecOps Labs (used in my @FIAP MBA courses)
-> Alongside his industry work, Amaury is an MBA Professor at @FIAP, teaching DevSecOps, AppSec, Cloud Security, and AI-driven Security. 
+> As part of my academic work, I teach DevSecOps, AppSec, Cloud Security, IaC, and AI-driven Security as an MBA Professor at FIAP; one of Brazil’s leading technology universities.
 - **IaC Security Lab** — Terraform + Checkov + TFLint + ValidIaC  
 - **CI/CD Security Pipeline** — SAST, SCA, IaC scanning, Secrets e DAST  
 - **Container Security & SBOM Lab** — Trivy + CycloneDX  
