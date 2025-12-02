@@ -9,12 +9,6 @@ Amaury turns technical complexity into practical business value. He is a seasone
 - 🛡️ Ask me about: Linux, Cloud Security, IA/ML, Hashicorp Tools, public speaking, tech writing, IaC, Ansible and automation.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/), [Twitter](https://x.com/amaurybsouza_) or e-mail amaurybsouza@gmail.com
 
-### 📊 GitHub Stats
-![Amaury's GitHub Stats](https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=amaurybsouza&show_icons=true&theme=dracula&hide_border=true)
-
-### 📚 Top Languages
-![Top Langs](https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=amaurybsouza&layout=compact&theme=dracula&hide_border=true)
-
 ### 🤝 Connect with me.
 <a href="https://amaurybsouza.github.io/professional-journey/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /><a/><a 
 href="https://twitter.com/amaurybsouza_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /><a/><a
