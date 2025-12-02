@@ -5,11 +5,7 @@ Amaury simplifies technical complexity into practical business value. He is a se
 
 🔭 He is recognized as a 3x AWS Community Builder & 3x HashiCorp Ambassador, contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, DevOps Days, SREDay and cloud conferences. Connect with him on LinkedIn.
 
-- 🎤Upcoming Talks & Conferences: [SREDay](https://sreday.com/2025-campinas-q4/), [DevOps Days SP](https://devopsdays.org/events/2025-sao-paulo/welcome/), [HashiConf 2026](https://www.hashicorp.com/pt/conferences/hashiconf), [Hashicorp User Group Campinas](https://www.meetup.com/campinas-hashicorp-user-group/events/310657076/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link&utm_version=v2)
-- 🛡️ Ask me about: Linux, Cloud Security, IA/ML, Hashicorp Tools, public speaking, tech writing, IaC, Ansible and automation.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/), [Twitter](https://x.com/amaurybsouza_) or e-mail amaurybsouza@gmail.com
-
-### 👨‍🏫DevSecOps Labs (used in my @FIAP MBA courses)
+### 👨‍🏫DevSecOps Labs (used in my FIAP MBA courses)
 > As part of my academic work, I teach DevSecOps, AppSec, Cloud Security, IaC, and AI-driven Security as an MBA Professor at FIAP; one of Brazil’s leading technology universities.
 - **IaC Security Lab** — Terraform + Checkov + TFLint + ValidIaC  
 - **CI/CD Security Pipeline** — SAST, SCA, IaC scanning, Secrets e DAST  
