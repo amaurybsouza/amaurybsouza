@@ -1,9 +1,9 @@
-### Hi👏👏 I'm Amaury Borges Souza  
+### Hi👏👏 I'm Amaury Borges Souza 
 > Engineer, Professor, AWS Community Builder, Hashicorp Ambassador & Tech Writer.
 
-Amaury simplifies technical complexity into practical business value. He is a senior security engineer and professor specialized in DevSecOps, Cloud Security, IaC and modern application protection.  
+Amaury simplifies technical complexity into practical business value. He is a senior security engineer🛡️ and professor specialized in DevSecOps, Cloud Security, IaC and modern application protection.  
 
-🔭 He is recognized as a 3x [AWS Community Builder](https://builder.aws.com/community/community-builders) & 3x HashiCorp Ambassador, contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, DevOps Days, SREDay and cloud conferences. Connect with him on LinkedIn.
+🔭 He is recognized as a 3️⃣x [AWS Community Builder](https://builder.aws.com/community/community-builders) & 3x HashiCorp Ambassador, contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, DevOps Days, SREDay and cloud conferences. Connect with him on LinkedIn.
 
 ### 👨‍🏫DevSecOps Labs (used in my FIAP MBA courses)
 > As part of my academic work, I teach DevSecOps, AppSec, Cloud Security, IaC, and AI-driven Security as an MBA Professor at FIAP; one of Brazil’s leading technology universities.
