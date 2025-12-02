@@ -9,7 +9,7 @@ Amaury simplifies technical complexity into practical business value. He is a se
 - 🛡️ Ask me about: Linux, Cloud Security, IA/ML, Hashicorp Tools, public speaking, tech writing, IaC, Ansible and automation.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amaurybsouza/), [Slack](https://slack.com/), [Twitter](https://x.com/amaurybsouza_) or e-mail amaurybsouza@gmail.com
 
-### 👨‍🏫DevSecOps Labs (used in my FIAP MBA courses)
+### 👨‍🏫DevSecOps Labs (used in my @FIAP MBA courses)
 
 - **IaC Security Lab** — Terraform + Checkov + TFLint + ValidIaC  
 - **CI/CD Security Pipeline** — SAST, SCA, IaC scanning, Secrets e DAST  
