@@ -13,7 +13,7 @@ href="https://builder.aws.com/community/@amaury"><img src="https://img.shields.i
 
 Amaury simplifies technical complexity into practical business value. He is a senior security engineer🛡️ and professor specialized in DevSecOps, Cloud Security, IaC and modern application protection.  
 
-🔭 He is recognized as 3️⃣x [AWS Community Builder](https://builder.aws.com/community/community-builders) & 3️⃣x [HashiCorp Ambassador](https://www.hashicorp.com/id/ambassador/directory), contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, AWS Summits, DevOps Days, SREDay and cloud conferences. Connect with him on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
+🔭 He is recognized as [AWS Community Builder](https://builder.aws.com/community/community-builders) & [HashiCorp Ambassador](https://www.hashicorp.com/id/ambassador/directory), contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, AWS Summits, DevOps Days, SREDay and cloud conferences. Connect with him on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
 ### 👨‍🏫DevSecOps Labs (used in my FIAP MBA courses)
 > As part of my academic work, I teach DevSecOps, AppSec, Cloud Security, IaC, and AI-driven Security as an MBA Professor at [FIAP](https://www.fiap.com.br/); one of Brazil’s leading technology universities.
