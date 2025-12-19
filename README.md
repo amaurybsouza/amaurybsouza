@@ -25,7 +25,7 @@ I regularly publish articles on Medium, Substack about Cloud Security, DevSecOps
 
 [More Medium posts...](https://amaurybsouza.medium.com/)
 
-### Global Conferences🌎
+### International Conferences🌎
 I actively submit and speak at global conferences about Cloud Security, DevSecOps, Terraform, and AI-driven security automation. Some of my talk proposals include:
 
 - Dec 04, 2025: Speaking at [SREDay Campinas 2025](https://sreday.com/2025-campinas-q4/). (Hortolândia, SP)
