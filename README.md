@@ -15,7 +15,7 @@ Amaury simplifies technical complexity into practical business value. He is a se
 
 🔭 He is recognized as [AWS Community Builder](https://builder.aws.com/community/community-builders) & [HashiCorp Ambassador](https://www.hashicorp.com/id/ambassador/directory), contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, AWS Summits, DevOps Days, SREDay and cloud conferences. Connect with him on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
-### Latest Medium Posts
+### Latest Medium Posts💻
 I regularly publish articles on Medium, Substack about Cloud Security, DevSecOps, security automation, sharing hands-on labs, real-world use cases. Some of my recent topics include:
 - [Trivy + Terraform: Detectando Misconfigurations antes do deploy](https://amaurybsouza.medium.com/trivy-terraform-detectando-misconfigurations-antes-do-deploy-fe05ba72ee37)
 - [HashiConf’25](https://amaurybsouza.medium.com/hashiconf25-1437c5fb239e)
@@ -25,7 +25,7 @@ I regularly publish articles on Medium, Substack about Cloud Security, DevSecOps
 
 [More Medium posts...](https://amaurybsouza.medium.com/)
 
-### Global Conferences
+### Global Conferences📆
 I actively submit and speak at global conferences about Cloud Security, DevSecOps, Terraform, and AI-driven security automation. Some of my talk proposals include:
 
 - Dec 04, 2025: [SREDay Campinas 2025](https://sreday.com/2025-campinas-q4/)
