@@ -29,7 +29,7 @@ I regularly publish articles on Medium, Substack about Cloud Security, DevSecOps
 I actively submit and speak at global conferences about Cloud Security, DevSecOps, Terraform, and AI-driven security automation. Some of my talk proposals include:
 
 - Dec 04, 2025: [SREDay Campinas 2025](https://sreday.com/2025-campinas-q4/)
-- Sep 24-26, 2025: [HashiConf 2025](https://www.hashicorp.com/pt/conferences/hashiconf)
+- Sep 23-26, 2025: Attending at [HashiConf 2025](https://www.hashicorp.com/pt/conferences/hashiconf) (San Francisco, CA)
 - Aug 13, 2025: [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/)
 - Aug 07, 2025: [HashiTalks: Brasil](https://events.hashicorp.com/hashitalksbrasil)
 
