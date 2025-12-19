@@ -26,7 +26,7 @@ Amaury simplifies technical complexity into practical business value. He is a se
 [More Medium posts...](https://amaurybsouza.medium.com/)
 
 ### Global Conferences
-> I actively submit and speak at global conferences about Cloud Security, DevSecOps, Terraform, and AI-driven security automation. Some of my talk proposals include:
+I actively submit and speak at global conferences about Cloud Security, DevSecOps, Terraform, and AI-driven security automation. Some of my talk proposals include:
 
 - [SREDay Campinas 2025](https://sreday.com/2025-campinas-q4/)
 
