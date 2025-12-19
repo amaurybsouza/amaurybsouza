@@ -30,7 +30,7 @@ I actively submit and speak at global conferences about Cloud Security, DevSecOp
 
 - Dec 04, 2025: Speaking at [SREDay Campinas 2025](https://sreday.com/2025-campinas-q4/). (Hortolândia, SP)
 - Sep 23-26, 2025: Attending at [HashiConf 2025](https://www.hashicorp.com/pt/conferences/hashiconf). (San Francisco, CA)
-- Sep 10, 2025: Attending at Google Cloud Summit 2025. (São Paulo, SP)
+- Sep 10, 2025: Attending at [Google Cloud Summit 2025](https://cloudonair.withgoogle.com/events/google-cloud-summit-brasil-2025). (São Paulo, SP)
 - Aug 13, 2025: Attending at [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/). (São Paulo, SP)
 - Aug 07, 2025: Speaking at [HashiTalks: Brasil](https://events.hashicorp.com/hashitalksbrasil). (Online)
 
