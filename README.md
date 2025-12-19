@@ -15,6 +15,13 @@ Amaury simplifies technical complexity into practical business value. He is a se
 
 🔭 He is recognized as [AWS Community Builder](https://builder.aws.com/community/community-builders) & [HashiCorp Ambassador](https://www.hashicorp.com/id/ambassador/directory), contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, AWS Summits, DevOps Days, SREDay and cloud conferences. Connect with him on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
+### Latest Medium Posts
+- [Trivy + Terraform: Detectando Misconfigurations antes do deploy](https://amaurybsouza.medium.com/trivy-terraform-detectando-misconfigurations-antes-do-deploy-fe05ba72ee37)
+- [HashiConf’25](https://amaurybsouza.medium.com/hashiconf25-1437c5fb239e)
+- [Usando Amazon Q para Detecção de Vulnerabilidades](https://amaurybsouza.medium.com/usando-amazon-q-para-detec%C3%A7%C3%A3o-de-vulnerabilidades-703eab813dd2)
+
+- [More Medium posts...](https://amaurybsouza.medium.com/)
+
 ### 👨‍🏫DevSecOps Labs (used in my FIAP MBA courses)
 > As part of my academic work, I teach DevSecOps, AppSec, Cloud Security, IaC, and AI-driven Security as an MBA Professor at [FIAP](https://www.fiap.com.br/); one of Brazil’s leading technology universities.
 - **IaC Security Lab** — Terraform + Checkov + TFLint + ValidIaC  
