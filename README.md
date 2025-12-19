@@ -25,13 +25,9 @@ Amaury simplifies technical complexity into practical business value. He is a se
 
 [More Medium posts...](https://amaurybsouza.medium.com/)
 
-### 👨‍🏫DevSecOps Labs (used in my FIAP MBA courses)
-> As part of my academic work, I teach DevSecOps, AppSec, Cloud Security, IaC, and AI-driven Security as an MBA Professor at [FIAP](https://www.fiap.com.br/); one of Brazil’s leading technology universities.
-- **IaC Security Lab** — Terraform + Checkov + TFLint + ValidIaC  
-- **CI/CD Security Pipeline** — SAST, SCA, IaC scanning, Secrets e DAST  
-- **Container Security & SBOM Lab** — Trivy + CycloneDX  
-- **Kubernetes Security Lab** — NSA/CISA Benchmark + Kubescape  
-- **Incident Response Automation Lab** — Slack + GitHub Actions  
-- **AI + DevSecOps Lab** — scanning, generation & remediation  
+### Global Conferences
+> I actively submit and speak at global conferences about Cloud Security, DevSecOps, Terraform, and AI-driven security automation. Some of my talk proposals include:
+
+- [SREDay Campinas 2025](https://sreday.com/2025-campinas-q4/)
 
 ### ⭐️ From [Terraforming AWS Security!🧑‍💻🛡️](https://amaurybsouza.medium.com/)
