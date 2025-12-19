@@ -16,7 +16,7 @@ Amaury simplifies technical complexity into practical business value. He is a se
 🔭 He is recognized as [AWS Community Builder](https://builder.aws.com/community/community-builders) & [HashiCorp Ambassador](https://www.hashicorp.com/id/ambassador/directory), contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, AWS Summits, DevOps Days, SREDay and cloud conferences. Connect with him on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
 ### Latest Medium Posts
-
+I regularly publish articles on Medium, Substack about Cloud Security, DevSecOps, security automation, sharing hands-on labs, real-world use cases. Some of my recent topics include:
 - [Trivy + Terraform: Detectando Misconfigurations antes do deploy](https://amaurybsouza.medium.com/trivy-terraform-detectando-misconfigurations-antes-do-deploy-fe05ba72ee37)
 - [HashiConf’25](https://amaurybsouza.medium.com/hashiconf25-1437c5fb239e)
 - [Usando Amazon Q para Detecção de Vulnerabilidades](https://amaurybsouza.medium.com/usando-amazon-q-para-detec%C3%A7%C3%A3o-de-vulnerabilidades-703eab813dd2)
@@ -29,6 +29,8 @@ Amaury simplifies technical complexity into practical business value. He is a se
 I actively submit and speak at global conferences about Cloud Security, DevSecOps, Terraform, and AI-driven security automation. Some of my talk proposals include:
 
 - Dec 04, 2025: [SREDay Campinas 2025](https://sreday.com/2025-campinas-q4/)
+- Sep 24-26, 2025: [HashiConf 2025](https://www.hashicorp.com/pt/conferences/hashiconf)
+- Aug 13, 2025: [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/)
 - Aug 07, 2025: [HashiTalks: Brasil](https://events.hashicorp.com/hashitalksbrasil)
 
 ### ⭐️ From [Terraforming AWS Security!🧑‍💻🛡️](https://amaurybsouza.medium.com/)
