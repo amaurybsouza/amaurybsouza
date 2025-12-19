@@ -28,6 +28,7 @@ Amaury simplifies technical complexity into practical business value. He is a se
 ### Global Conferences
 I actively submit and speak at global conferences about Cloud Security, DevSecOps, Terraform, and AI-driven security automation. Some of my talk proposals include:
 
-- [SREDay Campinas 2025](https://sreday.com/2025-campinas-q4/)
+- Dec 04, 2025: [SREDay Campinas 2025](https://sreday.com/2025-campinas-q4/)
+- Aug 07, 2025: [HashiTalks: Brasil](https://events.hashicorp.com/hashitalksbrasil)
 
 ### ⭐️ From [Terraforming AWS Security!🧑‍💻🛡️](https://amaurybsouza.medium.com/)
