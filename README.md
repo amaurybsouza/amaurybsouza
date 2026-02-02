@@ -25,14 +25,17 @@ I regularly publish articles on Medium, Substack about Cloud Security, DevSecOps
 
 [More Medium posts...](https://amaurybsouza.medium.com/)
 
-### International Conferences🌎
-I actively submit and speak at global conferences about Cloud Security, DevSecOps, Terraform, and AI-driven security automation. Some of my talk proposals include:
+## 🌍 International Conferences & Talks
+I actively submit and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
 
-- Dec 04, 2025: Speaking at [SREDay Campinas 2025](https://sreday.com/2025-campinas-q4/). (Hortolândia, SP)
-- Sep 23-26, 2025: Attending at [HashiConf 2025](https://www.hashicorp.com/pt/conferences/hashiconf). (San Francisco, CA)
-- Sep 10, 2025: Attending at [Google Cloud Summit 2025](https://cloudonair.withgoogle.com/events/google-cloud-summit-brasil-2025). (São Paulo, SP)
-- Aug 13, 2025: Attending at [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/). (São Paulo, SP)
-- Aug 07, 2025: Speaking at [HashiTalks: Brasil](https://events.hashicorp.com/hashitalksbrasil). (Online)
+📌 **2026 Events & Talks Tracker**  
+👉 https://github.com/amaurybsouza/security-events-2026
+
+This repository tracks:
+- Conferences I attend
+- Call for Papers submissions
+- Accepted talks and speaking engagements
+- Talk ideas and speaker materials
 
 [Check out my Speaker Deck](https://speakerdeck.com/amaurybsouza)
 
