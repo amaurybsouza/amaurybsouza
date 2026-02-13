@@ -9,7 +9,7 @@ href="https://amauryborgessouza.substack.com/"><img src="https://img.shields.io/
 href="https://www.linkedin.com/in/amaurybsouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/><a
 href="https://www.linkedin.com/company/hashicorp-user-group-campinas/" target="_blank"><img src="https://img.shields.io/badge/Meetup-ED1C40?style=for-the-badge&logo=meetup&logoColor=white" /><a/><a
 href="https://www.hashicorp.com/pt/ambassador/directory?q=amaury"><img src="https://img.shields.io/badge/HashiCorp-000000?style=for-the-badge&logo=HashiCorp&logoColor=white" /><a/><a 
-href="https://builder.aws.com/community/@amaury"><img src="https://img.shields.io/badge/AWS%20Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><a/>
+href="https://sessionize.com/amaurybsouza/"><img src="https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=calendar&logoColor=white" /><a/>
 
 Amaury simplifies technical complexity into practical business value. He is a senior security engineer🛡️ and professor specialized in DevSecOps, Cloud Security, IaC and modern application protection.  
 
