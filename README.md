@@ -38,5 +38,3 @@ This repository tracks:
 - Talk ideas and speaker materials
 
 [Check out my Speaker Deck](https://speakerdeck.com/amaurybsouza)
-
-### ⭐️ From [Terraforming AWS Security!🧑‍💻🛡️](https://amaurybsouza.medium.com/)
