@@ -9,10 +9,10 @@ href="mailto:amaurybsouza@gmail.com"><img src="https://img.shields.io/badge/Gmai
 href="https://speakerdeck.com/amaurybsouza"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" /><a/><a
 href="https://www.linkedin.com/company/hashicorp-user-group-campinas/" target="_blank"><img src="https://img.shields.io/badge/Meetup-ED1C40?style=for-the-badge&logo=meetup&logoColor=white" /><a/><a                                                                                                                                   href="https://sessionize.com/amaurybsouza/"><img src="https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=calendar&logoColor=white" /><a/>
 
+Amaury turns complex cloud security challenges into scalable, practical business outcomes. He is a Senior Cloud Security Engineer and MBA Professor specializing in DevSecOps, Cloud Security, Infrastructure as Code (IaC), and modern application protection. He has extensive experience 12y+ designing secure, automated cloud platforms that enable fast software delivery without compromising governance or resilience.
 
-Amaury simplifies technical complexity into practical business value. He is a senior security engineer🛡️ and professor specialized in DevSecOps, Cloud Security, IaC and modern application protection.  
+Recognized as a 3× [AWS Community Builder](https://builder.aws.com/community/community-builders) and 3× [HashiCorp Ambassador](https://www.hashicorp.com/pt/ambassador), Amaury works closely with product and engineering teams while actively contributing to the global tech community. He is a frequent international speaker at conferences including HashiTalks, HashiConf, BSides, AWS Summits, DevOpsDays, SREDay, and major cloud security events.
 
-🔭 He is recognized as [AWS Community Builder](https://builder.aws.com/community/community-builders) & [HashiCorp Ambassador](https://www.hashicorp.com/id/ambassador/directory), contributing closely with product teams and representing the community on international conferences such as HashiTalks, HashiConf, AWS Summits, DevOps Days, SREDay and cloud conferences. Connect with him on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
 ## 📝 Latest Medium Posts
 I regularly publish technical articles on Medium and Substack, focused on Cloud Security, DevSecOps, Terraform, and AI-driven security automation.
