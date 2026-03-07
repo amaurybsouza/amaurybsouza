@@ -10,9 +10,6 @@ href="https://www.linkedin.com/company/hashicorp-user-group-campinas/" target="_
 
 Amaury turns complex cloud☁️ security challenges into scalable, practical business outcomes. He is a Senior Cloud Security Engineer and MBA Professor specializing in DevSecOps, Cloud Security, Infrastructure as Code (IaC), and modern application protection. He has extensive experience 12y+ designing secure, automated cloud platforms that enable fast software delivery without compromising governance or resilience.
 
-Recognized as a [3× AWS Community Builder](https://builder.aws.com/community/community-builders) and [3× HashiCorp Ambassador](https://www.hashicorp.com/pt/ambassador), Amaury works closely with product and engineering teams while actively contributing to the global tech community. He is a frequent international speaker at conferences including HashiTalks, HashiConf, BSides, AWS Summits, DevOpsDays, SREDay, and major cloud security events.
-
-
 ## 📝 Latest Medium Posts
 I regularly publish technical articles on Medium and Substack, focused on Cloud Security, DevSecOps, Terraform, and AI-driven security automation.
 Recent topics include:
