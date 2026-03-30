@@ -14,11 +14,8 @@ Amaury turns complex cloud☁️ security challenges into scalable, practical bu
 I regularly publish technical articles on Medium and Substack, focused on Cloud Security, DevSecOps, Terraform, and AI-driven security automation.
 Recent topics include:
 - FEB 01, 2026 - [Security BSides 2026: Segurança, hacking e comunidade](https://amaurybsouza.medium.com/security-bsides-2026-seguran%C3%A7a-hacking-e-comunidade-d89ff54b687f)
-- [Como se tornar um AWS Community Builder em 2026](https://amaurybsouza.medium.com/como-se-tornar-um-aws-community-builder-em-2026-bb8d00337697)
-- [Pensando em começar com Terraform? Aqui eu mostro o caminho das pedras.](https://amaurybsouza.medium.com/pensando-em-come%C3%A7ar-com-terraform-aqui-eu-mostro-o-caminho-das-pedras-aa7270cf43b3)
-- [Trivy + Terraform: Detectando Misconfigurations antes do deploy](https://amaurybsouza.medium.com/trivy-terraform-detectando-misconfigurations-antes-do-deploy-fe05ba72ee37)
-- [HashiConf’25](https://amaurybsouza.medium.com/hashiconf25-1437c5fb239e)
-- [Usando Amazon Q para Detecção de Vulnerabilidades](https://amaurybsouza.medium.com/usando-amazon-q-para-detec%C3%A7%C3%A3o-de-vulnerabilidades-703eab813dd2)
+- JAN 08, 2026 - [Como se tornar um AWS Community Builder em 2026](https://amaurybsouza.medium.com/como-se-tornar-um-aws-community-builder-em-2026-bb8d00337697)
+- NOV 16, 2025 - [Pensando em começar com Terraform? Aqui eu mostro o caminho das pedras](https://amaurybsouza.medium.com/pensando-em-come%C3%A7ar-com-terraform-aqui-eu-mostro-o-caminho-das-pedras-aa7270cf43b3)
 
 [More Medium posts...](https://amaurybsouza.medium.com/)
 
