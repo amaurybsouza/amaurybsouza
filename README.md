@@ -24,4 +24,8 @@ Recent topics include:
 - Aug 25, 2025 - [DevSecOps na prática: pre-commit e TruffleHog](https://amaurybsouza.medium.com/devsecops-na-pr%C3%A1tica-prevenindo-commits-de-credenciais-aws-com-pre-commit-e-trufflehog-5094226ec9ad)
 
 ## 🌍 International Conferences & Talks
-I actively submit and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
+I actively submit and speak at [global conferences](https://sessionize.com/amaurybsouza/) focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
+- [Esquenta BSides RJ 2026](https://bsidesrj.com.br/) (Mar 2026 Rio de Janeiro, Brazil)
+- [HashiTalks 2026](https://hashitalks2026.splashthat.com/) (Feb 2026 Online)
+- [SREDay Campinas 2026](https://sreday.com/) (Dec 2025 Hortolândia, Brazil)
+
