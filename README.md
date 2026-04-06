@@ -10,7 +10,7 @@ href="https://www.linkedin.com/company/hashicorp-user-group-campinas/" target="_
 
 Amaury is an active international conference speaker, presenting at events such as HashiTalks, HashiConf, AWS Summits, DevOpsDays, SREday, and security conferences across different regions. His talks focus on secure Terraform practices, policy as code, and building automated guardrails for modern cloud platforms.
 
-Beyond his professional work, Amaury shares his passion for cloud computing through his Medium profile, "The DevSecOps from Zero" He is also professor at [FIAP](https://www.fiap.com.br/) (MBA courses), education institution focused on technology and has contributed (co-author) of book publication “Carreira Dev” (Casa do Código, 2025) ..
+Beyond his professional work, Amaury shares his passion for cloud computing through his Medium profile, "The DevSecOps from Zero" He is also professor at [FIAP](https://www.fiap.com.br/) (MBA courses), education institution focused on technology and has contributed (co-author) of book publication “Carreira Dev” (Casa do Código, 2025).
 
 ## 📝 Latest Medium Posts
 I regularly publish technical articles on [Medium](https://amaurybsouza.medium.com/), focused on Cloud Security, DevSecOps, Terraform, and AI-driven security automation.
@@ -23,18 +23,5 @@ Recent topics include:
 - Sep 30, 2025 - [HashiConf’25](https://amaurybsouza.medium.com/hashiconf25-1437c5fb239e)
 - Aug 25, 2025 - [DevSecOps na prática: pre-commit e TruffleHog](https://amaurybsouza.medium.com/devsecops-na-pr%C3%A1tica-prevenindo-commits-de-credenciais-aws-com-pre-commit-e-trufflehog-5094226ec9ad)
 
-[More Medium posts...](https://amaurybsouza.medium.com/)
-
 ## 🌍 International Conferences & Talks
 I actively submit and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
-
-📌 **2026 Events & Talks Tracker**  
-👉 https://github.com/amaurybsouza/security-events-2026
-
-This repository tracks:
-- Conferences I attend
-- Call for Papers submissions
-- Accepted talks and speaking engagements
-- Talk ideas and speaker materials
-
-[Check out my Speaker Deck](https://speakerdeck.com/amaurybsouza)
