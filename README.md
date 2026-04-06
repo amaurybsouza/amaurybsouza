@@ -13,21 +13,20 @@ Amaury is an active international conference speaker, presenting at events such 
 Beyond his professional work, Amaury shares his passion for cloud computing through his Medium profile, "The DevSecOps from Zero" He is also professor at [FIAP](https://www.fiap.com.br/) (MBA courses), education institution focused on technology and has contributed (co-author) of book publication “Carreira Dev” (Casa do Código, 2025).
 
 ## 📝 Latest Medium Posts
-I regularly publish technical articles on [Medium](https://amaurybsouza.medium.com/), focused on Cloud Security, DevSecOps, Terraform, and AI-driven security automation.
+I regularly publish technical articles on Medium, focused on Cloud Security, DevSecOps, Terraform, and AI-driven security automation.
 Recent topics include:
 - Apr 02, 2026 - [Convite BSides RJ: Carimbei minha Presença](https://amaurybsouza.medium.com/convite-bsides-rj-carimbei-minha-presen%C3%A7a-3727a9655cc1)
 - Feb 01, 2026 - [Security BSides 2026: Segurança, hacking e comunidade](https://amaurybsouza.medium.com/security-bsides-2026-seguran%C3%A7a-hacking-e-comunidade-d89ff54b687f)
 - Jan 08, 2026 - [Como se tornar um AWS Community Builder em 2026](https://amaurybsouza.medium.com/como-se-tornar-um-aws-community-builder-em-2026-bb8d00337697)
 - Nov 16, 2025 - [Pensando em começar com Terraform? Aqui eu mostro o caminho das pedras](https://amaurybsouza.medium.com/pensando-em-come%C3%A7ar-com-terraform-aqui-eu-mostro-o-caminho-das-pedras-aa7270cf43b3)
 - Oct 05, 2025 - [Trivy + Terraform: Detectando Misconfigurations antes do deploy](https://amaurybsouza.medium.com/trivy-terraform-detectando-misconfigurations-antes-do-deploy-fe05ba72ee37).
-- Sep 30, 2025 - [HashiConf’25](https://amaurybsouza.medium.com/hashiconf25-1437c5fb239e)
 - Aug 25, 2025 - [DevSecOps na prática: pre-commit e TruffleHog](https://amaurybsouza.medium.com/devsecops-na-pr%C3%A1tica-prevenindo-commits-de-credenciais-aws-com-pre-commit-e-trufflehog-5094226ec9ad)
 
 ## 🌍 International Conferences & Talks
-I actively submit and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
+I actively submit (CfP) and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
 - 🇧🇷 [Hashicorp User Group](https://luma.com/we7dx0so) (Apr 2026 Campinas, Brazil)
-- 🇧🇷 [Esquenta BSides RJ 2026](https://bsidesrj.com.br/) (Mar 2026 Rio de Janeiro, Brazil)
+- 🇧🇷 [Esquenta BSides RJ 2026](https://hackinbrasil.com.br/meetup-25-03-2026/) (Mar 2026 Rio de Janeiro, Brazil)
 - 🌐[HashiTalks 2026](https://hashitalks2026.splashthat.com/) (Feb 2026 Online)
 - 🇧🇷 [SREDay Campinas 2026](https://sreday.com/) (Dec 2025 Hortolândia, Brazil)
-- 
+- 🌐[HashiTalks Brasil](https://events.hashicorp.com/hashitalksbrasil) (Aug 2025 Online)
 
