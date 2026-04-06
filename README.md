@@ -8,7 +8,9 @@ href="mailto:amaurybsouza@gmail.com"><img src="https://img.shields.io/badge/Gmai
 href="https://speakerdeck.com/amaurybsouza"><img src="https://img.shields.io/badge/Speaker_Deck-009287?style=for-the-badge&logo=speakerdeck&logoColor=white" /><a/><a
 href="https://www.linkedin.com/company/hashicorp-user-group-campinas/" target="_blank"><img src="https://img.shields.io/badge/Meetup-ED1C40?style=for-the-badge&logo=meetup&logoColor=white" /><a/><a                                                                                                                                   href="https://sessionize.com/amaurybsouza/"><img src="https://img.shields.io/badge/Sessionize-1AB394?style=for-the-badge&logo=calendar&logoColor=white" /><a/>
 
-Amaury turns complex cloud☁️ security challenges into scalable, practical business outcomes. He is a Senior Cloud Security Engineer and MBA Professor specializing in DevSecOps, Cloud Security, Infrastructure as Code (IaC), and modern application protection. He has extensive experience 12y+ designing secure, automated cloud platforms that enable fast software delivery without compromising governance or resilience.
+Amaury is an active international conference speaker, presenting at events such as HashiTalks, HashiConf, AWS Summits, DevOpsDays, SREday, and security conferences across different regions. His talks focus on secure Terraform practices, policy as code, and building automated guardrails for modern cloud platforms.
+
+Beyond his professional work, Amaury shares his passion for cloud computing through his Medium profile, "The DevSecOps from Zero" He is also professor at [FIAP](https://www.fiap.com.br/) (MBA courses), education institution focused on technology and has contributed (co-author) of book publication “Carreira Dev” (Casa do Código, 2025) ..
 
 ## 📝 Latest Medium Posts
 I regularly publish technical articles on [Medium](https://amaurybsouza.medium.com/), focused on Cloud Security, DevSecOps, Terraform, and AI-driven security automation.
