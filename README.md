@@ -11,12 +11,15 @@ href="https://www.linkedin.com/company/hashicorp-user-group-campinas/" target="_
 Amaury turns complex cloud☁️ security challenges into scalable, practical business outcomes. He is a Senior Cloud Security Engineer and MBA Professor specializing in DevSecOps, Cloud Security, Infrastructure as Code (IaC), and modern application protection. He has extensive experience 12y+ designing secure, automated cloud platforms that enable fast software delivery without compromising governance or resilience.
 
 ## 📝 Latest Medium Posts
-I regularly publish technical articles on Medium and Substack, focused on Cloud Security, DevSecOps, Terraform, and AI-driven security automation.
+I regularly publish technical articles on [Medium](https://amaurybsouza.medium.com/), focused on Cloud Security, DevSecOps, Terraform, and AI-driven security automation.
 Recent topics include:
 - Apr 02, 2026 - [Convite BSides RJ: Carimbei minha Presença](https://amaurybsouza.medium.com/convite-bsides-rj-carimbei-minha-presen%C3%A7a-3727a9655cc1)
 - Feb 01, 2026 - [Security BSides 2026: Segurança, hacking e comunidade](https://amaurybsouza.medium.com/security-bsides-2026-seguran%C3%A7a-hacking-e-comunidade-d89ff54b687f)
 - Jan 08, 2026 - [Como se tornar um AWS Community Builder em 2026](https://amaurybsouza.medium.com/como-se-tornar-um-aws-community-builder-em-2026-bb8d00337697)
 - Nov 16, 2025 - [Pensando em começar com Terraform? Aqui eu mostro o caminho das pedras](https://amaurybsouza.medium.com/pensando-em-come%C3%A7ar-com-terraform-aqui-eu-mostro-o-caminho-das-pedras-aa7270cf43b3)
+- Oct 05, 2025 - [Trivy + Terraform: Detectando Misconfigurations antes do deploy](https://amaurybsouza.medium.com/trivy-terraform-detectando-misconfigurations-antes-do-deploy-fe05ba72ee37).
+- Sep 30, 2025 - [HashiConf’25](https://amaurybsouza.medium.com/hashiconf25-1437c5fb239e)
+- Aug 25, 2025 - [DevSecOps na prática: pre-commit e TruffleHog](https://amaurybsouza.medium.com/devsecops-na-pr%C3%A1tica-prevenindo-commits-de-credenciais-aws-com-pre-commit-e-trufflehog-5094226ec9ad)
 
 [More Medium posts...](https://amaurybsouza.medium.com/)
 
