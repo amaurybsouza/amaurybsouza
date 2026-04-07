@@ -12,7 +12,7 @@ Amaury is an active international conference speaker, presenting at events such 
 
 Beyond his professional work, Amaury shares his passion for cloud computing through his Medium profile, "The DevSecOps from Zero" He is also professor at [FIAP](https://www.fiap.com.br/) (MBA courses), education institution focused on technology and has contributed (co-author) of book publication “Carreira Dev” (Casa do Código, 2025).
 
-## 📝 Latest Medium Posts
+### 📝 Latest Medium Posts
 I regularly publish technical articles on Medium, focused on Cloud Security, DevSecOps, Terraform, and AI-driven security automation.
 Recent topics include:
 - Apr 02, 2026 - [Convite BSides RJ: Carimbei minha Presença](https://amaurybsouza.medium.com/convite-bsides-rj-carimbei-minha-presen%C3%A7a-3727a9655cc1)
@@ -22,7 +22,7 @@ Recent topics include:
 - Oct 05, 2025 - [Trivy + Terraform: Detectando Misconfigurations antes do deploy](https://amaurybsouza.medium.com/trivy-terraform-detectando-misconfigurations-antes-do-deploy-fe05ba72ee37).
 - Aug 25, 2025 - [DevSecOps na prática: pre-commit e TruffleHog](https://amaurybsouza.medium.com/devsecops-na-pr%C3%A1tica-prevenindo-commits-de-credenciais-aws-com-pre-commit-e-trufflehog-5094226ec9ad)
 
-## 🌍 International Conferences & Talks
+### 🌍 International Conferences & Talks
 I actively submit (CfP) and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
 - 🇧🇷 🎤[Hashicorp User Group](https://luma.com/we7dx0so) (Apr 2026 Campinas, Brazil)
 - 🇧🇷 🎤[Esquenta BSides RJ 2026](https://hackinbrasil.com.br/meetup-25-03-2026/) (Mar 2026 Rio de Janeiro, Brazil)
