@@ -28,5 +28,6 @@ I actively submit (CfP) and speak at global conferences focused on Cloud Securit
 - 🇧🇷 🎤[Esquenta BSides RJ 2026](https://hackinbrasil.com.br/meetup-25-03-2026/) (Mar 2026 Rio de Janeiro, Brazil)
 - 🇺🇸 🎤[HashiTalks 2026](https://hashitalks2026.splashthat.com/) (Feb 2026 Online)
 - 🇧🇷 🎤[SREDay Campinas 2026](https://sreday.com/) (Dec 2025 Hortolândia, Brazil)
+- 🇺🇸 🎤[HashiConf 2025](https://www.hashicorp.com/en/conferences/hashiconf) (Sep 2025 San Francisco, California)
 - 🌐🎤[HashiTalks Brasil](https://events.hashicorp.com/hashitalksbrasil) (Aug 2025 Online)
 
