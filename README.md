@@ -31,11 +31,11 @@ I actively submit (CfP) and speak at global conferences focused on Cloud Securit
 - 🇺🇸 🎤[HashiTalks 2026](https://hashitalks2026.splashthat.com/) (Feb 2026 Online)
 - 🇧🇷 🎤[SREDay Campinas 2026](https://sreday.com/) (Dec 2025 Hortolândia, Brazil)
 - 🇺🇸 🎤[HashiConf 2025](https://www.hashicorp.com/en/conferences/hashiconf) (Sep 2025 San Francisco, California)
-- 🌐🎤[HashiTalks Brasil](https://events.hashicorp.com/hashitalksbrasil) (Aug 2025 Online)
+- 🇧🇷🎤[HashiTalks Brasil](https://events.hashicorp.com/hashitalksbrasil) (Aug 2025 Online)
 
 ---
 ### 🚀 Featured GitHub Projects
 Here are some of my main GitHub projects focused on Cloud Security, DevSecOps, Terraform, and automation.
 
-- ☁️🇺🇸 [AWS Organizations Security Lab](https://github.com/amaurybsouza/aws-organizations-security-lab) (A practical lab documenting how to structure and secure multi-account AWS environments using AWS Organizations, OUs, and SCPs).
+- ☁️AWS Organizations Security Lab](https://github.com/amaurybsouza/aws-organizations-security-lab) (A practical lab documenting how to structure and secure multi-account AWS environments using AWS Organizations, OUs, and SCPs).
   - **Tech Stack:** AWS Organizations, Terraform, SCP, Cloud Governance
