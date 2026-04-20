@@ -12,6 +12,7 @@ Amaury is an active international conference speaker, presenting at events such 
 
 Beyond his professional work, Amaury shares his passion for cloud computing through his Medium profile, "The DevSecOps from Zero" He is also professor at [FIAP](https://www.fiap.com.br/) (MBA courses), education institution focused on technology and has contributed (co-author) of book publication “Carreira Dev” (Casa do Código, 2025).
 
+---
 ### 📝 Latest Medium Posts
 I regularly publish technical articles on Medium, focused on Cloud Security, DevSecOps, Terraform, and AI-driven security automation.
 Recent topics include:
@@ -22,6 +23,7 @@ Recent topics include:
 - Oct 05, 2025 - [Trivy + Terraform: Detectando Misconfigurations antes do deploy](https://amaurybsouza.medium.com/trivy-terraform-detectando-misconfigurations-antes-do-deploy-fe05ba72ee37).
 - Aug 25, 2025 - [DevSecOps na prática: pre-commit e TruffleHog](https://amaurybsouza.medium.com/devsecops-na-pr%C3%A1tica-prevenindo-commits-de-credenciais-aws-com-pre-commit-e-trufflehog-5094226ec9ad)
 
+---
 ### 🌍 International Conferences & Talks
 I actively submit (CfP) and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
 - 🇧🇷 🎤[Hashicorp User Group](https://luma.com/we7dx0so) (Apr 2026 Campinas, Brazil)
@@ -31,12 +33,10 @@ I actively submit (CfP) and speak at global conferences focused on Cloud Securit
 - 🇺🇸 🎤[HashiConf 2025](https://www.hashicorp.com/en/conferences/hashiconf) (Sep 2025 San Francisco, California)
 - 🌐🎤[HashiTalks Brasil](https://events.hashicorp.com/hashitalksbrasil) (Aug 2025 Online)
 
+---
 ### 🚀 Featured GitHub Projects
 Here are some of my main GitHub projects focused on Cloud Security, DevSecOps, Terraform, and automation.
 
----
-### ☁️ [AWS Organizations Security Lab](https://github.com/amaurybsouza/aws-organizations-security-lab)
+- ☁️ [AWS Organizations Security Lab](https://github.com/amaurybsouza/aws-organizations-security-lab)
 A practical lab documenting how to structure and secure multi-account AWS environments using AWS Organizations, OUs, and SCPs.
-**Tech Stack:** AWS Organizations, Terraform, SCP, Cloud Governance
-
----
+#### **Tech Stack:** AWS Organizations, Terraform, SCP, Cloud Governance
