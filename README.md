@@ -10,7 +10,7 @@ href="https://www.linkedin.com/company/hashicorp-user-group-campinas/" target="_
 
 Amaury is an active international conference speaker, presenting at events such as HashiTalks, HashiConf, AWS Summits, DevOpsDays, SREday, and security conferences across different regions. His talks focus on secure Terraform practices, policy as code, and building automated guardrails for modern cloud platforms.
 
-Beyond his professional work, Amaury shares his passion for cloud computing through his Medium profile, "The DevSecOps from Zero" He is also professor at [FIAP](https://www.fiap.com.br/) (MBA courses), education institution focused on technology and has contributed (co-author) of book publication “Carreira Dev” (Casa do Código, 2025).
+Beyond his professional work, Amaury shares his passion for cloud computing through his Medium profile, "The DevSecOps from Zero" He is also professor at [FIAP](https://www.fiap.com.br/) (MBA courses), education institution focused on technology and has contributed (co-author) of book publication [“Carreira Dev”](https://www.casadocodigo.com.br/products/livro-carreira-dev) (Casa do Código, 2025).
 
 ---
 ### 📝Latest Medium Posts
