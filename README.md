@@ -26,7 +26,8 @@ Recent topics include:
 ---
 ### 🌍International Conferences & Talks
 I actively submit (CfP) and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
-- 🇧🇷 🎤May 17, 2026: Speaking at [BSides SP](https://securitybsides.com.br/2026/) – To be announced. (São Paulo, SP)
+- 🇧🇷 🎤Aug 15, 2026: Speaking at [DevOps Days Rio de Janeiro 2026](https://devopsdays.org/events/2026-rio-de-janeiro/welcome/) – To be announced. (São Paulo, SP)
+- 🇧🇷 🎤May 17, 2026: Speaking at [BSides SP 2026](https://securitybsides.com.br/2026/) – To be announced. (São Paulo, SP)
 - 🇧🇷 🎤[Hashicorp User Group](https://luma.com/we7dx0so) (Apr 2026 Campinas, Brazil)
 - 🇧🇷 🎤[Esquenta BSides RJ 2026](https://hackinbrasil.com.br/meetup-25-03-2026/) (Mar 2026 Rio de Janeiro, Brazil)
 - 🇺🇸 🎤[HashiTalks 2026](https://hashitalks2026.splashthat.com/) (Feb 2026 Online)
