@@ -26,6 +26,7 @@ Recent topics include:
 ---
 ### 🌍International Conferences & Talks
 I actively submit (CfP) and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
+- 🇧🇷 🎤May 17, 2026: Speaking at [BSides SP](https://securitybsides.com.br/2026/) – To be announced. (São Paulo, SP)
 - 🇧🇷 🎤[Hashicorp User Group](https://luma.com/we7dx0so) (Apr 2026 Campinas, Brazil)
 - 🇧🇷 🎤[Esquenta BSides RJ 2026](https://hackinbrasil.com.br/meetup-25-03-2026/) (Mar 2026 Rio de Janeiro, Brazil)
 - 🇺🇸 🎤[HashiTalks 2026](https://hashitalks2026.splashthat.com/) (Feb 2026 Online)
@@ -36,7 +37,6 @@ I actively submit (CfP) and speak at global conferences focused on Cloud Securit
 ---
 ### 🔗Featured GitHub Projects
 Here are some of my main GitHub projects focused on Cloud Security, DevSecOps, Terraform, and automation.
-
 - [aws-organizations-security-lab](https://github.com/amaurybsouza/aws-organizations-security-lab) (A practical lab for AWS Organizations, OUs, and SCPs).
   - **Tech Stack:** AWS Organizations, Terraform, SCP, Cloud Governance
 - Mar 29, 2026: [aws-security-hack-in-rio-fiap](https://github.com/amaurybsouza/aws-security-hack-in-rio-fiap) (Hack in Rio 2026 Meetup).
