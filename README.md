@@ -38,7 +38,7 @@ I actively submit (CfP) and speak at global conferences focused on Cloud Securit
 ---
 ### 🔗Featured GitHub Projects
 Here are some of my main GitHub projects focused on Cloud Security, DevSecOps, Terraform, and automation.
-- [aws-organizations-security-lab](https://github.com/amaurybsouza/aws-organizations-security-lab) (A practical lab for AWS Organizations, OUs, and SCPs).
-- Mar 29, 2026: [aws-security-hack-in-rio-fiap](https://github.com/amaurybsouza/aws-security-hack-in-rio-fiap) (Hack in Rio 2026 Meetup).
+- [aws-organizations-security-lab](https://github.com/amaurybsouza/aws-organizations-security-lab); (A practical lab for AWS Organizations, OUs, and SCPs).
+- [aws-security-hack-in-rio-fiap](https://github.com/amaurybsouza/aws-security-hack-in-rio-fiap); (Hack in Rio 2026 Meetup).
 - [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam); (practice Terraform exam questions).
 - [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (helps you with the most commonly and used commands).
