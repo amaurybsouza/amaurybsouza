@@ -14,8 +14,8 @@ Beyond his professional work, Amaury shares his passion for cloud computing thro
 
 ### 🌍International Conferences, Talks & CFP's
 I actively submit (CfP) and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
-- 🇺🇸 📢CfP: DevOpsDays Denver — Secure Terraform Without Slowing Down Developers. (In Evaluation)
-- 🇺🇸 📢CfP: BSides Buffalo 2026 — Secure Terraform Without Slowing Down Developers. (In Evaluation)
+- 🇺🇸 📢CfP: [DevOpsDays Denver](https://devopsdays.org/events/2026-denver/welcome/) - Secure Terraform Without Slowing Down Developers. (In Evaluation)
+- 🇺🇸 📢CfP: [BSides Buffalo 2026](https://www.bsidesbuffalo.org/) - Secure Terraform Without Slowing Down Developers. (In Evaluation)
 - 🇧🇷 🎤Aug 15, 2026: Speaking at [DevOps Days Rio de Janeiro 2026](https://devopsdays.org/events/2026-rio-de-janeiro/welcome/) – To be announced. (São Paulo, SP)
 - 🇧🇷 🎤May 17, 2026: Speaking at [BSides SP 2026](https://securitybsides.com.br/2026/) – To be announced. (São Paulo, SP)
 - 🇧🇷 🎤[Hashicorp User Group](https://luma.com/we7dx0so) (Apr 2026 Campinas, Brazil)
@@ -33,18 +33,6 @@ Recent topics include:
 - 11/2025📝[Pensando em começar com Terraform? Aqui eu mostro o caminho das pedras](https://amaurybsouza.medium.com/pensando-em-come%C3%A7ar-com-terraform-aqui-eu-mostro-o-caminho-das-pedras-aa7270cf43b3)
 - 10/2025📝[Trivy + Terraform: Detectando Misconfigurations antes do deploy](https://amaurybsouza.medium.com/trivy-terraform-detectando-misconfigurations-antes-do-deploy-fe05ba72ee37).
 - 08/2025📝[DevSecOps na prática: pre-commit e TruffleHog](https://amaurybsouza.medium.com/devsecops-na-pr%C3%A1tica-prevenindo-commits-de-credenciais-aws-com-pre-commit-e-trufflehog-5094226ec9ad)
-
----
-### 🌍International Conferences & Talks
-I actively submit (CfP) and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
-- 🇧🇷 🎤Aug 15, 2026: Speaking at [DevOps Days Rio de Janeiro 2026](https://devopsdays.org/events/2026-rio-de-janeiro/welcome/) – To be announced. (São Paulo, SP)
-- 🇧🇷 🎤May 17, 2026: Speaking at [BSides SP 2026](https://securitybsides.com.br/2026/) – To be announced. (São Paulo, SP)
-- 🇧🇷 🎤[Hashicorp User Group](https://luma.com/we7dx0so) (Apr 2026 Campinas, Brazil)
-- 🇧🇷 🎤[Esquenta BSides RJ 2026](https://hackinbrasil.com.br/meetup-25-03-2026/) (Mar 2026 Rio de Janeiro, Brazil)
-- 🇺🇸 🎤[HashiTalks 2026](https://hashitalks2026.splashthat.com/) (Feb 2026 Online)
-- 🇧🇷 🎤[SREDay Campinas 2026](https://sreday.com/) (Dec 2025 Hortolândia, Brazil)
-- 🇺🇸 🎤[HashiConf 2025](https://www.hashicorp.com/en/conferences/hashiconf) (Sep 2025 San Francisco, California)
-- 🇧🇷🎤[HashiTalks Brasil](https://events.hashicorp.com/hashitalksbrasil) (Aug 2025 Online)
 
 ---
 ### 🔗Featured GitHub Projects
