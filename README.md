@@ -12,6 +12,17 @@ Amaury is an active international conference speaker, presenting at events such 
 
 Beyond his professional work, Amaury shares his passion for cloud computing through his Medium profile, "The DevSecOps from Zero" He is also professor at [FIAP](https://www.fiap.com.br/) (MBA courses), education institution focused on technology and has contributed (co-author) of book publication [“Carreira Dev”](https://www.casadocodigo.com.br/products/livro-carreira-dev) (Casa do Código, 2025).
 
+### 🌍International Conferences, Talks & CFP's
+I actively submit (CfP) and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
+- 🇺🇸 📢CfP: DevOpsDays Denver — Secure Terraform Without Slowing Down Developers. (In Evaluation)
+- 🇺🇸 📢CfP: BSides Buffalo 2026 — Secure Terraform Without Slowing Down Developers. (In Evaluation)
+- 🇧🇷 🎤Aug 15, 2026: Speaking at [DevOps Days Rio de Janeiro 2026](https://devopsdays.org/events/2026-rio-de-janeiro/welcome/) – To be announced. (São Paulo, SP)
+- 🇧🇷 🎤May 17, 2026: Speaking at [BSides SP 2026](https://securitybsides.com.br/2026/) – To be announced. (São Paulo, SP)
+- 🇧🇷 🎤[Hashicorp User Group](https://luma.com/we7dx0so) (Apr 2026 Campinas, Brazil)
+- 🇧🇷 🎤[Esquenta BSides RJ 2026](https://hackinbrasil.com.br/meetup-25-03-2026/) (Mar 2026 Rio de Janeiro, Brazil)
+- 🇺🇸 🎤[HashiTalks 2026](https://hashitalks2026.splashthat.com/) (Feb 2026 Online)
+- 🇧🇷 🎤[SREDay Campinas 2026](https://sreday.com/) (Dec 2025 Hortolândia, Brazil)
+  
 ---
 ### 📝Latest Medium Posts
 I regularly publish technical articles on Medium, focused on Cloud Security, DevSecOps, Terraform, and AI-driven security automation.
