@@ -27,12 +27,12 @@ I actively submit (CfP) and speak at global conferences focused on Cloud Securit
 ### 📝Latest Medium Posts
 I regularly publish technical articles on Medium, focused on Cloud Security, DevSecOps, Terraform, and AI-driven security automation.
 Recent topics include:
-- 03/2026📝 [Convite BSides RJ: Carimbei minha Presença](https://amaurybsouza.medium.com/convite-bsides-rj-carimbei-minha-presen%C3%A7a-3727a9655cc1)
-- 02/2026📝 [Security BSides 2026: Segurança, hacking e comunidade](https://amaurybsouza.medium.com/security-bsides-2026-seguran%C3%A7a-hacking-e-comunidade-d89ff54b687f)
-- 01/2026📝[Como se tornar um AWS Community Builder em 2026](https://amaurybsouza.medium.com/como-se-tornar-um-aws-community-builder-em-2026-bb8d00337697)
-- 11/2025📝[Pensando em começar com Terraform? Aqui eu mostro o caminho das pedras](https://amaurybsouza.medium.com/pensando-em-come%C3%A7ar-com-terraform-aqui-eu-mostro-o-caminho-das-pedras-aa7270cf43b3)
-- 10/2025📝[Trivy + Terraform: Detectando Misconfigurations antes do deploy](https://amaurybsouza.medium.com/trivy-terraform-detectando-misconfigurations-antes-do-deploy-fe05ba72ee37).
-- 08/2025📝[DevSecOps na prática: pre-commit e TruffleHog](https://amaurybsouza.medium.com/devsecops-na-pr%C3%A1tica-prevenindo-commits-de-credenciais-aws-com-pre-commit-e-trufflehog-5094226ec9ad)
+- 03/2026 [Convite BSides RJ: Carimbei minha Presença](https://amaurybsouza.medium.com/convite-bsides-rj-carimbei-minha-presen%C3%A7a-3727a9655cc1)
+- 02/2026 [Security BSides 2026: Segurança, hacking e comunidade](https://amaurybsouza.medium.com/security-bsides-2026-seguran%C3%A7a-hacking-e-comunidade-d89ff54b687f)
+- 01/2026 [Como se tornar um AWS Community Builder em 2026](https://amaurybsouza.medium.com/como-se-tornar-um-aws-community-builder-em-2026-bb8d00337697)
+- 11/2025 [Pensando em começar com Terraform? Aqui eu mostro o caminho das pedras](https://amaurybsouza.medium.com/pensando-em-come%C3%A7ar-com-terraform-aqui-eu-mostro-o-caminho-das-pedras-aa7270cf43b3)
+- 10/2025 [Trivy + Terraform: Detectando Misconfigurations antes do deploy](https://amaurybsouza.medium.com/trivy-terraform-detectando-misconfigurations-antes-do-deploy-fe05ba72ee37).
+- 08/2025 [DevSecOps na prática: pre-commit e TruffleHog](https://amaurybsouza.medium.com/devsecops-na-pr%C3%A1tica-prevenindo-commits-de-credenciais-aws-com-pre-commit-e-trufflehog-5094226ec9ad)
 
 ---
 ### 🔗Featured GitHub Projects
