@@ -12,7 +12,7 @@ Amaury is an active international conference speaker, presenting at events such 
 
 Beyond his professional work, Amaury shares his passion for cloud computing through his Medium profile, "The DevSecOps from Zero" He is also professor at [FIAP](https://www.fiap.com.br/) (MBA courses), education institution focused on technology and has contributed (co-author) of book publication [“Carreira Dev”](https://www.casadocodigo.com.br/products/livro-carreira-dev) (Casa do Código, 2025).
 
-### 🌍International Conferences, Talks & CFP's
+### 🌍International Conferences, (Talks & CFP's|)
 I actively submit (CfP) and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
 - 🇺🇸 📢CfP: [DevOpsDays Denver](https://devopsdays.org/events/2026-denver/welcome/) - Secure Terraform Without Slowing Down Developers. (In Evaluation)
 - 🇧🇷 🎤Aug 15, 2026: Speaking at [DevOps Days Rio de Janeiro 2026](https://devopsdays.org/events/2026-rio-de-janeiro/welcome/) – To be announced. (São Paulo, SP)
