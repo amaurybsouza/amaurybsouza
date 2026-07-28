@@ -14,6 +14,7 @@ Beyond his professional work, Amaury shares his passion for cloud computing thro
 
 ### 🌍International Conferences, (Talks & CFP's)
 I actively submit (CfP) and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
+- 🇺🇸 🎤CfP approved: [DevOpsDays Lima](https://devopsdays.org/events/2026-lima/welcome/) - Terraform at Scale: Security Without Friction.
 - 🇺🇸 📢CfP: [DevOpsDays Denver](https://devopsdays.org/events/2026-denver/welcome/) - Secure Terraform Without Slowing Down Developers. (In Evaluation)
 - 🇧🇷 🎤Aug 15, 2026: Speaking at [DevOps Days Rio de Janeiro 2026](https://devopsdays.org/events/2026-rio-de-janeiro/welcome/) – To be announced. (São Paulo, SP)
 - 🇧🇷 🎤May 17, 2026: Speaking at [BSides SP 2026](https://securitybsides.com.br/2026/) – To be announced. (São Paulo, SP)
