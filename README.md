@@ -1,4 +1,4 @@
-## Hi👏👏 welcome!! 
+## Hi, welcome!! :)
 
 ![image](https://github.com/amaurybsouza/amaurybsouza/blob/master/pix05.png)
 <a href="https://amaurybsouza.github.io/website/"><img src="https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=about.me&logoColor=white" /><a/><a 
