@@ -10,7 +10,7 @@ href="https://www.linkedin.com/company/hashicorp-user-group-campinas/" target="_
 
 Amaury is an active security engineer specialist & technical speaker, presenting at events such as HashiTalks, HashiConf, AWS Summits, DevOps Days, SREday, and security conferences across different regions. His talks focus on secure practices, policy as code, and building automated guardrails for modern cloud platforms. You can check my [speaker profile](https://speakerdeck.com/amaurybsouza).
 
-Beyond his professional work, Amaury shares his passion for cloud computing through his Medium profile, "The DevSecOps from Zero" He is also professor at [FIAP](https://www.fiap.com.br/) (MBA courses), education institution focused on technology and has contributed (co-author) of book publication [“Carreira Dev”](https://www.casadocodigo.com.br/products/livro-carreira-dev) (Casa do Código, 2025).
+Beyond his professional work, Amaury is passionate about sharing knowledge and developing the next generation of technology professionals. He works as a Professor at [FIAP](https://www.fiap.com.br/mba/), teaching MBA courses focused on technology, and as a Technical Instructor, creating hands-on learning experiences in AIOps career.
 
 ### 🌍International Conferences, (Talks & CFP's)
 I actively submit (CfP) and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
@@ -19,7 +19,6 @@ I actively submit (CfP) and speak at global conferences focused on Cloud Securit
 - 🇧🇷 🎤Aug 15, 2026: Speaking at [DevOps Days Rio de Janeiro 2026](https://devopsdays.org/events/2026-rio-de-janeiro/welcome/) – To be announced. (São Paulo, SP)
 - 🇧🇷 🎤May 17, 2026: Speaking at [BSides SP 2026](https://securitybsides.com.br/2026/) – To be announced. (São Paulo, SP)
 - 🇧🇷 🎤[Hashicorp User Group](https://luma.com/we7dx0so) (Apr 2026 Campinas, Brazil)
-- 🇧🇷 🎤[Esquenta BSides RJ 2026](https://hackinbrasil.com.br/meetup-25-03-2026/) (Mar 2026 Rio de Janeiro, Brazil)
 - 🇺🇸 🎤[HashiTalks 2026](https://hashitalks2026.splashthat.com/) (Feb 2026 Online)
     
 ---
