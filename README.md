@@ -13,17 +13,6 @@ Amaury is an active security engineer specialist & technical speaker, presenting
 Beyond his professional work, Amaury is passionate about sharing knowledge and developing the next generation of technology professionals. He works as a Professor at [FIAP](https://www.fiap.com.br/mba/), teaching MBA courses focused on technology, and as a Technical Instructor, creating hands-on learning experiences in AIOps career.
 
 ---
-### 📝Latest Medium Posts
-I regularly publish technical articles on Medium, focused on Cloud Security, AIOps, Terraform, and AI-driven security automation.
-Recent topics include:
-- 08/2026 [Road To Community Day Bolivia 2026 | Día 4](https://amaurybsouza.medium.com/road-to-community-day-bolivia-2026-d%C3%ADa-4-88421792d7f1)
-- 03/2026 [Convite BSides RJ: Carimbei minha Presença](https://amaurybsouza.medium.com/convite-bsides-rj-carimbei-minha-presen%C3%A7a-3727a9655cc1)
-- 02/2026 [Security BSides 2026: Segurança, hacking e comunidade](https://amaurybsouza.medium.com/security-bsides-2026-seguran%C3%A7a-hacking-e-comunidade-d89ff54b687f)
-- 01/2026 [Como se tornar um AWS Community Builder em 2026](https://amaurybsouza.medium.com/como-se-tornar-um-aws-community-builder-em-2026-bb8d00337697)
-- 11/2025 [Pensando em começar com Terraform? Aqui eu mostro o caminho das pedras](https://amaurybsouza.medium.com/pensando-em-come%C3%A7ar-com-terraform-aqui-eu-mostro-o-caminho-das-pedras-aa7270cf43b3)
-- 10/2025 [Trivy + Terraform: Detectando Misconfigurations antes do deploy](https://amaurybsouza.medium.com/trivy-terraform-detectando-misconfigurations-antes-do-deploy-fe05ba72ee37).
-  
----
 ### 🔗Featured GitHub Projects
 Here are some of my main GitHub projects focused on Cloud Security, DevSecOps, Terraform, and automation.
 - [aws-security-incident-response-lab](https://github.com/amaurybsouza/aws-security-incident-response-lab); (how to manage security incidents in AWS environments).
