@@ -12,16 +12,6 @@ Amaury is an active security engineer specialist & technical speaker, presenting
 
 Beyond his professional work, Amaury is passionate about sharing knowledge and developing the next generation of technology professionals. He works as a Professor at [FIAP](https://www.fiap.com.br/mba/), teaching MBA courses focused on technology, and as a Technical Instructor, creating hands-on learning experiences in AIOps career.
 
-### 🌍International Conferences, (Talks & CFP's)
-I actively submit (CfP) and speak at global conferences focused on Cloud Security, DevSecOps, Terraform, and AI-driven security.
-- 🇺🇸 🎤Oct 26-29, 2026: Speaking at [IBM TechXchange 2026](https://www.ibm.com/events/techxchange) (Atlanta, GE)
-- 🇺🇸 🎤Aug 27-28, 2026: Speaking at [DevOpsDays Lima](https://devopsdays.org/events/2026-lima/welcome/) - Terraform at Scale: Security Without Friction.
-- 🇺🇸 📢CfP: [DevOpsDays Denver](https://devopsdays.org/events/2026-denver/welcome/) - Secure Terraform Without Slowing Down Developers. (In Evaluation)
-- 🇧🇷 🎤Aug 15, 2026: Speaking at [DevOps Days Rio de Janeiro 2026](https://devopsdays.org/events/2026-rio-de-janeiro/welcome/) – To be announced. (São Paulo, SP)
-- 🇧🇷 🎤May 17, 2026: Speaking at [BSides SP 2026](https://securitybsides.com.br/2026/) – To be announced. (São Paulo, SP)
-- 🇧🇷 🎤[Hashicorp User Group](https://luma.com/we7dx0so) (Apr 2026 Campinas, Brazil)
-- 🇺🇸 🎤[HashiTalks 2026](https://hashitalks2026.splashthat.com/) (Feb 2026 Online)
-    
 ---
 ### 📝Latest Medium Posts
 I regularly publish technical articles on Medium, focused on Cloud Security, AIOps, Terraform, and AI-driven security automation.
